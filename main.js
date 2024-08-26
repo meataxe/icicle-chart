@@ -53,6 +53,4 @@ function initChart(data) {
   d3.select('#icicle-container').append(svg.node());  
 }
 
-document.addEventListener("DOMContentLoaded", function(arg) {
-    await init();
-});
+document.addEventListener("DOMContentLoaded", async (arg) => { await init(); }, false);
