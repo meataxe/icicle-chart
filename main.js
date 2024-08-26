@@ -1,6 +1,8 @@
 function init () {
-  const data = fetchSourceData();
+  const data = await fetchSourceData();
   console.log(data);
+
+  initChart(data);
 }
 
 function fetchSourceData() {
@@ -16,7 +18,7 @@ function fetchSourceData() {
     .catch((error) => console.error("Unable to fetch data:", error));
 }
 
-function initChart() {
+function initChart(data) {
   // Declare the chart dimensions and margins.
   const width = 640;
   const height = 400;
