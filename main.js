@@ -1,5 +1,6 @@
 function init () {
   const data = fetchSourceData();
+  console.log(data);
 }
 
 function fetchSourceData() {
@@ -9,9 +10,9 @@ function fetchSourceData() {
         throw new Error(`HTTP error! Status: ${res.status}`);
       }
       
-      return res.json();
+      return res.json()[0];
     })
-    .then((data) => console.log(data))
+    //.then((data) => console.log(data))
     .catch((error) => console.error("Unable to fetch data:", error));
 }
 
