@@ -51,7 +51,7 @@ function initChart() {
       .call(d3.axisLeft(y));
   
   // Append the SVG element.
-  document.getElementById('icicle-container').append(svg.node());  
+  d3.select('#icicle-container').append(svg.node());  
 }
 
 document.addEventListener("DOMContentLoaded", function(arg) {
