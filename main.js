@@ -1,21 +1,18 @@
-function init () {
+async function init () {
   const data = await fetchSourceData();
   console.log(data);
 
   initChart(data);
 }
 
-function fetchSourceData() {
-  fetch("./heirarchy-data.json")
-    .then((res) => {
-      if (!res.ok) {
-        throw new Error(`HTTP error! Status: ${res.status}`);
-      }
-      
-      return res.json()[0];
-    })
-    //.then((data) => console.log(data))
-    .catch((error) => console.error("Unable to fetch data:", error));
+async function fetchSourceData() {
+  try {
+    const response = await fetch('./heirarchy-data.json');
+    return await response.json()[0];
+  } 
+  catch (error) {
+    console.error("Unable to fetch data:", error);
+  }
 }
 
 function initChart(data) {
@@ -57,5 +54,5 @@ function initChart(data) {
 }
 
 document.addEventListener("DOMContentLoaded", function(arg) {
-    init();
+    await init();
 });
