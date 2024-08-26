@@ -4,7 +4,7 @@ function init () {
 
 function fetchSourceData() {
   fetch("./heirarchy-data.json")
-    then((res) => {
+    .then((res) => {
       if (!res.ok) {
         throw new Error(`HTTP error! Status: ${res.status}`);
       }
