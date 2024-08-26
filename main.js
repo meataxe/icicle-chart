@@ -8,7 +8,8 @@ async function init () {
 async function fetchSourceData() {
   try {
     const response = await fetch('./heirarchy-data.json');
-    return await response.json()[0];
+    var json = await response.json();
+    return json[0];
   } 
   catch (error) {
     console.error("Unable to fetch data:", error);
