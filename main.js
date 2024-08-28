@@ -58,15 +58,18 @@ function initIcicleChart(data, getValue) {
   text.append("tspan")
       .text(d => d.data.name);
 
-  const selectedValue = getValue(d);
   const format = d3.format(",d");
   const tspan = text.append("tspan")
       .attr("fill-opacity", d => labelVisible(d) * 0.7)
-      //.text(d => ` ${format(getValue(d))}`);
-      .text(d => ` ${format(selectedValue)}`);
+      .text(d => {
+        const selectedValue = getValue(d);
+        return ` ${format(selectedValue)}`;
+      });      
 
-  //cell.append("title").text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(getValue(d))}`);
-  cell.append("title").text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(selectedValue)}`);
+  cell.append("title").text(d => {
+    const selectedValue = getValue(d);
+    return `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(selectedValue)}`;
+  });  
 
   // On click, change the focus and transitions it into view.
   let focus = root;
