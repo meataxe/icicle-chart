@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Enterprise",
+        "dataid": 2000,
+        "countofitems": 9040,
+        "sizeofallversions": 2790523068350,
+        "children": [
+            {
+                "name": "Crown Asset Management",
+                "dataid": 262739,
+                "countofitems": 35,
+                "sizeofallversions": 10396133,
+                "children": [
+                    {
+                        "name": "Whirinaki",
+                        "dataid": 255480,
+                        "countofitems": 34,
+                        "sizeofallversions": 10396133
+                    }
+                ]
+            },
+            {
+                "name": "Crown Entity and Board Performance",
+                "dataid": 599221,
+                "countofitems": 9003,
+                "sizeofallversions": 3176943715,
+                "children": [
+                    {
+                        "name": "Accreditation Council",
+                        "dataid": 23689151,
+                        "countofitems": 5000,
+                        "sizeofallversions": 9806229
+                    },
+                    {
+                        "name": "AgResearch",
+                        "dataid": 7560496,
+                        "countofitems": 2000,
+                        "sizeofallversions": 101567287
+                    },
+                    {
+                        "name": "Building Practitioners Board",
+                        "dataid": 17953951,
+                        "countofitems": 2000,
+                        "sizeofallversions": 16486259
+                    }
+				]
+			}
+		]
+	}
+]
