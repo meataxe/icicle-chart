@@ -1,6 +1,6 @@
 async function init () {
-  //const data = await fetchSourceData('./heirarchy-data.json');
-  const data = await fetchSourceData('./heirarchy-data-mini.json');
+  const data = await fetchSourceData('./heirarchy-data.json');
+  //const data = await fetchSourceData('./heirarchy-data-mini.json');
   console.log(data);
 
   //initExampleChart(data);
