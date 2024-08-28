@@ -61,7 +61,8 @@ function initIcicleChart(data, getValue) {
   const format = d3.format(",d");
   const tspan = text.append("tspan")
       .attr("fill-opacity", d => labelVisible(d) * 0.7)
-      .text(d => ` ${format(getValue(d))}`);
+      //.text(d => ` ${format(getValue(d))}`);
+      .text(d => ` ${format(100)}`);
 
   cell.append("title")
       .text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(getValue(d))}`);
