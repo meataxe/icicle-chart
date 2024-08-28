@@ -3,10 +3,10 @@ async function init () {
   console.log(data);
 
   //initExampleChart(data);
-  initIcicleChart(data);
+  initIcicleChart(data, (item) => item.countofitems);
 }
 
-function initIcicleChart(data) {
+function initIcicleChart(data, getValue) {
   // Specify the chart’s dimensions.
   const width = 928;
   const height = 1200;
@@ -16,8 +16,8 @@ function initIcicleChart(data) {
 
   // Compute the layout.
   const hierarchy = d3.hierarchy(data)
-      .sum(d => d.value)
-      .sort((a, b) => b.height - a.height || b.value - a.value);
+      .sum(d => getValue(d))
+      .sort((a, b) => b.height - a.height || getValue(b) - getValue(a));
   const root = d3.partition()
       .size([height, (hierarchy.height + 1) * width / 3])
     (hierarchy);
@@ -61,10 +61,10 @@ function initIcicleChart(data) {
   const format = d3.format(",d");
   const tspan = text.append("tspan")
       .attr("fill-opacity", d => labelVisible(d) * 0.7)
-      .text(d => ` ${format(d.value)}`);
+      .text(d => ` ${format(getValue(d))}`);
 
   cell.append("title")
-      .text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(d.value)}`);
+      .text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(getValue(d))}`);
 
   // On click, change the focus and transitions it into view.
   let focus = root;
