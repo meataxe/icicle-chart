@@ -1,5 +1,6 @@
 async function init () {
-  const data = await fetchSourceData();
+  //const data = await fetchSourceData('./heirarchy-data.json');
+  const data = await fetchSourceData('./heirarchy-data-mini.json');
   console.log(data);
 
   //initExampleChart(data);
@@ -97,9 +98,9 @@ function initIcicleChart(data, getValue) {
   //return svg.node();
 }
 
-async function fetchSourceData() {
+async function fetchSourceData(fileName) {
   try {
-    const response = await fetch('./heirarchy-data.json');
+    const response = await fetch(fileName);
     var json = await response.json();
     return json[0];
   } 
