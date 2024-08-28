@@ -4,7 +4,18 @@ async function init () {
   console.log(data);
 
   //initExampleChart(data);
-  initIcicleChart(data, (item) => item.countofitems);
+  initIcicleChart(data, getCountOfItems);
+}
+
+function getCountOfItems(parent) {
+  // this is the count of all content under this item across all levels
+  // but d3.hierarchy only wants the immediate child count
+  // note we can't just count the number of children, because the children 
+  // array does not include any non-folder items.
+  const totalCount = item.countofitems;   
+  const countOfNonImmediateChildren = item.children.reduce((partialSum, c) => partialSum + c.countofitems, 0);
+
+  return totalCount - countOfNonImmediateChildren;
 }
 
 function initIcicleChart(data, getValue) {
