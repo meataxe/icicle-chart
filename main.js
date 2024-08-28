@@ -12,8 +12,8 @@ function getCountOfItems(parent) {
   // but d3.hierarchy only wants the immediate child count
   // note we can't just count the number of children, because the children 
   // array does not include any non-folder items.
-  const totalCount = item.countofitems;   
-  const countOfNonImmediateChildren = item.children.reduce((partialSum, c) => partialSum + c.countofitems, 0);
+  const totalCount = parent.countofitems;   
+  const countOfNonImmediateChildren = parent.children.reduce((partialSum, c) => partialSum + c.countofitems, 0);
 
   return totalCount - countOfNonImmediateChildren;
 }
