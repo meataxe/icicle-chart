@@ -13,7 +13,9 @@ function getCountOfItems(parent) {
   // note we can't just count the number of children, because the children 
   // array does not include any non-folder items.
   const totalCount = parent.countofitems;   
-  const countOfNonImmediateChildren = parent.children.reduce((partialSum, c) => partialSum + c.countofitems, 0);
+  const countOfNonImmediateChildren = parent.children.reduce((partialSum, c) => {
+    return partialSum + c.countofitems;
+  }, 0);
 
   return totalCount - countOfNonImmediateChildren;
 }
