@@ -3,21 +3,8 @@ async function init () {
   //const data = await fetchSourceData('./heirarchy-data-mini.json');
   console.log(data);
 
-  //initExampleChart(data);
-  initIcicleChart(data, getCountOfItems);
-}
-
-function getCountOfItems(parent) {
-  // this is the count of all content under this item across all levels
-  // but d3.hierarchy only wants the immediate child count
-  // note we can't just count the number of children, because the children 
-  // array does not include any non-folder items.
-  const totalCount = parent.countofitems;   
-  const countOfNonImmediateChildren = parent.children.reduce((partialSum, c) => {
-    return partialSum + c.countofitems;
-  }, 0);
-
-  return totalCount - countOfNonImmediateChildren;
+  //initExampleChart(data);  
+  initIcicleChart(data, (i) => i.countofitems); // todo: fix count of items, so it is only count of immediate children (apart from lowest level folders)
 }
 
 function initIcicleChart(data, getValue) {
