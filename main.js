@@ -1,7 +1,15 @@
 async function init () {
-  const data = await fetchSourceData('./heirarchy-data.json');
+  //const data = await fetchSourceData('./heirarchy-data.json');
   //const data = await fetchSourceData('./heirarchy-data-mini.json');
+
+  const table = await fetchSourceData('./heirarchy.csv')
+  const data = d3.stratify()
+                  .id((d) => d.Name)
+                  .parentId((d) => d.ParentID)(table);
+  
   console.log(data);
+
+  return;
 
   //initExampleChart(data);  
   initIcicleChart(data, (i) => i.countofitems); // todo: fix count of items, so it is only count of immediate children (apart from lowest level folders)
