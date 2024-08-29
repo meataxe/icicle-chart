@@ -1,11 +1,17 @@
 async function init () {
   const dataFromJson = await fetchSourceJson('./heirarchy-data.json');
   //const dataFromJson = await fetchSourceJson('./heirarchy-data-mini.json');
+  //console.log(dataFromJson);
 
-  console.log(dataFromJson);
+  const select = document.getElementById('heirarchy-metric');
+  select.addEventListener('click', ({ target }) => { // handler fires on root container click
+    if (target.getAttribute('name') === 'btn-metric') { // check if user clicks right element
+      initIcicleChart(dataFromJson, (i) => i[target.value]);
+    }
+  });
 
-  //initExampleChart(dataFromJson);  
-  initIcicleChart(dataFromJson, (i) => i.countofitems); // todo: fix count of items, so it is only count of immediate children (apart from lowest level folders)
+  const metricName = document.querySelector('input[name="btn-metric"]:checked').value;
+  initIcicleChart(dataFromJson, (i) => i[metricName]);
 }
 
 function initIcicleChart(data, getValue) {
@@ -95,8 +101,8 @@ function initIcicleChart(data, getValue) {
     return d.y1 <= width && d.y0 >= 0 && d.x1 - d.x0 > 16;
   }
 
-  d3.select('#icicle-container').node().appendChild(svg.node());
-  //return svg.node();
+  document.getElementById('#icicle-container').innerHTML = "";
+  d3.select('#icicle-container').node().appendChild(svg.node());  
 }
 
 async function fetchSourceJson(fileName) {
@@ -108,44 +114,6 @@ async function fetchSourceJson(fileName) {
   catch (error) {
     console.error("Unable to fetch data:", error);
   }
-}
-
-function initExampleChart(data) {
-  // Declare the chart dimensions and margins.
-  const width = 640;
-  const height = 400;
-  const marginTop = 20;
-  const marginRight = 20;
-  const marginBottom = 30;
-  const marginLeft = 40;
-  
-  // Declare the x (horizontal position) scale.
-  const x = d3.scaleUtc()
-      .domain([new Date("2023-01-01"), new Date("2024-01-01")])
-      .range([marginLeft, width - marginRight]);
-  
-  // Declare the y (vertical position) scale.
-  const y = d3.scaleLinear()
-      .domain([0, 100])
-      .range([height - marginBottom, marginTop]);
-  
-  // Create the SVG container.
-  const svg = d3.create("svg")
-      .attr("width", width)
-      .attr("height", height);
-  
-  // Add the x-axis.
-  svg.append("g")
-      .attr("transform", `translate(0,${height - marginBottom})`)
-      .call(d3.axisBottom(x));
-  
-  // Add the y-axis.
-  svg.append("g")
-      .attr("transform", `translate(${marginLeft},0)`)
-      .call(d3.axisLeft(y));
-  
-  // Append the SVG element.
-  d3.select('#icicle-container').node().appendChild(svg.node());  
 }
 
 document.addEventListener("DOMContentLoaded", async (arg) => { await init(); }, false);
