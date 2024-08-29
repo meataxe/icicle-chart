@@ -1,0 +1,527 @@
+﻿-1,2000,Enterprise,Enterprise,1,28,0
+2000,262739,Crown Asset Management,Enterprise:Crown Asset Management,2,1,0
+2000,599221,Crown Entity and Board Performance,Enterprise:Crown Entity and Board Performance,2,50,0
+2000,262741,Enforcement and Monitoring of Legislation,Enterprise:Enforcement and Monitoring of Legislation,2,52,0
+2000,262742,Governance and Strategy,Enterprise:Governance and Strategy,2,38,22
+2000,599265,Grants and Funds Management,Enterprise:Grants and Funds Management,2,8,0
+2000,262744,"Licensing, Permits and Registration","Enterprise:Licensing, Permits and Registration",2,11,0
+2000,197355,MAKO Utilities,Enterprise:MAKO Utilities,2,7,0
+2000,81663789,Petroleum and Minerals (merge the content into the other L2 structure),Enterprise:Petroleum and Minerals (merge the content into the other L2 structure),2,1,0
+2000,81954480,Petroleum and Minerals Perms V2 (all levels) (To Keep this structure),Enterprise:Petroleum and Minerals Perms V2 (all levels) (To Keep this structure),2,1,0
+2000,74863897,Pike River Recovery Agency,Enterprise:Pike River Recovery Agency,2,13,0
+2000,262745,"Policy Advice, Regulation and Standards","Enterprise:Policy Advice, Regulation and Standards",2,63,0
+2000,25076392,Published Information,Enterprise:Published Information,2,6,0
+2000,81163143,Team Workspaces,Enterprise:Team Workspaces,2,2,0
+2000,12616206,WorkSafe New Zealand,Enterprise:WorkSafe New Zealand,2,0,0
+2000,4505909,xBuilding and Housing,Enterprise:xBuilding and Housing,2,18,0
+2000,45357185,xCERA,Enterprise:xCERA,2,6,0
+2000,9917760,xDepartment of Labour,Enterprise:xDepartment of Labour,2,11,0
+2000,277151,xEconomic Development After 1/1/2007,Enterprise:xEconomic Development After 1/1/2007,2,21,0
+2000,560843,xEconomic Development Before 1/1/2007,Enterprise:xEconomic Development Before 1/1/2007,2,14,0
+2000,11826037,"xFoundation for Research, Science and Technology","Enterprise:xFoundation for Research, Science and Technology",2,4,0
+2000,81652357,xINSITE (Closed),Enterprise:xINSITE (Closed),2,18,0
+2000,9025637,xMinistry of Research Science and Technology,Enterprise:xMinistry of Research Science and Technology,2,26,0
+2000,7830362,xMinistry of Science and Innovation,Enterprise:xMinistry of Science and Innovation,2,27,0
+2000,45583211,xStandards NZ Library,Enterprise:xStandards NZ Library,2,2,0
+2000,243772,Z_Administrative Links,Enterprise:Z_Administrative Links,2,24,968
+2000,81157461,z_SP_Teams,Enterprise:z_SP_Teams,2,5,0
+2000,81203633,zArchived Sharepoint ON Line AGA,Enterprise:zArchived Sharepoint ON Line AGA,2,15,0
+2000,510548,zzTesting,Enterprise:zzTesting,2,54,8109521
+510548,73081100,_UAT test folder area (Level 2),Enterprise:zzTesting:_UAT test folder area (Level 2),3,644,356985989
+510548,30211778,10.5 test folder,Enterprise:zzTesting:10.5 test folder,3,41,5660975
+510548,81094508,2015 October Techtonics Testing Copy,Enterprise:zzTesting:2015 October Techtonics Testing Copy,3,972,279558507
+510548,81417307,Alex Structure,Enterprise:zzTesting:Alex Structure,3,4272,3052595617
+510548,64343887,Appraised Content,Enterprise:zzTesting:Appraised Content,3,10112,5535251071
+510548,82569902,Atturra,Enterprise:zzTesting:Atturra,3,11,1339782
+510548,22934384,Consenting Excellence Programme,Enterprise:zzTesting:Consenting Excellence Programme,3,3,0
+510548,81220541,CS Mobile UAT Test,Enterprise:zzTesting:CS Mobile UAT Test,3,0,0
+510548,81220430,CSM UAT Test 2,Enterprise:zzTesting:CSM UAT Test 2,3,0,0
+510548,28190018,Doktrak,Enterprise:zzTesting:Doktrak,3,0,0
+510548,82484067,ExampleImport,Enterprise:zzTesting:ExampleImport,3,5,6949346
+510548,82484177,ExampleImport2,Enterprise:zzTesting:ExampleImport2,3,5,6949346
+510548,65049401,Folder Creation Demo,Enterprise:zzTesting:Folder Creation Demo,3,7,238681
+510548,81212757,Folder Creation Demo Copy to test classifications,Enterprise:zzTesting:Folder Creation Demo Copy to test classifications,3,4,238681
+510548,82448270,FSI Demo,Enterprise:zzTesting:FSI Demo,3,2,9117
+510548,1416248,FW  For Your MAKO Training,Enterprise:zzTesting:FW  For Your MAKO Training,3,0,0
+510548,81322270,FW  MAKO [IN-CONFIDENCE RELEASE EXTERNAL],Enterprise:zzTesting:FW  MAKO [IN-CONFIDENCE RELEASE EXTERNAL],3,0,0
+510548,81653463,groups,Enterprise:zzTesting:groups,3,0,0
+510548,82217551,HTML DASHBOARD POC,Enterprise:zzTesting:HTML DASHBOARD POC,3,78,34396294
+510548,81481697,INSITE Workshop,Enterprise:zzTesting:INSITE Workshop,3,2,18453
+510548,82056984,Jacob's test folder,Enterprise:zzTesting:Jacob's test folder,3,45,35326560
+510548,81255339,level 3 folder create test,Enterprise:zzTesting:level 3 folder create test,3,11,1438163
+510548,68368255,Licensing,Enterprise:zzTesting:Licensing,3,38,0
+510548,78116534,Loraine,Enterprise:zzTesting:Loraine,3,26,91063
+510548,77030231,Mako Support Reports - UAT,Enterprise:zzTesting:Mako Support Reports - UAT,3,5,127542
+510548,25316520,Managing Information and Data,Enterprise:zzTesting:Managing Information and Data,3,48,0
+510548,81619660,Mark - Atturra,Enterprise:zzTesting:Mark - Atturra,3,10145,5544446573
+510548,72237277,MBIE Record and GDA6 - all primary,Enterprise:zzTesting:MBIE Record and GDA6 - all primary,3,0,0
+510548,72284168,MBIE Record Superceded and new MBIE class - all primary,Enterprise:zzTesting:MBIE Record Superceded and new MBIE class - all primary,3,0,0
+510548,82352563,MFS,Enterprise:zzTesting:MFS,3,47,325500961
+510548,81323110,Next Mako 20.4 test 30/11,Enterprise:zzTesting:Next Mako 20.4 test 30/11,3,1,0
+510548,72174230,Nintex Testing,Enterprise:zzTesting:Nintex Testing,3,0,0
+510548,81156355,Office365 Workspace Testing,Enterprise:zzTesting:Office365 Workspace Testing,3,4,18536
+510548,67248185,One Note test,Enterprise:zzTesting:One Note test,3,3,13528
+510548,80267199,Performance Testing - Techtonics,Enterprise:zzTesting:Performance Testing - Techtonics,3,3,1401582
+510548,81255340,PRRA test folder created at level 3,Enterprise:zzTesting:PRRA test folder created at level 3,3,0,0
+510548,81952869,Recycle Bin,Enterprise:zzTesting:Recycle Bin,3,11,110581
+510548,80359404,Scanning and Saving PDF into MAKO,Enterprise:zzTesting:Scanning and Saving PDF into MAKO,3,0,0
+510548,80359407,storage proivder change test 2,Enterprise:zzTesting:storage proivder change test 2,3,0,0
+510548,81088439,storage proivder change test 21,Enterprise:zzTesting:storage proivder change test 21,3,0,0
+510548,75664721,Test 2,Enterprise:zzTesting:Test 2,3,43,2322921
+510548,81190358,Test ActiveViews Folder,Enterprise:zzTesting:Test ActiveViews Folder,3,10,2723390
+510548,81263864,Test Class.01 - Testing docs - disposal in UAT,Enterprise:zzTesting:Test Class.01 - Testing docs - disposal in UAT,3,2,433015
+510548,81416820,Test Collection,Enterprise:zzTesting:Test Collection,3,0,0
+510548,81218560,test discussion,Enterprise:zzTesting:test discussion,3,2,0
+510548,81255341,Test for level 3 PRRA folder,Enterprise:zzTesting:Test for level 3 PRRA folder,3,1,29318
+510548,81255342,UAT test folder area (level 3),Enterprise:zzTesting:UAT test folder area (level 3),3,124,299481930
+510548,63726989,UI Widgets,Enterprise:zzTesting:UI Widgets,3,17,261728
+510548,6624191,Update 1 - System Testing,Enterprise:zzTesting:Update 1 - System Testing,3,43,5176583
+510548,81220212,Wiki test,Enterprise:zzTesting:Wiki test,3,4,179058
+510548,52709425,Workflow development,Enterprise:zzTesting:Workflow development,3,3055,2534487340
+510548,12144453,Workflow Testing,Enterprise:zzTesting:Workflow Testing,3,1397,4730345
+510548,71215919,Workflow training,Enterprise:zzTesting:Workflow training,3,65,864826
+510548,55883952,Workflows,Enterprise:zzTesting:Workflows,3,2258,455854833
+81203633,81649828,Demo AGA based on Rules,Enterprise:zArchived Sharepoint ON Line AGA:Demo AGA based on Rules,3,135,625330783
+81203633,81952983,Demo structure,Enterprise:zArchived Sharepoint ON Line AGA:Demo structure,3,22,673289
+81203633,81882514,Dynamics365 Archiving Testing,Enterprise:zArchived Sharepoint ON Line AGA:Dynamics365 Archiving Testing,3,24,1305520
+81203633,81498890,NZTE Test Container,Enterprise:zArchived Sharepoint ON Line AGA:NZTE Test Container,3,0,0
+81203633,81232358,Old one do not use WKG-INTzzBaldrick,Enterprise:zArchived Sharepoint ON Line AGA:Old one do not use WKG-INTzzBaldrick,3,17,20105195
+81203633,81882513,OneDrive Archive Test,Enterprise:zArchived Sharepoint ON Line AGA:OneDrive Archive Test,3,0,0
+81203633,82020492,Pitau Demo Test,Enterprise:zArchived Sharepoint ON Line AGA:Pitau Demo Test,3,8,804601
+81203633,81475430,Shared Documents,Enterprise:zArchived Sharepoint ON Line AGA:Shared Documents,3,76,489766309
+81203633,81496352,Site Archiving,Enterprise:zArchived Sharepoint ON Line AGA:Site Archiving,3,7,19426442
+81203633,82095183,Subfolder Test,Enterprise:zArchived Sharepoint ON Line AGA:Subfolder Test,3,14,2410291
+81203633,81239839,Test inheritance,Enterprise:zArchived Sharepoint ON Line AGA:Test inheritance,3,0,0
+81203633,81475650,WKG-INTzzBaldrick,Enterprise:zArchived Sharepoint ON Line AGA:WKG-INTzzBaldrick,3,6,98270
+81203633,81609034,woc,Enterprise:zArchived Sharepoint ON Line AGA:woc,3,87,948506155
+81203633,81528114,zLord Flashheart Team,Enterprise:zArchived Sharepoint ON Line AGA:zLord Flashheart Team,3,13,1487659
+81203633,81246986,zzKing Kong limited [123456789012],Enterprise:zArchived Sharepoint ON Line AGA:zzKing Kong limited [123456789012],3,9,2850009
+81157461,81481049,EXTCOREProject,Enterprise:z_SP_Teams:EXTCOREProject,3,8,241459
+81157461,81482358,EXTTTMAKOWorkstream,Enterprise:z_SP_Teams:EXTTTMAKOWorkstream,3,18,10371787
+81157461,81481810,Shared Documents,Enterprise:z_SP_Teams:Shared Documents,3,1,0
+81157461,81157463,SP Team A,Enterprise:z_SP_Teams:SP Team A,3,5,77118
+81157461,81584704,Test,Enterprise:z_SP_Teams:Test,3,14,582900
+243772,81188488,ActiveViews,Enterprise:Z_Administrative Links:ActiveViews,3,32,59880006
+243772,81189368,Apply Business Workspace Classifications,Enterprise:Z_Administrative Links:Apply Business Workspace Classifications,3,6,317105
+243772,263860,Audit Links,Enterprise:Z_Administrative Links:Audit Links,3,0,0
+243772,74979754,Business Administrator Reports,Enterprise:Z_Administrative Links:Business Administrator Reports,3,15,226824
+243772,261901,Categories Volume,Enterprise:Z_Administrative Links:Categories Volume,3,0,0
+243772,261199,Category Templates and Forms,Enterprise:Z_Administrative Links:Category Templates and Forms,3,80,60335
+243772,262657,Global Metadata Stub Search,Enterprise:Z_Administrative Links:Global Metadata Stub Search,3,0,0
+243772,80471330,LargeFolderMove,Enterprise:Z_Administrative Links:LargeFolderMove,3,1073,369458249
+243772,261751,MAKO Search Statistics,Enterprise:Z_Administrative Links:MAKO Search Statistics,3,0,0
+243772,73315257,Mako Support Reports,Enterprise:Z_Administrative Links:Mako Support Reports,3,36,1236513
+243772,28216937,MBIE Admin Reports,Enterprise:Z_Administrative Links:MBIE Admin Reports,3,94,4630412
+243772,484808,Performance Benchmarking,Enterprise:Z_Administrative Links:Performance Benchmarking,3,264,523412502
+243772,16774668,Purge Recycle Bin Content,Enterprise:Z_Administrative Links:Purge Recycle Bin Content,3,27,1745968
+243772,265065,Recycle Bin Access,Enterprise:Z_Administrative Links:Recycle Bin Access,3,0,0
+243772,2777768,Reports Volume,Enterprise:Z_Administrative Links:Reports Volume,3,0,0
+243772,261752,Search Templates,Enterprise:Z_Administrative Links:Search Templates,3,0,0
+243772,80472310,Smart View,Enterprise:Z_Administrative Links:Smart View,3,44,8542061
+243772,180192,Techtonics Reports,Enterprise:Z_Administrative Links:Techtonics Reports,3,256,112739832
+243772,49929137,Techtonics Utilities,Enterprise:Z_Administrative Links:Techtonics Utilities,3,2248,457065346
+243772,264766,Templates Admin Volume,Enterprise:Z_Administrative Links:Templates Admin Volume,3,0,0
+243772,11494690,Workflows,Enterprise:Z_Administrative Links:Workflows,3,921,846745112
+243772,256139,xCategory Forms,Enterprise:Z_Administrative Links:xCategory Forms,3,1,0
+243772,29499529,xMinisterial Mako reporting system based on metadata,Enterprise:Z_Administrative Links:xMinisterial Mako reporting system based on metadata,3,13,321682
+243772,81161077,zWorkspace Testing,Enterprise:Z_Administrative Links:zWorkspace Testing,3,1,17663
+45583211,46313668,Archive,Enterprise:xStandards NZ Library:Archive,3,14434,16696961223
+45583211,46315201,Office Services,Enterprise:xStandards NZ Library:Office Services,3,868,82611095
+7830362,12728025,_Documents without legacy folder,Enterprise:xMinistry of Science and Innovation:_Documents without legacy folder,3,17,6074775
+7830362,7821266,AS - Administrative Services,Enterprise:xMinistry of Science and Innovation:AS - Administrative Services,3,1079,223033582
+7830362,7821267,ATI - Advanced Technology Institute,Enterprise:xMinistry of Science and Innovation:ATI - Advanced Technology Institute,3,714,142514658
+7830362,7821268,BII_Business Innovation and Investment (BII),Enterprise:xMinistry of Science and Innovation:BII_Business Innovation and Investment (BII),3,7315,2273541593
+7830362,7821269,CR - Crown Research Institutes (CRIs),Enterprise:xMinistry of Science and Innovation:CR - Crown Research Institutes (CRIs),3,1073,312950988
+7830362,7821270,ES - Evaluation and Statistics,Enterprise:xMinistry of Science and Innovation:ES - Evaluation and Statistics,3,1236,549850000
+7830362,7821271,FM - Finance Management,Enterprise:xMinistry of Science and Innovation:FM - Finance Management,3,254,140096765
+7830362,7821272,GE - Global Expert Services,Enterprise:xMinistry of Science and Innovation:GE - Global Expert Services,3,2675,800180035
+7830362,7821273,GO - Governance,Enterprise:xMinistry of Science and Innovation:GO - Governance,3,4546,863374169
+7830362,7821259,IA - Operational Policy,Enterprise:xMinistry of Science and Innovation:IA - Operational Policy,3,536,132377833
+7830362,7821274,IF - Investment Funding,Enterprise:xMinistry of Science and Innovation:IF - Investment Funding,3,8855,909294973
+7830362,7821275,IL - International,Enterprise:xMinistry of Science and Innovation:IL - International,3,5388,1000563257
+7830362,7821276,IM - Information Management,Enterprise:xMinistry of Science and Innovation:IM - Information Management,3,4470,732081914
+7830362,7821260,"IR - Investment Performance, Reviews & Analysis","Enterprise:xMinistry of Science and Innovation:IR - Investment Performance, Reviews & Analysis",3,1058,245824852
+7830362,7821277,IS - Investment Strategy and Processes,Enterprise:xMinistry of Science and Innovation:IS - Investment Strategy and Processes,3,2391,598877131
+7830362,7821261,MA - Marketing and Communications,Enterprise:xMinistry of Science and Innovation:MA - Marketing and Communications,3,2842,673397528
+7830362,7821262,MI - Minister and Cabinet,Enterprise:xMinistry of Science and Innovation:MI - Minister and Cabinet,3,4999,1183753118
+7830362,7821278,OC - Office of the Chief Executive,Enterprise:xMinistry of Science and Innovation:OC - Office of the Chief Executive,3,101,5884240
+7830362,7821263,PM - Project Management,Enterprise:xMinistry of Science and Innovation:PM - Project Management,3,444,52641431
+7830362,7821279,RA - Risk and Assurance,Enterprise:xMinistry of Science and Innovation:RA - Risk and Assurance,3,894,88527078
+7830362,7821280,SCSI - Science Skills & Innovation,Enterprise:xMinistry of Science and Innovation:SCSI - Science Skills & Innovation,3,468,81508276
+7830362,7821264,SI - Science and Innovation and System Wide Policy,Enterprise:xMinistry of Science and Innovation:SI - Science and Innovation and System Wide Policy,3,2821,749694380
+7830362,7821281,SR - Stakeholder Relationships,Enterprise:xMinistry of Science and Innovation:SR - Stakeholder Relationships,3,1327,189691583
+7830362,7821282,ST - Science and Innovation System Strategy,Enterprise:xMinistry of Science and Innovation:ST - Science and Innovation System Strategy,3,2568,940369698
+7830362,7821265,TE - NZ Trade and Enterprise,Enterprise:xMinistry of Science and Innovation:TE - NZ Trade and Enterprise,3,6,0
+7830362,7821283,TM - Team Management,Enterprise:xMinistry of Science and Innovation:TM - Team Management,3,1324,300836627
+7830362,7821284,VM - Vote Management Process,Enterprise:xMinistry of Science and Innovation:VM - Vote Management Process,3,166,22326317
+9025637,8950369,_Commercialisation & Connectivity,Enterprise:xMinistry of Research Science and Technology:_Commercialisation & Connectivity,3,810,127002871
+9025637,8950370,Biological,Enterprise:xMinistry of Research Science and Technology:Biological,3,749,135753525
+9025637,8950371,Biotechnology,Enterprise:xMinistry of Research Science and Technology:Biotechnology,3,2810,526629076
+9025637,8950372,Communications,Enterprise:xMinistry of Research Science and Technology:Communications,3,2515,866936128
+9025637,15122666,Confidential,Enterprise:xMinistry of Research Science and Technology:Confidential,3,77,12271887
+9025637,8950373,Contract Management,Enterprise:xMinistry of Research Science and Technology:Contract Management,3,704,203076990
+9025637,8950374,Environment,Enterprise:xMinistry of Research Science and Technology:Environment,3,2235,635834360
+9025637,8950375,External Relationships,Enterprise:xMinistry of Research Science and Technology:External Relationships,3,495,44069455
+9025637,8950376,Finance,Enterprise:xMinistry of Research Science and Technology:Finance,3,905,33380640
+9025637,8950377,Funding RS and T,Enterprise:xMinistry of Research Science and Technology:Funding RS and T,3,4053,664671723
+9025637,8950378,Global,Enterprise:xMinistry of Research Science and Technology:Global,3,10113,1571076540
+9025637,8950379,Group Management,Enterprise:xMinistry of Research Science and Technology:Group Management,3,2738,327146110
+9025637,8950380,Human Resources,Enterprise:xMinistry of Research Science and Technology:Human Resources,3,4933,457260286
+9025637,8950381,Information Management,Enterprise:xMinistry of Research Science and Technology:Information Management,3,5387,892540046
+9025637,8950382,Legal,Enterprise:xMinistry of Research Science and Technology:Legal,3,972,100626724
+9025637,8950383,Ministerial-Official Correspondence,Enterprise:xMinistry of Research Science and Technology:Ministerial-Official Correspondence,3,4215,879171783
+9025637,8950384,MoRST Committees,Enterprise:xMinistry of Research Science and Technology:MoRST Committees,3,2652,700238108
+9025637,8950385,MoRST Governance,Enterprise:xMinistry of Research Science and Technology:MoRST Governance,3,3974,767036968
+9025637,8950386,MSI CE Interim Fileplan,Enterprise:xMinistry of Research Science and Technology:MSI CE Interim Fileplan,3,151,0
+9025637,9088410,Not Filed to Fileplan,Enterprise:xMinistry of Research Science and Technology:Not Filed to Fileplan,3,6293,3606430798
+9025637,8950387,Office of the Chief Executive,Enterprise:xMinistry of Research Science and Technology:Office of the Chief Executive,3,406,30045808
+9025637,8950388,Office Operations,Enterprise:xMinistry of Research Science and Technology:Office Operations,3,1064,212038795
+9025637,8950389,Physical Sciences,Enterprise:xMinistry of Research Science and Technology:Physical Sciences,3,391,99867343
+9025637,8950390,Statistics and Evaluation,Enterprise:xMinistry of Research Science and Technology:Statistics and Evaluation,3,5559,1485571470
+9025637,8950391,System Wide Policy,Enterprise:xMinistry of Research Science and Technology:System Wide Policy,3,10397,1845517466
+9025637,8950392,Vote RS and T Budget,Enterprise:xMinistry of Research Science and Technology:Vote RS and T Budget,3,1155,172665676
+81652357,82022541,2011,Enterprise:xINSITE (Closed):2011,3,87,0
+81652357,82023101,2012,Enterprise:xINSITE (Closed):2012,3,661,84722279
+81652357,82023002,2013,Enterprise:xINSITE (Closed):2013,3,60,0
+81652357,82023010,2014,Enterprise:xINSITE (Closed):2014,3,60,0
+81652357,82022685,2015,Enterprise:xINSITE (Closed):2015,3,60,0
+81652357,82022911,2016,Enterprise:xINSITE (Closed):2016,3,60,0
+81652357,82023912,2017,Enterprise:xINSITE (Closed):2017,3,60,0
+81652357,82023151,2018,Enterprise:xINSITE (Closed):2018,3,60,0
+81652357,82023159,2019,Enterprise:xINSITE (Closed):2019,3,60,0
+81652357,82022613,2020,Enterprise:xINSITE (Closed):2020,3,60,0
+81652357,82022621,2021,Enterprise:xINSITE (Closed):2021,3,60,0
+81652357,82022629,2022,Enterprise:xINSITE (Closed):2022,3,60,0
+81652357,82023079,2023,Enterprise:xINSITE (Closed):2023,3,60,0
+81652357,82023740,2024,Enterprise:xINSITE (Closed):2024,3,60,0
+81652357,82028000,2025,Enterprise:xINSITE (Closed):2025,3,60,0
+81652357,82028009,Employment Relations Authority,Enterprise:xINSITE (Closed):Employment Relations Authority,3,789,91833600
+81652357,82028308,KnowledgeBase,Enterprise:xINSITE (Closed):KnowledgeBase,3,44,211600
+81652357,82025064,xArchive Information,Enterprise:xINSITE (Closed):xArchive Information,3,1,22
+11826037,11826038,Not Filed to Fileplan,"Enterprise:xFoundation for Research, Science and Technology:Not Filed to Fileplan",3,37735,19342237733
+11826037,11826040,Personal Workspace Content,"Enterprise:xFoundation for Research, Science and Technology:Personal Workspace Content",3,34110,11358211091
+11826037,11826041,Public,"Enterprise:xFoundation for Research, Science and Technology:Public",3,22156,10554905691
+11826037,20559791,to be deleted,"Enterprise:xFoundation for Research, Science and Technology:to be deleted",3,0,0
+560843,567833,Business Services Branch,Enterprise:xEconomic Development Before 1/1/2007:Business Services Branch,3,9867,1101332269
+560843,567973,"Competition, Trade & Investment  - Appraised","Enterprise:xEconomic Development Before 1/1/2007:Competition, Trade & Investment  - Appraised",3,35,0
+560843,567945,Economic Strategy Branch,Enterprise:xEconomic Development Before 1/1/2007:Economic Strategy Branch,3,31,1857419
+560843,568499,Effective Markets,Enterprise:xEconomic Development Before 1/1/2007:Effective Markets,3,55,5863438
+560843,568315,Energy and Communications Branch,Enterprise:xEconomic Development Before 1/1/2007:Energy and Communications Branch,3,137,13573972
+560843,576641,Government Economic & Urban Development Office,Enterprise:xEconomic Development Before 1/1/2007:Government Economic & Urban Development Office,3,1,0
+560843,567949,Industry and Regional Development Branch,Enterprise:xEconomic Development Before 1/1/2007:Industry and Regional Development Branch,3,5177,742323806
+560843,706945,Inquiries,Enterprise:xEconomic Development Before 1/1/2007:Inquiries,3,11,249190
+560843,569477,Medium Term Strategy Group,Enterprise:xEconomic Development Before 1/1/2007:Medium Term Strategy Group,3,122,12682848
+560843,577048,Ministry of Consumer Affairs,Enterprise:xEconomic Development Before 1/1/2007:Ministry of Consumer Affairs,3,3878,1034323795
+560843,818273,Ministry of Tourism,Enterprise:xEconomic Development Before 1/1/2007:Ministry of Tourism,3,1814,696335322
+560843,568106,Organisational Devt & Support,Enterprise:xEconomic Development Before 1/1/2007:Organisational Devt & Support,3,10799,1996654132
+560843,569401,Regulatory and Competition Policy Branch,Enterprise:xEconomic Development Before 1/1/2007:Regulatory and Competition Policy Branch,3,7111,782219152
+560843,569482,Resources and Networks,Enterprise:xEconomic Development Before 1/1/2007:Resources and Networks,3,7503,1149571808
+277151,586558,Business Services Branch,Enterprise:xEconomic Development After 1/1/2007:Business Services Branch,3,8855,3762307343
+277151,1742747,Chief Executive's Office,Enterprise:xEconomic Development After 1/1/2007:Chief Executive's Office,3,103,51193351
+277151,611013,Commercial Solutions Branch,Enterprise:xEconomic Development After 1/1/2007:Commercial Solutions Branch,3,1922,845813018
+277151,588988,"Competition, Trade & Investment","Enterprise:xEconomic Development After 1/1/2007:Competition, Trade & Investment",3,4421,960211673
+277151,2852614,Documents Migrated from New Zealand Trade and Enterprise,Enterprise:xEconomic Development After 1/1/2007:Documents Migrated from New Zealand Trade and Enterprise,3,983,471208404
+277151,1081445,Economic Development Policy Branch,Enterprise:xEconomic Development After 1/1/2007:Economic Development Policy Branch,3,1274,712558582
+277151,586573,Economic Strategy Branch,Enterprise:xEconomic Development After 1/1/2007:Economic Strategy Branch,3,1694,537739061
+277151,602207,Effective Markets,Enterprise:xEconomic Development After 1/1/2007:Effective Markets,3,1776,580939105
+277151,588750,Energy and Communications Branch,Enterprise:xEconomic Development After 1/1/2007:Energy and Communications Branch,3,8714,2342642427
+277151,897165,Government Economic and Urban Development Office,Enterprise:xEconomic Development After 1/1/2007:Government Economic and Urban Development Office,3,13,4712648
+277151,588455,Industry and Regional Development Branch,Enterprise:xEconomic Development After 1/1/2007:Industry and Regional Development Branch,3,4986,1872489614
+277151,601977,Information Technology Group,Enterprise:xEconomic Development After 1/1/2007:Information Technology Group,3,1469,512199116
+277151,2438714,MBIE Office of the Acting Chief Executive,Enterprise:xEconomic Development After 1/1/2007:MBIE Office of the Acting Chief Executive,3,6,390911
+277151,588486,Ministry of Consumer Affairs,Enterprise:xEconomic Development After 1/1/2007:Ministry of Consumer Affairs,3,1888,637951269
+277151,589281,Ministry of Tourism,Enterprise:xEconomic Development After 1/1/2007:Ministry of Tourism,3,1707,1119522718
+277151,649335,New Zealand Petroleum & Minerals,Enterprise:xEconomic Development After 1/1/2007:New Zealand Petroleum & Minerals,3,634,143911957
+277151,588366,Organisational Development and Support,Enterprise:xEconomic Development After 1/1/2007:Organisational Development and Support,3,10718,3112982126
+277151,3354952,Organisational Devt & Support,Enterprise:xEconomic Development After 1/1/2007:Organisational Devt & Support,3,5,159195
+277151,588473,Regulatory and Competition Policy Branch,Enterprise:xEconomic Development After 1/1/2007:Regulatory and Competition Policy Branch,3,495,90460913
+277151,588403,Resources and Networks,Enterprise:xEconomic Development After 1/1/2007:Resources and Networks,3,503,55037642
+277151,1088130,"Tourism, Events and Consumer Affairs Branch","Enterprise:xEconomic Development After 1/1/2007:Tourism, Events and Consumer Affairs Branch",3,2801,1368421906
+9917760,9935036,BGM Business Group Management,Enterprise:xDepartment of Labour:BGM Business Group Management,3,1559,2690427044
+9917760,15410796,COM Communications & Marketing,Enterprise:xDepartment of Labour:COM Communications & Marketing,3,31,1581977
+9917760,9934046,FIN Financial Management,Enterprise:xDepartment of Labour:FIN Financial Management,3,31,6177665
+9917760,15409917,GOV Governance,Enterprise:xDepartment of Labour:GOV Governance,3,2496,487914142
+9917760,12680337,HRM Human Resource Management,Enterprise:xDepartment of Labour:HRM Human Resource Management,3,1309,230439177
+9917760,9911161,IMA Information Management,Enterprise:xDepartment of Labour:IMA Information Management,3,3556,835831818
+9917760,15121415,IMM Immigration Management,Enterprise:xDepartment of Labour:IMM Immigration Management,3,11624,1108560638
+9917760,16099870,INR International Relations,Enterprise:xDepartment of Labour:INR International Relations,3,141,29781154
+9917760,10807386,LGM Legal Management,Enterprise:xDepartment of Labour:LGM Legal Management,3,8575,2974644024
+9917760,14724400,Ministerial Services,Enterprise:xDepartment of Labour:Ministerial Services,3,8609,4029258605
+9917760,10370369,ZXS1 - Ex SilentOne Content,Enterprise:xDepartment of Labour:ZXS1 - Ex SilentOne Content,3,17155,2214064198
+45357185,45242147,Built Environment,Enterprise:xCERA:Built Environment,3,1941,1182263501
+45357185,45901985,Economic,Enterprise:xCERA:Economic,3,12,0
+45357185,45471777,Executive Management,Enterprise:xCERA:Executive Management,3,9,14882043
+45357185,45476332,Leadership and Integration,Enterprise:xCERA:Leadership and Integration,3,12,0
+45357185,45471794,Shared Services,Enterprise:xCERA:Shared Services,3,662,837029137
+45357185,45905378,Social,Enterprise:xCERA:Social,3,30,4382780
+4505909,4505910,Administration,Enterprise:xBuilding and Housing:Administration,3,1342,926325684
+4505909,4505911,Building Quality and Standards,Enterprise:xBuilding and Housing:Building Quality and Standards,3,59805,104402745308
+4505909,4505912,Communications,Enterprise:xBuilding and Housing:Communications,3,4688,2727245347
+4505909,4505913,Financial Management,Enterprise:xBuilding and Housing:Financial Management,3,2099,1271889079
+4505909,4505914,ICT,Enterprise:xBuilding and Housing:ICT,3,10997,14741310780
+4505909,4505915,Information Management,Enterprise:xBuilding and Housing:Information Management,3,769,1226363839
+4505909,4505916,Legal Advice,Enterprise:xBuilding and Housing:Legal Advice,3,9304,3302718663
+4505909,4505917,Ministerial Servicing,Enterprise:xBuilding and Housing:Ministerial Servicing,3,42739,283785089380
+4505909,4510419,Monitoring HNZC and Boards,Enterprise:xBuilding and Housing:Monitoring HNZC and Boards,3,1562,1048886491
+4505909,4510420,Organisational Leadership,Enterprise:xBuilding and Housing:Organisational Leadership,3,1470,1039039639
+4505909,4510421,Planning and Reporting,Enterprise:xBuilding and Housing:Planning and Reporting,3,4366,3187285857
+4505909,4510422,Regulatory Schemes and Programmes,Enterprise:xBuilding and Housing:Regulatory Schemes and Programmes,3,84521,163214138284
+4505909,4510424,Sector and Regulatory Policy,Enterprise:xBuilding and Housing:Sector and Regulatory Policy,3,18514,17387121791
+4505909,4510423,Sector Capability and Performance,Enterprise:xBuilding and Housing:Sector Capability and Performance,3,12469,24585779785
+4505909,4510425,Service Delivery,Enterprise:xBuilding and Housing:Service Delivery,3,123026,363313227547
+4505909,4510426,Social Housing Unit,Enterprise:xBuilding and Housing:Social Housing Unit,3,6311,8484016016
+4505909,4510427,Team Administration,Enterprise:xBuilding and Housing:Team Administration,3,10330,8064724208
+4505909,4510428,"Trends Analysis, Research and Evaluation","Enterprise:xBuilding and Housing:Trends Analysis, Research and Evaluation",3,1293,5292222648
+81163143,81166216,MAKO Workspace,Enterprise:Team Workspaces:MAKO Workspace,3,58,9817852
+81163143,81159320,xECM Test Team Workspace,Enterprise:Team Workspaces:xECM Test Team Workspace,3,10,441953
+25076392,25071177,Catalogued,Enterprise:Published Information:Catalogued,3,632,1462881043
+25076392,29656976,Department of Labour (DOL) Publications,Enterprise:Published Information:Department of Labour (DOL) Publications,3,593,598966042
+25076392,25074953,Digitised Collections,Enterprise:Published Information:Digitised Collections,3,651,4447667007
+25076392,25602160,Former Agency Library Collections,Enterprise:Published Information:Former Agency Library Collections,3,2778,5559101424
+25076392,52821605,Images,Enterprise:Published Information:Images,3,40,10381025
+25076392,25069447,Journals,Enterprise:Published Information:Journals,3,543,3509062207
+262745,6474438,Accident Compensation,"Enterprise:Policy Advice, Regulation and Standards:Accident Compensation",3,1140,820221926
+262745,14546353,Building and Housing,"Enterprise:Policy Advice, Regulation and Standards:Building and Housing",3,7461,8695979746
+262745,603109,Business and Regional Development Programmes,"Enterprise:Policy Advice, Regulation and Standards:Business and Regional Development Programmes",3,453,253503248
+262745,255522,Business Law,"Enterprise:Policy Advice, Regulation and Standards:Business Law",3,2836,2946256746
+262745,603111,Climate Change,"Enterprise:Policy Advice, Regulation and Standards:Climate Change",3,137,242936879
+262745,255526,Competition Law,"Enterprise:Policy Advice, Regulation and Standards:Competition Law",3,1983,998867975
+262745,255523,Consumer Issues,"Enterprise:Policy Advice, Regulation and Standards:Consumer Issues",3,1946,1040313692
+262745,1382606,Delivering Business Facing Services,"Enterprise:Policy Advice, Regulation and Standards:Delivering Business Facing Services",3,2901,8847360
+262745,72467371,Disaster Business Support,"Enterprise:Policy Advice, Regulation and Standards:Disaster Business Support",3,81,0
+262745,5346744,Dispute Resolution,"Enterprise:Policy Advice, Regulation and Standards:Dispute Resolution",3,641,1149526188
+262745,1812594,Earthquake Recovery,"Enterprise:Policy Advice, Regulation and Standards:Earthquake Recovery",3,1158,0
+262745,603115,Economic Growth,"Enterprise:Policy Advice, Regulation and Standards:Economic Growth",3,1985,2403759214
+262745,255525,Electricity,"Enterprise:Policy Advice, Regulation and Standards:Electricity",3,616,413543649
+262745,6801992,Employment,"Enterprise:Policy Advice, Regulation and Standards:Employment",3,695,2391638168
+262745,6267983,Employment Relations,"Enterprise:Policy Advice, Regulation and Standards:Employment Relations",3,3101,2290921558
+262745,603116,Energy and Resource Information,"Enterprise:Policy Advice, Regulation and Standards:Energy and Resource Information",3,935,233071197
+262745,255524,Energy Efficiency,"Enterprise:Policy Advice, Regulation and Standards:Energy Efficiency",3,370,216651948
+262745,1602913,Energy International,"Enterprise:Policy Advice, Regulation and Standards:Energy International",3,151,0
+262745,1603009,Energy Markets,"Enterprise:Policy Advice, Regulation and Standards:Energy Markets",3,227,119561239
+262745,603118,Energy Safety,"Enterprise:Policy Advice, Regulation and Standards:Energy Safety",3,435,3638017565
+262745,603120,Firm Capability,"Enterprise:Policy Advice, Regulation and Standards:Firm Capability",3,793,427473403
+262745,1603022,Gas,"Enterprise:Policy Advice, Regulation and Standards:Gas",3,259,249701109
+262745,61616623,Governance,"Enterprise:Policy Advice, Regulation and Standards:Governance",3,2,0
+262745,603122,Government Procurement and Property,"Enterprise:Policy Advice, Regulation and Standards:Government Procurement and Property",3,35669,27985779435
+262745,6474218,Health and Safety,"Enterprise:Policy Advice, Regulation and Standards:Health and Safety",3,1922,2353172853
+262745,6493564,Immigration,"Enterprise:Policy Advice, Regulation and Standards:Immigration",3,39567,27117886640
+262745,17153151,Immigration Advisers,"Enterprise:Policy Advice, Regulation and Standards:Immigration Advisers",3,669,214073436
+262745,14467756,Immigration International Linkages,"Enterprise:Policy Advice, Regulation and Standards:Immigration International Linkages",3,415,0
+262745,1603089,Infrastructure,"Enterprise:Policy Advice, Regulation and Standards:Infrastructure",3,131,112988525
+262745,1985924,Insolvency,"Enterprise:Policy Advice, Regulation and Standards:Insolvency",3,18,1933885
+262745,255527,Intellectual Property,"Enterprise:Policy Advice, Regulation and Standards:Intellectual Property",3,1627,1282361930
+262745,75296651,Interagency Advice and Consultation,"Enterprise:Policy Advice, Regulation and Standards:Interagency Advice and Consultation",3,2,0
+262745,7796172,International Labour Relations,"Enterprise:Policy Advice, Regulation and Standards:International Labour Relations",3,450,257189869
+262745,79850769,Just Transition,"Enterprise:Policy Advice, Regulation and Standards:Just Transition",3,23,4350579
+262745,6734993,Labour and Business Information,"Enterprise:Policy Advice, Regulation and Standards:Labour and Business Information",3,523,1524411572
+262745,20356254,Labour Inspection,"Enterprise:Policy Advice, Regulation and Standards:Labour Inspection",3,22,285915068
+262745,603125,Major Events,"Enterprise:Policy Advice, Regulation and Standards:Major Events",3,1044,1494199002
+262745,11756067,Maori Economic Development (MED),"Enterprise:Policy Advice, Regulation and Standards:Maori Economic Development (MED)",3,793,24292015
+262745,603126,Natural Resources,"Enterprise:Policy Advice, Regulation and Standards:Natural Resources",3,1909,2493345836
+262745,603127,Petroleum and Minerals,"Enterprise:Policy Advice, Regulation and Standards:Petroleum and Minerals",3,509,277794350
+262745,60321027,Policy Advice for Regulation,"Enterprise:Policy Advice, Regulation and Standards:Policy Advice for Regulation",3,1,0
+262745,603128,Postal,"Enterprise:Policy Advice, Regulation and Standards:Postal",3,199,61707369
+262745,1807793,Product Safety,"Enterprise:Policy Advice, Regulation and Standards:Product Safety",3,75,14447271
+262745,1383619,Provision of Information and Resources to Business,"Enterprise:Policy Advice, Regulation and Standards:Provision of Information and Resources to Business",3,2497,2850282613
+262745,28783779,Quality of Advice,"Enterprise:Policy Advice, Regulation and Standards:Quality of Advice",3,179,907936723
+262745,3926432,Quality of Regulation,"Enterprise:Policy Advice, Regulation and Standards:Quality of Regulation",3,815,2231765542
+262745,603130,Radio Spectrum,"Enterprise:Policy Advice, Regulation and Standards:Radio Spectrum",3,726,0
+262745,1809413,Regional Development - Closed,"Enterprise:Policy Advice, Regulation and Standards:Regional Development - Closed",3,56,0
+262745,73484756,Regional Economic Development,"Enterprise:Policy Advice, Regulation and Standards:Regional Economic Development",3,79,0
+262745,255520,Regions and Cities,"Enterprise:Policy Advice, Regulation and Standards:Regions and Cities",3,3474,3993006495
+262745,29857477,"Research, Evaluation and Analysis","Enterprise:Policy Advice, Regulation and Standards:Research, Evaluation and Analysis",3,0,0
+262745,4244851,Science and Innovation,"Enterprise:Policy Advice, Regulation and Standards:Science and Innovation",3,4455,8267621013
+262745,7828894,Science and Innovation International Linkages,"Enterprise:Policy Advice, Regulation and Standards:Science and Innovation International Linkages",3,2853,1265644050
+262745,603132,Sector Development,"Enterprise:Policy Advice, Regulation and Standards:Sector Development",3,1573,2151073243
+262745,603133,Small Business,"Enterprise:Policy Advice, Regulation and Standards:Small Business",3,5360,67996029156
+262745,46317211,Standards NZ,"Enterprise:Policy Advice, Regulation and Standards:Standards NZ",3,91026,36121325131
+262745,1383679,Sustainable Development,"Enterprise:Policy Advice, Regulation and Standards:Sustainable Development",3,63,8431929
+262745,255529,Tariff and Border (Goods) Policy,"Enterprise:Policy Advice, Regulation and Standards:Tariff and Border (Goods) Policy",3,246,150182394
+262745,255521,Telecommunications,"Enterprise:Policy Advice, Regulation and Standards:Telecommunications",3,2608,3441777606
+262745,603137,Tourism,"Enterprise:Policy Advice, Regulation and Standards:Tourism",3,3177,5914829471
+262745,603138,Tourism Research,"Enterprise:Policy Advice, Regulation and Standards:Tourism Research",3,2110,2707106336
+262745,603139,Trade and Economic Linkages,"Enterprise:Policy Advice, Regulation and Standards:Trade and Economic Linkages",3,1082,422463326
+262745,255530,Trade Remedies,"Enterprise:Policy Advice, Regulation and Standards:Trade Remedies",3,252,21567199
+74863897,75380708,Agency Administration,Enterprise:Pike River Recovery Agency:Agency Administration,3,212,88973238
+74863897,75370636,Chief Executive Workspace (Restricted),Enterprise:Pike River Recovery Agency:Chief Executive Workspace (Restricted),3,10,1769081
+74863897,75365359,Communications,Enterprise:Pike River Recovery Agency:Communications,3,60,61384858
+74863897,76867756,Conflicts of Interest,Enterprise:Pike River Recovery Agency:Conflicts of Interest,3,5,1170669
+74863897,75358766,Family Reference Group (FRG),Enterprise:Pike River Recovery Agency:Family Reference Group (FRG),3,23,2559298
+74863897,75360296,Legal,Enterprise:Pike River Recovery Agency:Legal,3,8,4933664
+74863897,75365581,Ministerial Servicing,Enterprise:Pike River Recovery Agency:Ministerial Servicing,3,203,113452207
+74863897,77050707,Pike River Agency Establishment Unit (PREU) - Restricted Copy,Enterprise:Pike River Recovery Agency:Pike River Agency Establishment Unit (PREU) - Restricted Copy,3,187,201199320
+74863897,75365792,Pike River Mine Management,Enterprise:Pike River Recovery Agency:Pike River Mine Management,3,210,646034416
+74863897,75372219,Policies and Procedures,Enterprise:Pike River Recovery Agency:Policies and Procedures,3,16,8930504
+74863897,76991219,Records and Information Management,Enterprise:Pike River Recovery Agency:Records and Information Management,3,33,3981938
+74863897,76121546,Re-Entry Planning,Enterprise:Pike River Recovery Agency:Re-Entry Planning,3,56,32652401
+74863897,75365576,Stakeholder Engagement,Enterprise:Pike River Recovery Agency:Stakeholder Engagement,3,34,36005521
+81954480,81954148,RAPID,Enterprise:Petroleum and Minerals Perms V2 (all levels) (To Keep this structure):RAPID,3,15057,18116123937
+81663789,81663790,RAPID,Enterprise:Petroleum and Minerals (merge the content into the other L2 structure):RAPID,3,71507,111088874091
+197355,82479233,Group Management Dashboard,Enterprise:MAKO Utilities:Group Management Dashboard,3,23,6286759
+197355,74230206,Groups and folder permissions (Dashboard),Enterprise:MAKO Utilities:Groups and folder permissions (Dashboard),3,0,0
+197355,278142,My Recently Accessed Documents (30 Days),Enterprise:MAKO Utilities:My Recently Accessed Documents (30 Days),3,0,0
+197355,278801,My Recently Edited Documents (30 days),Enterprise:MAKO Utilities:My Recently Edited Documents (30 days),3,0,0
+197355,62400041,New Folder Request,Enterprise:MAKO Utilities:New Folder Request,3,0,0
+197355,69248914,New Folder Request - Administration,Enterprise:MAKO Utilities:New Folder Request - Administration,3,2,0
+197355,61009054,New Folder Request (Dashboard),Enterprise:MAKO Utilities:New Folder Request (Dashboard),3,0,0
+262744,14697332,Auctioneers,"Enterprise:Licensing, Permits and Registration:Auctioneers",3,278,149149459
+262744,2187031,Business Registers,"Enterprise:Licensing, Permits and Registration:Business Registers",3,12956,44355935652
+262744,2469166,Economic Development Contact Centre,"Enterprise:Licensing, Permits and Registration:Economic Development Contact Centre",3,980,201424918
+262744,17154398,Immigration Adviser Licensing,"Enterprise:Licensing, Permits and Registration:Immigration Adviser Licensing",3,296,97017707
+262744,603096,Intellectual Property,"Enterprise:Licensing, Permits and Registration:Intellectual Property",3,1882,3114037091
+262744,17136943,Motor Vehicle Trader Register (Restricted),"Enterprise:Licensing, Permits and Registration:Motor Vehicle Trader Register (Restricted)",3,1326,2891312881
+262744,69195100,NZ Space Agency Regulator (Restricted),"Enterprise:Licensing, Permits and Registration:NZ Space Agency Regulator (Restricted)",3,196,42855008
+262744,603102,Petroleum and Minerals,"Enterprise:Licensing, Permits and Registration:Petroleum and Minerals",3,9053,16838721941
+262744,65930451,Pool Inspectors,"Enterprise:Licensing, Permits and Registration:Pool Inspectors",3,10,13604133
+262744,603103,Radio Spectrum,"Enterprise:Licensing, Permits and Registration:Radio Spectrum",3,417,288922438
+262744,603106,Telecommunications and Postal Services,"Enterprise:Licensing, Permits and Registration:Telecommunications and Postal Services",3,72,14871020
+599265,81190359,Additional Folder,Enterprise:Grants and Funds Management:Additional Folder,3,0,0
+599265,1811154,Managing Individual Funds,Enterprise:Grants and Funds Management:Managing Individual Funds,3,8111,5168845835
+599265,7820969,Managing Investment Strategy,Enterprise:Grants and Funds Management:Managing Investment Strategy,3,45,1747974
+599265,1811549,Managing Ministry Projects,Enterprise:Grants and Funds Management:Managing Ministry Projects,3,21,2610647
+599265,7821540,Managing Stakeholder Engagement,Enterprise:Grants and Funds Management:Managing Stakeholder Engagement,3,73,17250752
+599265,14509649,Refugee Settlement,Enterprise:Grants and Funds Management:Refugee Settlement,3,201,0
+599265,15834145,Science Board,Enterprise:Grants and Funds Management:Science Board,3,307,232550398
+599265,18800198,Science Investments Processes,Enterprise:Grants and Funds Management:Science Investments Processes,3,1916,6397028388
+262742,76988854,Branch - Provincial Development Unit,Enterprise:Governance and Strategy:Branch - Provincial Development Unit,3,2371,429664801
+262742,255508,Branch and Team Management (pre MBIE),Enterprise:Governance and Strategy:Branch and Team Management (pre MBIE),3,4499,3375898779
+262742,3655058,"Business Group - Building, Resources and Markets","Enterprise:Governance and Strategy:Business Group - Building, Resources and Markets",3,9578,17344868644
+262742,3356744,"Business Group - Corporate, Governance and Information","Enterprise:Governance and Strategy:Business Group - Corporate, Governance and Information",3,12750,18248370512
+262742,27163092,Business Group - Finance and Performance,Enterprise:Governance and Strategy:Business Group - Finance and Performance,3,3927,18390154879
+262742,14438064,Business Group - Immigration New Zealand (INZ),Enterprise:Governance and Strategy:Business Group - Immigration New Zealand (INZ),3,35282,36283325312
+262742,3668882,Business Group - Labour and Commercial Environment,Enterprise:Governance and Strategy:Business Group - Labour and Commercial Environment,3,4009,6979373019
+262742,3517786,Business Group - Labour Science and Enterprise,Enterprise:Governance and Strategy:Business Group - Labour Science and Enterprise,3,5557,9558553849
+262742,3546236,Business Group - Market Services,Enterprise:Governance and Strategy:Business Group - Market Services,3,38299,79534406408
+262742,9303315,Business Group - Office of the Chief Executive (OCE),Enterprise:Governance and Strategy:Business Group - Office of the Chief Executive (OCE),3,1945,2037626970
+262742,3425881,Business Group - Strategy and Governance,Enterprise:Governance and Strategy:Business Group - Strategy and Governance,3,1812,1202070357
+262742,5761395,"Managing Client Advice, Services and Education","Enterprise:Governance and Strategy:Managing Client Advice, Services and Education",3,2018,1862540082
+262742,599234,Managing Communications,Enterprise:Governance and Strategy:Managing Communications,3,3920,5257039773
+262742,261529,Managing Finance,Enterprise:Governance and Strategy:Managing Finance,3,1267,1215682573
+262742,19772363,"Managing Health, Safety and Wellbeing","Enterprise:Governance and Strategy:Managing Health, Safety and Wellbeing",3,3347,1390470322
+262742,15250342,Managing Immigration Resolutions,Enterprise:Governance and Strategy:Managing Immigration Resolutions,3,76053,50065222938
+262742,261530,Managing Information and Data,Enterprise:Governance and Strategy:Managing Information and Data,3,198565,7365698525
+262742,599246,Managing Legal Services,Enterprise:Governance and Strategy:Managing Legal Services,3,8155,2040748642
+262742,255514,Managing Ministerial Servicing,Enterprise:Governance and Strategy:Managing Ministerial Servicing,3,463614,636785116969
+262742,261531,Managing People,Enterprise:Governance and Strategy:Managing People,3,32264,16301757777
+262742,26085693,Managing Privacy,Enterprise:Governance and Strategy:Managing Privacy,3,2061,5803098028
+262742,255513,Managing Procurement,Enterprise:Governance and Strategy:Managing Procurement,3,3226,1292389862
+262742,255515,Managing Property,Enterprise:Governance and Strategy:Managing Property,3,7050,8283712969
+262742,10985212,"Managing Research, Evaluation and Analysis","Enterprise:Governance and Strategy:Managing Research, Evaluation and Analysis",3,1840,2680209755
+262742,261532,Managing Risk and Assurance,Enterprise:Governance and Strategy:Managing Risk and Assurance,3,4222,7468451386
+262742,7323725,Managing Security,Enterprise:Governance and Strategy:Managing Security,3,8285,8165260729
+262742,255516,Managing Technology,Enterprise:Governance and Strategy:Managing Technology,3,25259,48547397835
+262742,4246721,Managing the Capital Portfolio,Enterprise:Governance and Strategy:Managing the Capital Portfolio,3,3303,6024030613
+262742,70641411,Managing the Enterprise Investment Portfolio,Enterprise:Governance and Strategy:Managing the Enterprise Investment Portfolio,3,8621,11743006353
+262742,15402051,Managing Visa Services,Enterprise:Governance and Strategy:Managing Visa Services,3,5386,2451995213
+262742,599262,Managing Web and Intranet,Enterprise:Governance and Strategy:Managing Web and Intranet,3,2297,3493267264
+262742,255517,Monitoring and Reporting,Enterprise:Governance and Strategy:Monitoring and Reporting,3,6385,19142908271
+262742,80337506,oiioioioo,Enterprise:Governance and Strategy:oiioioioo,3,0,0
+262742,2235318,Stakeholder Engagement,Enterprise:Governance and Strategy:Stakeholder Engagement,3,653,2039457120
+262742,1412463,Strategic Management,Enterprise:Governance and Strategy:Strategic Management,3,5430,3224431577
+262742,255518,Strategy and Planning,Enterprise:Governance and Strategy:Strategy and Planning,3,2717,2074342392
+262742,81079639,test,Enterprise:Governance and Strategy:test,3,0,0
+262742,81104555,Test2,Enterprise:Governance and Strategy:Test2,3,0,0
+262741,5441251,Accident Compensation,Enterprise:Enforcement and Monitoring of Legislation:Accident Compensation,3,35,4396968
+262741,2221390,Auditors,Enterprise:Enforcement and Monitoring of Legislation:Auditors,3,4,161359
+262741,26386814,Building,Enterprise:Enforcement and Monitoring of Legislation:Building,3,2923,2630485888
+262741,1800290,Building Societies,Enterprise:Enforcement and Monitoring of Legislation:Building Societies,3,4,105028
+262741,1795970,Charitable Trusts,Enterprise:Enforcement and Monitoring of Legislation:Charitable Trusts,3,45,8346232
+262741,602759,Commerce,Enterprise:Enforcement and Monitoring of Legislation:Commerce,3,9,382976
+262741,24588853,Companies Office Enforcement,Enterprise:Enforcement and Monitoring of Legislation:Companies Office Enforcement,3,5,2415045
+262741,602760,Company Reporting,Enterprise:Enforcement and Monitoring of Legislation:Company Reporting,3,1155,656400671
+262741,21528773,Construction and Housing Markets,Enterprise:Enforcement and Monitoring of Legislation:Construction and Housing Markets,3,6,17834857
+262741,2221421,Contributory Mortgage Brokers,Enterprise:Enforcement and Monitoring of Legislation:Contributory Mortgage Brokers,3,2,0
+262741,5437974,Criminal Proceeds,Enterprise:Enforcement and Monitoring of Legislation:Criminal Proceeds,3,13,3824739
+262741,255505,Electricity,Enterprise:Enforcement and Monitoring of Legislation:Electricity,3,97,30623274
+262741,11828568,Employment,Enterprise:Enforcement and Monitoring of Legislation:Employment,3,2245,1800887573
+262741,255499,Energy Safety,Enterprise:Enforcement and Monitoring of Legislation:Energy Safety,3,1194,1897834202
+262741,1797264,Financial Reporting,Enterprise:Enforcement and Monitoring of Legislation:Financial Reporting,3,158,55102414
+262741,1800291,Financial Service Providers,Enterprise:Enforcement and Monitoring of Legislation:Financial Service Providers,3,35,3783920
+262741,2222348,Friendly Societies and Credit Unions,Enterprise:Enforcement and Monitoring of Legislation:Friendly Societies and Credit Unions,3,33,13663474
+262741,602761,Fuel Quality Monitoring,Enterprise:Enforcement and Monitoring of Legislation:Fuel Quality Monitoring,3,338,206112767
+262741,10737745,Immigration,Enterprise:Enforcement and Monitoring of Legislation:Immigration,3,41943,24476954112
+262741,17150929,Immigration Advisers - Restricted,Enterprise:Enforcement and Monitoring of Legislation:Immigration Advisers - Restricted,3,166,89944391
+262741,1798585,Incorporated Societies,Enterprise:Enforcement and Monitoring of Legislation:Incorporated Societies,3,51,4261412
+262741,2585384,Industrial and Provident Societies,Enterprise:Enforcement and Monitoring of Legislation:Industrial and Provident Societies,3,6,136615
+262741,602762,Insolvency,Enterprise:Enforcement and Monitoring of Legislation:Insolvency,3,2501,1029642315
+262741,2222363,Intellectual Property,Enterprise:Enforcement and Monitoring of Legislation:Intellectual Property,3,65,30953513
+262741,12687274,Labour Inspection,Enterprise:Enforcement and Monitoring of Legislation:Labour Inspection,3,3118,41271006676
+262741,2585389,Limited Partnerships,Enterprise:Enforcement and Monitoring of Legislation:Limited Partnerships,3,4,850410
+262741,2222372,Major Events,Enterprise:Enforcement and Monitoring of Legislation:Major Events,3,50,37097858
+262741,255500,Measurement,Enterprise:Enforcement and Monitoring of Legislation:Measurement,3,3727,2559193259
+262741,82020460,MIQ 1 Test Structure,Enterprise:Enforcement and Monitoring of Legislation:MIQ 1 Test Structure,3,35,0
+262741,82021001,MIQ 2 Test Structure,Enterprise:Enforcement and Monitoring of Legislation:MIQ 2 Test Structure,3,35,0
+262741,82021662,MIQ 3 Test Structure,Enterprise:Enforcement and Monitoring of Legislation:MIQ 3 Test Structure,3,35,0
+262741,2222375,Motor Vehicles,Enterprise:Enforcement and Monitoring of Legislation:Motor Vehicles,3,25,2700200
+262741,18124891,Occupational Licensing,Enterprise:Enforcement and Monitoring of Legislation:Occupational Licensing,3,1444,1079856424
+262741,602764,Official Assignee Compliance,Enterprise:Enforcement and Monitoring of Legislation:Official Assignee Compliance,3,14802,31887987795
+262741,2222378,Overseas Issuers,Enterprise:Enforcement and Monitoring of Legislation:Overseas Issuers,3,2,0
+262741,2222381,Participatory Securities,Enterprise:Enforcement and Monitoring of Legislation:Participatory Securities,3,10,620907
+262741,2222384,Personal Property and Securities Register (PPSR),Enterprise:Enforcement and Monitoring of Legislation:Personal Property and Securities Register (PPSR),3,25,5602589
+262741,602763,Petroleum and Minerals,Enterprise:Enforcement and Monitoring of Legislation:Petroleum and Minerals,3,95,32195479
+262741,255498,Product Safety,Enterprise:Enforcement and Monitoring of Legislation:Product Safety,3,2416,1602009098
+262741,2222387,Radio Spectrum,Enterprise:Enforcement and Monitoring of Legislation:Radio Spectrum,3,397,53388905
+262741,16697123,Research Levies,Enterprise:Enforcement and Monitoring of Legislation:Research Levies,3,6,50688
+262741,2222464,Retirement Villages,Enterprise:Enforcement and Monitoring of Legislation:Retirement Villages,3,222,213270762
+262741,602765,Securities,Enterprise:Enforcement and Monitoring of Legislation:Securities,3,1,51446
+262741,28345506,Social Housing,Enterprise:Enforcement and Monitoring of Legislation:Social Housing,3,9,3677040
+262741,2222471,Statutory Management,Enterprise:Enforcement and Monitoring of Legislation:Statutory Management,3,93,15269321
+262741,2222474,Superannuation,Enterprise:Enforcement and Monitoring of Legislation:Superannuation,3,3,603136
+262741,255504,Tariff Concessions,Enterprise:Enforcement and Monitoring of Legislation:Tariff Concessions,3,119,20064171
+262741,255506,Telecommunications,Enterprise:Enforcement and Monitoring of Legislation:Telecommunications,3,792,1455842081
+262741,14510116,Tenancy,Enterprise:Enforcement and Monitoring of Legislation:Tenancy,3,5967,3491176878
+262741,255502,Trade Remedies,Enterprise:Enforcement and Monitoring of Legislation:Trade Remedies,3,1530,1852616191
+262741,602766,Unit Trusts,Enterprise:Enforcement and Monitoring of Legislation:Unit Trusts,3,8,165255
+262741,14257610,Weathertight Services,Enterprise:Enforcement and Monitoring of Legislation:Weathertight Services,3,30,137048918
+599221,23689151,Accreditation Council,Enterprise:Crown Entity and Board Performance:Accreditation Council,3,53,9806229
+599221,7560496,AgResearch,Enterprise:Crown Entity and Board Performance:AgResearch,3,248,101567287
+599221,17953951,Building Practitioners Board,Enterprise:Crown Entity and Board Performance:Building Practitioners Board,3,60,16486259
+599221,60327702,Building Research Association of New Zealand (BRANZ),Enterprise:Crown Entity and Board Performance:Building Research Association of New Zealand (BRANZ),3,19,0
+599221,17880750,Cab 51/01 Membership,Enterprise:Crown Entity and Board Performance:Cab 51/01 Membership,3,0,0
+599221,3560518,Callaghan Innovation,Enterprise:Crown Entity and Board Performance:Callaghan Innovation,3,286,108318838
+599221,17943851,Chartered Professional Engineers Council,Enterprise:Crown Entity and Board Performance:Chartered Professional Engineers Council,3,54,10081486
+599221,602743,Commerce Commission,Enterprise:Crown Entity and Board Performance:Commerce Commission,3,680,194238098
+599221,602744,Commission for Financial Capability,Enterprise:Crown Entity and Board Performance:Commission for Financial Capability,3,41,18690118
+599221,7736249,Crown Research Institutes Portfolio,Enterprise:Crown Entity and Board Performance:Crown Research Institutes Portfolio,3,368,651468437
+599221,8562008,Education New Zealand,Enterprise:Crown Entity and Board Performance:Education New Zealand,3,39,2676743
+599221,17331821,Electrical Workers Registration Board,Enterprise:Crown Entity and Board Performance:Electrical Workers Registration Board,3,56,7295837
+599221,602745,Electricity Authority,Enterprise:Crown Entity and Board Performance:Electricity Authority,3,138,36294502
+599221,602746,Electricity Industry Rulings Panel,Enterprise:Crown Entity and Board Performance:Electricity Industry Rulings Panel,3,14,1204867
+599221,6105447,Employment Relations Authority,Enterprise:Crown Entity and Board Performance:Employment Relations Authority,3,106,45156202
+599221,602747,Energy Efficiency and Conservation Authority (EECA),Enterprise:Crown Entity and Board Performance:Energy Efficiency and Conservation Authority (EECA),3,90,19936338
+599221,17334838,Engineering Associates Registration Board,Enterprise:Crown Entity and Board Performance:Engineering Associates Registration Board,3,46,6554513
+599221,7738756,Environmental Science and Research (ESR),Enterprise:Crown Entity and Board Performance:Environmental Science and Research (ESR),3,215,71586171
+599221,602748,External Reporting Board (XRB),Enterprise:Crown Entity and Board Performance:External Reporting Board (XRB),3,178,31911734
+599221,602749,Financial Markets Authority (FMA),Enterprise:Crown Entity and Board Performance:Financial Markets Authority (FMA),3,260,43948276
+599221,602750,Gas Industry Rulings Panel,Enterprise:Crown Entity and Board Performance:Gas Industry Rulings Panel,3,3,0
+599221,7731239,GNS Science,Enterprise:Crown Entity and Board Performance:GNS Science,3,211,124478041
+599221,60329094,Heavy Engineering Research Association (HERA),Enterprise:Crown Entity and Board Performance:Heavy Engineering Research Association (HERA),3,15,0
+599221,694268,Joint Accreditation System of Australia and New Zealand (JAS-ANZ),Enterprise:Crown Entity and Board Performance:Joint Accreditation System of Australia and New Zealand (JAS-ANZ),3,60,4609495
+599221,7733457,Landcare Research (LCR),Enterprise:Crown Entity and Board Performance:Landcare Research (LCR),3,253,120758206
+599221,694148,Managing Advice on Entity Performance,Enterprise:Crown Entity and Board Performance:Managing Advice on Entity Performance,3,112,36301019
+599221,75506121,Managing Appointments and Governance,Enterprise:Crown Entity and Board Performance:Managing Appointments and Governance,3,198,33345340
+599221,7736452,National Institute of Water and Atmospheric Research (NIWA),Enterprise:Crown Entity and Board Performance:National Institute of Water and Atmospheric Research (NIWA),3,191,124611049
+599221,3398313,New Zealand Cycle Trail (NZCT) Establishment Advisory Board,Enterprise:Crown Entity and Board Performance:New Zealand Cycle Trail (NZCT) Establishment Advisory Board,3,10,1096658
+599221,8574955,New Zealand Cycle Trail (NZCT) Inc.,Enterprise:Crown Entity and Board Performance:New Zealand Cycle Trail (NZCT) Inc.,3,24,25195624
+599221,602752,New Zealand Maori Arts and Crafts Institute (Te Puia),Enterprise:Crown Entity and Board Performance:New Zealand Maori Arts and Crafts Institute (Te Puia),3,63,11141138
+599221,17329282,New Zealand Registered Architects Board,Enterprise:Crown Entity and Board Performance:New Zealand Registered Architects Board,3,42,4796343
+599221,23692498,New Zealand Standards Approval Board,Enterprise:Crown Entity and Board Performance:New Zealand Standards Approval Board,3,58,17980467
+599221,602753,New Zealand Tourism Board,Enterprise:Crown Entity and Board Performance:New Zealand Tourism Board,3,197,48952669
+599221,602754,New Zealand Trade and Enterprise,Enterprise:Crown Entity and Board Performance:New Zealand Trade and Enterprise,3,576,368519701
+599221,602755,New Zealand Venture Investment Fund,Enterprise:Crown Entity and Board Performance:New Zealand Venture Investment Fund,3,119,26320523
+599221,17956431,Occupational Licensing Boards (Common Material),Enterprise:Crown Entity and Board Performance:Occupational Licensing Boards (Common Material),3,27,6223250
+599221,7735848,Plant and Food Research,Enterprise:Crown Entity and Board Performance:Plant and Food Research,3,159,92941582
+599221,17329808,"Plumbers, Gasfitters and Drainlayers Board","Enterprise:Crown Entity and Board Performance:Plumbers, Gasfitters and Drainlayers Board",3,52,10642477
+599221,6105136,Remuneration Authority,Enterprise:Crown Entity and Board Performance:Remuneration Authority,3,46,22280312
+599221,7827150,Research and Education Advanced Network New Zealand Ltd (REANNZ),Enterprise:Crown Entity and Board Performance:Research and Education Advanced Network New Zealand Ltd (REANNZ),3,61,26605328
+599221,7737562,Scion,Enterprise:Crown Entity and Board Performance:Scion,3,231,99766928
+599221,49643703,Standards Approval Board,Enterprise:Crown Entity and Board Performance:Standards Approval Board,3,29,915533
+599221,602757,Takeovers Panel,Enterprise:Crown Entity and Board Performance:Takeovers Panel,3,175,26259189
+599221,8562788,Tertiary Education Commission,Enterprise:Crown Entity and Board Performance:Tertiary Education Commission,3,43,3750163
+599221,20433535,WorkSafe New Zealand,Enterprise:Crown Entity and Board Performance:WorkSafe New Zealand,3,138,40176515
+599221,4269714,zFairWay Resolution Ltd (Closed),Enterprise:Crown Entity and Board Performance:zFairWay Resolution Ltd (Closed),3,66,16202253
+599221,602756,zStandards Council (Closed),Enterprise:Crown Entity and Board Performance:zStandards Council (Closed),3,1847,445912404
+599221,5739062,zState Housing Appeals Authority (Closed),Enterprise:Crown Entity and Board Performance:zState Housing Appeals Authority (Closed),3,10,2154004
+599221,602758,zTesting Laboratory Registration Council (Closed),Enterprise:Crown Entity and Board Performance:zTesting Laboratory Registration Council (Closed),3,101,57785569
+262739,255480,Whirinaki,Enterprise:Crown Asset Management:Whirinaki,3,34,10396133
