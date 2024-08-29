@@ -14,7 +14,7 @@ async function init () {
   console.log(dataFromCsv);
 
   //initExampleChart(data);  
-  initIcicleChart(dataFromCsv, (i) => i.CountOfItems); // todo: fix count of items, so it is only count of immediate children (apart from lowest level folders)
+  initIcicleChart(dataFromCsv, (i) => i.data.CountOfItems); // todo: fix count of items, so it is only count of immediate children (apart from lowest level folders)
 }
 
 function initIcicleChart(data, getValue) {
