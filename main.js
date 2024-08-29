@@ -4,6 +4,8 @@ async function init () {
 
   const csv = await fetchSourceCsv('./heirarchy.csv')
   const table = d3.csvParse(csv);
+  table[0].ParentID = ''; // clear the parent for the root node.
+  
   const data = d3.stratify()
                   .id((d) => d.Name)
                   .parentId((d) => d.ParentID)(table);
