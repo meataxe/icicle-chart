@@ -1,2 +1,3220 @@
-
-[{"name":"Enterprise","dataid":2000,"countofitems":2303214,"sizeofallversions":2790523068350,"children":[{"name":"Crown Asset Management","dataid":262739,"countofitems":35,"sizeofallversions":10396133,"children":[{"name":"Whirinaki","dataid":255480,"countofitems":34,"sizeofallversions":10396133}]},{"name":"Crown Entity and Board Performance","dataid":599221,"countofitems":8118,"sizeofallversions":3176943715,"children":[{"name":"Accreditation Council","dataid":23689151,"countofitems":53,"sizeofallversions":9806229},{"name":"AgResearch","dataid":7560496,"countofitems":248,"sizeofallversions":101567287},{"name":"Building Practitioners Board","dataid":17953951,"countofitems":60,"sizeofallversions":16486259},{"name":"Building Research Association of New Zealand (BRANZ)","dataid":60327702,"countofitems":19,"sizeofallversions":0},{"name":"Cab 51\/01 Membership","dataid":17880750,"countofitems":0,"sizeofallversions":0},{"name":"Callaghan Innovation","dataid":3560518,"countofitems":286,"sizeofallversions":108318838},{"name":"Chartered Professional Engineers Council","dataid":17943851,"countofitems":54,"sizeofallversions":10081486},{"name":"Commerce Commission","dataid":602743,"countofitems":680,"sizeofallversions":194238098},{"name":"Commission for Financial Capability","dataid":602744,"countofitems":41,"sizeofallversions":18690118},{"name":"Crown Research Institutes Portfolio","dataid":7736249,"countofitems":368,"sizeofallversions":651468437},{"name":"Education New Zealand","dataid":8562008,"countofitems":39,"sizeofallversions":2676743},{"name":"Electrical Workers Registration Board","dataid":17331821,"countofitems":56,"sizeofallversions":7295837},{"name":"Electricity Authority","dataid":602745,"countofitems":138,"sizeofallversions":36294502},{"name":"Electricity Industry Rulings Panel","dataid":602746,"countofitems":14,"sizeofallversions":1204867},{"name":"Employment Relations Authority","dataid":6105447,"countofitems":106,"sizeofallversions":45156202},{"name":"Energy Efficiency and Conservation Authority (EECA)","dataid":602747,"countofitems":90,"sizeofallversions":19936338},{"name":"Engineering Associates Registration Board","dataid":17334838,"countofitems":46,"sizeofallversions":6554513},{"name":"Environmental Science and Research (ESR)","dataid":7738756,"countofitems":215,"sizeofallversions":71586171},{"name":"External Reporting Board (XRB)","dataid":602748,"countofitems":178,"sizeofallversions":31911734},{"name":"Financial Markets Authority (FMA)","dataid":602749,"countofitems":260,"sizeofallversions":43948276},{"name":"Gas Industry Rulings Panel","dataid":602750,"countofitems":3,"sizeofallversions":0},{"name":"GNS Science","dataid":7731239,"countofitems":211,"sizeofallversions":124478041},{"name":"Heavy Engineering Research Association (HERA)","dataid":60329094,"countofitems":15,"sizeofallversions":0},{"name":"Joint Accreditation System of Australia and New Zealand (JAS-ANZ)","dataid":694268,"countofitems":60,"sizeofallversions":4609495},{"name":"Landcare Research (LCR)","dataid":7733457,"countofitems":253,"sizeofallversions":120758206},{"name":"Managing Advice on Entity Performance","dataid":694148,"countofitems":112,"sizeofallversions":36301019},{"name":"Managing Appointments and Governance","dataid":75506121,"countofitems":198,"sizeofallversions":33345340},{"name":"National Institute of Water and Atmospheric Research (NIWA)","dataid":7736452,"countofitems":191,"sizeofallversions":124611049},{"name":"New Zealand Cycle Trail (NZCT) Establishment Advisory Board","dataid":3398313,"countofitems":10,"sizeofallversions":1096658},{"name":"New Zealand Cycle Trail (NZCT) Inc.","dataid":8574955,"countofitems":24,"sizeofallversions":25195624},{"name":"New Zealand Maori Arts and Crafts Institute (Te Puia)","dataid":602752,"countofitems":63,"sizeofallversions":11141138},{"name":"New Zealand Registered Architects Board","dataid":17329282,"countofitems":42,"sizeofallversions":4796343},{"name":"New Zealand Standards Approval Board","dataid":23692498,"countofitems":58,"sizeofallversions":17980467},{"name":"New Zealand Tourism Board","dataid":602753,"countofitems":197,"sizeofallversions":48952669},{"name":"New Zealand Trade and Enterprise","dataid":602754,"countofitems":576,"sizeofallversions":368519701},{"name":"New Zealand Venture Investment Fund","dataid":602755,"countofitems":119,"sizeofallversions":26320523},{"name":"Occupational Licensing Boards (Common Material)","dataid":17956431,"countofitems":27,"sizeofallversions":6223250},{"name":"Plant and Food Research","dataid":7735848,"countofitems":159,"sizeofallversions":92941582},{"name":"Plumbers, Gasfitters and Drainlayers Board","dataid":17329808,"countofitems":52,"sizeofallversions":10642477},{"name":"Remuneration Authority","dataid":6105136,"countofitems":46,"sizeofallversions":22280312},{"name":"Research and Education Advanced Network New Zealand Ltd (REANNZ)","dataid":7827150,"countofitems":61,"sizeofallversions":26605328},{"name":"Scion","dataid":7737562,"countofitems":231,"sizeofallversions":99766928},{"name":"Standards Approval Board","dataid":49643703,"countofitems":29,"sizeofallversions":915533},{"name":"Takeovers Panel","dataid":602757,"countofitems":175,"sizeofallversions":26259189},{"name":"Tertiary Education Commission","dataid":8562788,"countofitems":43,"sizeofallversions":3750163},{"name":"WorkSafe New Zealand","dataid":20433535,"countofitems":138,"sizeofallversions":40176515},{"name":"zFairWay Resolution Ltd (Closed)","dataid":4269714,"countofitems":66,"sizeofallversions":16202253},{"name":"zStandards Council (Closed)","dataid":602756,"countofitems":1847,"sizeofallversions":445912404},{"name":"zState Housing Appeals Authority (Closed)","dataid":5739062,"countofitems":10,"sizeofallversions":2154004},{"name":"zTesting Laboratory Registration Council (Closed)","dataid":602758,"countofitems":101,"sizeofallversions":57785569}]},{"name":"Enforcement and Monitoring of Legislation","dataid":262741,"countofitems":88085,"sizeofallversions":118686599232,"children":[{"name":"Accident Compensation","dataid":5441251,"countofitems":35,"sizeofallversions":4396968},{"name":"Auditors","dataid":2221390,"countofitems":4,"sizeofallversions":161359},{"name":"Building","dataid":26386814,"countofitems":2923,"sizeofallversions":2630485888},{"name":"Building Societies","dataid":1800290,"countofitems":4,"sizeofallversions":105028},{"name":"Charitable Trusts","dataid":1795970,"countofitems":45,"sizeofallversions":8346232},{"name":"Commerce","dataid":602759,"countofitems":9,"sizeofallversions":382976},{"name":"Companies Office Enforcement","dataid":24588853,"countofitems":5,"sizeofallversions":2415045},{"name":"Company Reporting","dataid":602760,"countofitems":1155,"sizeofallversions":656400671},{"name":"Construction and Housing Markets","dataid":21528773,"countofitems":6,"sizeofallversions":17834857},{"name":"Contributory Mortgage Brokers","dataid":2221421,"countofitems":2,"sizeofallversions":0},{"name":"Criminal Proceeds","dataid":5437974,"countofitems":13,"sizeofallversions":3824739},{"name":"Electricity","dataid":255505,"countofitems":97,"sizeofallversions":30623274},{"name":"Employment","dataid":11828568,"countofitems":2245,"sizeofallversions":1800887573},{"name":"Energy Safety","dataid":255499,"countofitems":1194,"sizeofallversions":1897834202},{"name":"Financial Reporting","dataid":1797264,"countofitems":158,"sizeofallversions":55102414},{"name":"Financial Service Providers","dataid":1800291,"countofitems":35,"sizeofallversions":3783920},{"name":"Friendly Societies and Credit Unions","dataid":2222348,"countofitems":33,"sizeofallversions":13663474},{"name":"Fuel Quality Monitoring","dataid":602761,"countofitems":338,"sizeofallversions":206112767},{"name":"Immigration","dataid":10737745,"countofitems":41943,"sizeofallversions":24476954112},{"name":"Immigration Advisers - Restricted","dataid":17150929,"countofitems":166,"sizeofallversions":89944391},{"name":"Incorporated Societies","dataid":1798585,"countofitems":51,"sizeofallversions":4261412},{"name":"Industrial and Provident Societies","dataid":2585384,"countofitems":6,"sizeofallversions":136615},{"name":"Insolvency","dataid":602762,"countofitems":2501,"sizeofallversions":1029642315},{"name":"Intellectual Property","dataid":2222363,"countofitems":65,"sizeofallversions":30953513},{"name":"Labour Inspection","dataid":12687274,"countofitems":3118,"sizeofallversions":41271006676},{"name":"Limited Partnerships","dataid":2585389,"countofitems":4,"sizeofallversions":850410},{"name":"Major Events","dataid":2222372,"countofitems":50,"sizeofallversions":37097858},{"name":"Measurement","dataid":255500,"countofitems":3727,"sizeofallversions":2559193259},{"name":"MIQ 1 Test Structure","dataid":82020460,"countofitems":35,"sizeofallversions":0},{"name":"MIQ 2 Test Structure","dataid":82021001,"countofitems":35,"sizeofallversions":0},{"name":"MIQ 3 Test Structure","dataid":82021662,"countofitems":35,"sizeofallversions":0},{"name":"Motor Vehicles","dataid":2222375,"countofitems":25,"sizeofallversions":2700200},{"name":"Occupational Licensing","dataid":18124891,"countofitems":1444,"sizeofallversions":1079856424},{"name":"Official Assignee Compliance","dataid":602764,"countofitems":14802,"sizeofallversions":31887987795},{"name":"Overseas Issuers","dataid":2222378,"countofitems":2,"sizeofallversions":0},{"name":"Participatory Securities","dataid":2222381,"countofitems":10,"sizeofallversions":620907},{"name":"Personal Property and Securities Register (PPSR)","dataid":2222384,"countofitems":25,"sizeofallversions":5602589},{"name":"Petroleum and Minerals","dataid":602763,"countofitems":95,"sizeofallversions":32195479},{"name":"Product Safety","dataid":255498,"countofitems":2416,"sizeofallversions":1602009098},{"name":"Radio Spectrum","dataid":2222387,"countofitems":397,"sizeofallversions":53388905},{"name":"Research Levies","dataid":16697123,"countofitems":6,"sizeofallversions":50688},{"name":"Retirement Villages","dataid":2222464,"countofitems":222,"sizeofallversions":213270762},{"name":"Securities","dataid":602765,"countofitems":1,"sizeofallversions":51446},{"name":"Social Housing","dataid":28345506,"countofitems":9,"sizeofallversions":3677040},{"name":"Statutory Management","dataid":2222471,"countofitems":93,"sizeofallversions":15269321},{"name":"Superannuation","dataid":2222474,"countofitems":3,"sizeofallversions":603136},{"name":"Tariff Concessions","dataid":255504,"countofitems":119,"sizeofallversions":20064171},{"name":"Telecommunications","dataid":255506,"countofitems":792,"sizeofallversions":1455842081},{"name":"Tenancy","dataid":14510116,"countofitems":5967,"sizeofallversions":3491176878},{"name":"Trade Remedies","dataid":255502,"countofitems":1530,"sizeofallversions":1852616191},{"name":"Unit Trusts","dataid":602766,"countofitems":8,"sizeofallversions":165255},{"name":"Weathertight Services","dataid":14257610,"countofitems":30,"sizeofallversions":137048918}]},{"name":"Governance and Strategy","dataid":262742,"countofitems":996005,"sizeofallversions":1048102550520,"children":[{"name":"Branch - Provincial Development Unit","dataid":76988854,"countofitems":2371,"sizeofallversions":429664801},{"name":"Branch and Team Management (pre MBIE)","dataid":255508,"countofitems":4499,"sizeofallversions":3375898779},{"name":"Business Group - Building, Resources and Markets","dataid":3655058,"countofitems":9578,"sizeofallversions":17344868644},{"name":"Business Group - Corporate, Governance and Information","dataid":3356744,"countofitems":12750,"sizeofallversions":18248370512},{"name":"Business Group - Finance and Performance","dataid":27163092,"countofitems":3927,"sizeofallversions":18390154879},{"name":"Business Group - Immigration New Zealand (INZ)","dataid":14438064,"countofitems":35282,"sizeofallversions":36283325312},{"name":"Business Group - Labour and Commercial Environment","dataid":3668882,"countofitems":4009,"sizeofallversions":6979373019},{"name":"Business Group - Labour Science and Enterprise","dataid":3517786,"countofitems":5557,"sizeofallversions":9558553849},{"name":"Business Group - Market Services","dataid":3546236,"countofitems":38299,"sizeofallversions":79534406408},{"name":"Business Group - Office of the Chief Executive (OCE)","dataid":9303315,"countofitems":1945,"sizeofallversions":2037626970},{"name":"Business Group - Strategy and Governance","dataid":3425881,"countofitems":1812,"sizeofallversions":1202070357},{"name":"Managing Client Advice, Services and Education","dataid":5761395,"countofitems":2018,"sizeofallversions":1862540082},{"name":"Managing Communications","dataid":599234,"countofitems":3920,"sizeofallversions":5257039773},{"name":"Managing Finance","dataid":261529,"countofitems":1267,"sizeofallversions":1215682573},{"name":"Managing Health, Safety and Wellbeing","dataid":19772363,"countofitems":3347,"sizeofallversions":1390470322},{"name":"Managing Immigration Resolutions","dataid":15250342,"countofitems":76053,"sizeofallversions":50065222938},{"name":"Managing Information and Data","dataid":261530,"countofitems":198565,"sizeofallversions":7365698525},{"name":"Managing Legal Services","dataid":599246,"countofitems":8155,"sizeofallversions":2040748642},{"name":"Managing Ministerial Servicing","dataid":255514,"countofitems":463614,"sizeofallversions":636785116969},{"name":"Managing People","dataid":261531,"countofitems":32264,"sizeofallversions":16301757777},{"name":"Managing Privacy","dataid":26085693,"countofitems":2061,"sizeofallversions":5803098028},{"name":"Managing Procurement","dataid":255513,"countofitems":3226,"sizeofallversions":1292389862},{"name":"Managing Property","dataid":255515,"countofitems":7050,"sizeofallversions":8283712969},{"name":"Managing Research, Evaluation and Analysis","dataid":10985212,"countofitems":1840,"sizeofallversions":2680209755},{"name":"Managing Risk and Assurance","dataid":261532,"countofitems":4222,"sizeofallversions":7468451386},{"name":"Managing Security","dataid":7323725,"countofitems":8285,"sizeofallversions":8165260729},{"name":"Managing Technology","dataid":255516,"countofitems":25259,"sizeofallversions":48547397835},{"name":"Managing the Capital Portfolio","dataid":4246721,"countofitems":3303,"sizeofallversions":6024030613},{"name":"Managing the Enterprise Investment Portfolio","dataid":70641411,"countofitems":8621,"sizeofallversions":11743006353},{"name":"Managing Visa Services","dataid":15402051,"countofitems":5386,"sizeofallversions":2451995213},{"name":"Managing Web and Intranet","dataid":599262,"countofitems":2297,"sizeofallversions":3493267264},{"name":"Monitoring and Reporting","dataid":255517,"countofitems":6385,"sizeofallversions":19142908271},{"name":"oiioioioo","dataid":80337506,"countofitems":0,"sizeofallversions":0},{"name":"Stakeholder Engagement","dataid":2235318,"countofitems":653,"sizeofallversions":2039457120},{"name":"Strategic Management","dataid":1412463,"countofitems":5430,"sizeofallversions":3224431577},{"name":"Strategy and Planning","dataid":255518,"countofitems":2717,"sizeofallversions":2074342392},{"name":"test","dataid":81079639,"countofitems":0,"sizeofallversions":0},{"name":"Test2","dataid":81104555,"countofitems":0,"sizeofallversions":0}]},{"name":"Grants and Funds Management","dataid":599265,"countofitems":10682,"sizeofallversions":11820033994,"children":[{"name":"Additional Folder","dataid":81190359,"countofitems":0,"sizeofallversions":0},{"name":"Managing Individual Funds","dataid":1811154,"countofitems":8111,"sizeofallversions":5168845835},{"name":"Managing Investment Strategy","dataid":7820969,"countofitems":45,"sizeofallversions":1747974},{"name":"Managing Ministry Projects","dataid":1811549,"countofitems":21,"sizeofallversions":2610647},{"name":"Managing Stakeholder Engagement","dataid":7821540,"countofitems":73,"sizeofallversions":17250752},{"name":"Refugee Settlement","dataid":14509649,"countofitems":201,"sizeofallversions":0},{"name":"Science Board","dataid":15834145,"countofitems":307,"sizeofallversions":232550398},{"name":"Science Investments Processes","dataid":18800198,"countofitems":1916,"sizeofallversions":6397028388}]},{"name":"Licensing, Permits and Registration","dataid":262744,"countofitems":27477,"sizeofallversions":68007852248,"children":[{"name":"Auctioneers","dataid":14697332,"countofitems":278,"sizeofallversions":149149459},{"name":"Business Registers","dataid":2187031,"countofitems":12956,"sizeofallversions":44355935652},{"name":"Economic Development Contact Centre","dataid":2469166,"countofitems":980,"sizeofallversions":201424918},{"name":"Immigration Adviser Licensing","dataid":17154398,"countofitems":296,"sizeofallversions":97017707},{"name":"Intellectual Property","dataid":603096,"countofitems":1882,"sizeofallversions":3114037091},{"name":"Motor Vehicle Trader Register (Restricted)","dataid":17136943,"countofitems":1326,"sizeofallversions":2891312881},{"name":"NZ Space Agency Regulator (Restricted)","dataid":69195100,"countofitems":196,"sizeofallversions":42855008},{"name":"Petroleum and Minerals","dataid":603102,"countofitems":9053,"sizeofallversions":16838721941},{"name":"Pool Inspectors","dataid":65930451,"countofitems":10,"sizeofallversions":13604133},{"name":"Radio Spectrum","dataid":603103,"countofitems":417,"sizeofallversions":288922438},{"name":"Telecommunications and Postal Services","dataid":603106,"countofitems":72,"sizeofallversions":14871020}]},{"name":"MAKO Utilities","dataid":197355,"countofitems":32,"sizeofallversions":6286759,"children":[{"name":"Group Management Dashboard","dataid":82479233,"countofitems":23,"sizeofallversions":6286759},{"name":"Groups and folder permissions (Dashboard)","dataid":74230206,"countofitems":0,"sizeofallversions":0},{"name":"My Recently Accessed Documents (30 Days)","dataid":278142,"countofitems":0,"sizeofallversions":0},{"name":"My Recently Edited Documents (30 days)","dataid":278801,"countofitems":0,"sizeofallversions":0},{"name":"New Folder Request","dataid":62400041,"countofitems":0,"sizeofallversions":0},{"name":"New Folder Request - Administration","dataid":69248914,"countofitems":2,"sizeofallversions":0},{"name":"New Folder Request (Dashboard)","dataid":61009054,"countofitems":0,"sizeofallversions":0}]},{"name":"Petroleum and Minerals (merge the content into the other L2 structure)","dataid":81663789,"countofitems":71508,"sizeofallversions":111088874091,"children":[{"name":"RAPID","dataid":81663790,"countofitems":71507,"sizeofallversions":111088874091}]},{"name":"Petroleum and Minerals Perms V2 (all levels) (To Keep this structure)","dataid":81954480,"countofitems":15057,"sizeofallversions":18115744234,"children":[{"name":"RAPID","dataid":81954148,"countofitems":15056,"sizeofallversions":18115744234}]},{"name":"Pike River Recovery Agency","dataid":74863897,"countofitems":1070,"sizeofallversions":1203047115,"children":[{"name":"Agency Administration","dataid":75380708,"countofitems":212,"sizeofallversions":88973238},{"name":"Chief Executive Workspace (Restricted)","dataid":75370636,"countofitems":10,"sizeofallversions":1769081},{"name":"Communications","dataid":75365359,"countofitems":60,"sizeofallversions":61384858},{"name":"Conflicts of Interest","dataid":76867756,"countofitems":5,"sizeofallversions":1170669},{"name":"Family Reference Group (FRG)","dataid":75358766,"countofitems":23,"sizeofallversions":2559298},{"name":"Legal","dataid":75360296,"countofitems":8,"sizeofallversions":4933664},{"name":"Ministerial Servicing","dataid":75365581,"countofitems":203,"sizeofallversions":113452207},{"name":"Pike River Agency Establishment Unit (PREU) - Restricted Copy","dataid":77050707,"countofitems":187,"sizeofallversions":201199320},{"name":"Pike River Mine Management","dataid":75365792,"countofitems":210,"sizeofallversions":646034416},{"name":"Policies and Procedures","dataid":75372219,"countofitems":16,"sizeofallversions":8930504},{"name":"Records and Information Management","dataid":76991219,"countofitems":33,"sizeofallversions":3981938},{"name":"Re-Entry Planning","dataid":76121546,"countofitems":56,"sizeofallversions":32652401},{"name":"Stakeholder Engagement","dataid":75365576,"countofitems":34,"sizeofallversions":36005521}]},{"name":"Policy Advice, Regulation and Standards","dataid":262745,"countofitems":238568,"sizeofallversions":232497684672,"children":[{"name":"Accident Compensation","dataid":6474438,"countofitems":1140,"sizeofallversions":820221926},{"name":"Building and Housing","dataid":14546353,"countofitems":7461,"sizeofallversions":8695979746},{"name":"Business and Regional Development Programmes","dataid":603109,"countofitems":453,"sizeofallversions":253503248},{"name":"Business Law","dataid":255522,"countofitems":2836,"sizeofallversions":2946256746},{"name":"Climate Change","dataid":603111,"countofitems":137,"sizeofallversions":242936879},{"name":"Competition Law","dataid":255526,"countofitems":1983,"sizeofallversions":998867975},{"name":"Consumer Issues","dataid":255523,"countofitems":1946,"sizeofallversions":1040313692},{"name":"Delivering Business Facing Services","dataid":1382606,"countofitems":2901,"sizeofallversions":8847360},{"name":"Disaster Business Support","dataid":72467371,"countofitems":81,"sizeofallversions":0},{"name":"Dispute Resolution","dataid":5346744,"countofitems":641,"sizeofallversions":1149526188},{"name":"Earthquake Recovery","dataid":1812594,"countofitems":1158,"sizeofallversions":0},{"name":"Economic Growth","dataid":603115,"countofitems":1985,"sizeofallversions":2403759214},{"name":"Electricity","dataid":255525,"countofitems":616,"sizeofallversions":413543649},{"name":"Employment","dataid":6801992,"countofitems":695,"sizeofallversions":2391638168},{"name":"Employment Relations","dataid":6267983,"countofitems":3101,"sizeofallversions":2290921558},{"name":"Energy and Resource Information","dataid":603116,"countofitems":935,"sizeofallversions":233071197},{"name":"Energy Efficiency","dataid":255524,"countofitems":370,"sizeofallversions":216651948},{"name":"Energy International","dataid":1602913,"countofitems":151,"sizeofallversions":0},{"name":"Energy Markets","dataid":1603009,"countofitems":227,"sizeofallversions":119561239},{"name":"Energy Safety","dataid":603118,"countofitems":435,"sizeofallversions":3638017565},{"name":"Firm Capability","dataid":603120,"countofitems":793,"sizeofallversions":427473403},{"name":"Gas","dataid":1603022,"countofitems":259,"sizeofallversions":249701109},{"name":"Governance","dataid":61616623,"countofitems":2,"sizeofallversions":0},{"name":"Government Procurement and Property","dataid":603122,"countofitems":35669,"sizeofallversions":27985779435},{"name":"Health and Safety","dataid":6474218,"countofitems":1922,"sizeofallversions":2353172853},{"name":"Immigration","dataid":6493564,"countofitems":39567,"sizeofallversions":27117886640},{"name":"Immigration Advisers","dataid":17153151,"countofitems":669,"sizeofallversions":214073436},{"name":"Immigration International Linkages","dataid":14467756,"countofitems":415,"sizeofallversions":0},{"name":"Infrastructure","dataid":1603089,"countofitems":131,"sizeofallversions":112988525},{"name":"Insolvency","dataid":1985924,"countofitems":18,"sizeofallversions":1933885},{"name":"Intellectual Property","dataid":255527,"countofitems":1627,"sizeofallversions":1282361930},{"name":"Interagency Advice and Consultation","dataid":75296651,"countofitems":2,"sizeofallversions":0},{"name":"International Labour Relations","dataid":7796172,"countofitems":450,"sizeofallversions":257189869},{"name":"Just Transition","dataid":79850769,"countofitems":23,"sizeofallversions":4350579},{"name":"Labour and Business Information","dataid":6734993,"countofitems":523,"sizeofallversions":1524411572},{"name":"Labour Inspection","dataid":20356254,"countofitems":22,"sizeofallversions":285915068},{"name":"Major Events","dataid":603125,"countofitems":1044,"sizeofallversions":1494199002},{"name":"Maori Economic Development (MED)","dataid":11756067,"countofitems":793,"sizeofallversions":24292015},{"name":"Natural Resources","dataid":603126,"countofitems":1909,"sizeofallversions":2493345836},{"name":"Petroleum and Minerals","dataid":603127,"countofitems":509,"sizeofallversions":277794350},{"name":"Policy Advice for Regulation","dataid":60321027,"countofitems":1,"sizeofallversions":0},{"name":"Postal","dataid":603128,"countofitems":199,"sizeofallversions":61707369},{"name":"Product Safety","dataid":1807793,"countofitems":75,"sizeofallversions":14447271},{"name":"Provision of Information and Resources to Business","dataid":1383619,"countofitems":2497,"sizeofallversions":2850282613},{"name":"Quality of Advice","dataid":28783779,"countofitems":179,"sizeofallversions":907936723},{"name":"Quality of Regulation","dataid":3926432,"countofitems":815,"sizeofallversions":2231765542},{"name":"Radio Spectrum","dataid":603130,"countofitems":726,"sizeofallversions":0},{"name":"Regional Development - Closed","dataid":1809413,"countofitems":56,"sizeofallversions":0},{"name":"Regional Economic Development","dataid":73484756,"countofitems":79,"sizeofallversions":0},{"name":"Regions and Cities","dataid":255520,"countofitems":3474,"sizeofallversions":3993006495},{"name":"Research, Evaluation and Analysis","dataid":29857477,"countofitems":0,"sizeofallversions":0},{"name":"Science and Innovation","dataid":4244851,"countofitems":4455,"sizeofallversions":8267621013},{"name":"Science and Innovation International Linkages","dataid":7828894,"countofitems":2853,"sizeofallversions":1265644050},{"name":"Sector Development","dataid":603132,"countofitems":1573,"sizeofallversions":2151073243},{"name":"Small Business","dataid":603133,"countofitems":5360,"sizeofallversions":67996029156},{"name":"Standards NZ","dataid":46317211,"countofitems":91026,"sizeofallversions":36121325131},{"name":"Sustainable Development","dataid":1383679,"countofitems":63,"sizeofallversions":8431929},{"name":"Tariff and Border (Goods) Policy","dataid":255529,"countofitems":246,"sizeofallversions":150182394},{"name":"Telecommunications","dataid":255521,"countofitems":2608,"sizeofallversions":3441777606},{"name":"Tourism","dataid":603137,"countofitems":3177,"sizeofallversions":5914829471},{"name":"Tourism Research","dataid":603138,"countofitems":2110,"sizeofallversions":2707106336},{"name":"Trade and Economic Linkages","dataid":603139,"countofitems":1082,"sizeofallversions":422463326},{"name":"Trade Remedies","dataid":255530,"countofitems":252,"sizeofallversions":21567199}]},{"name":"Published Information","dataid":25076392,"countofitems":5243,"sizeofallversions":15588058748,"children":[{"name":"Catalogued","dataid":25071177,"countofitems":632,"sizeofallversions":1462881043},{"name":"Department of Labour (DOL) Publications","dataid":29656976,"countofitems":593,"sizeofallversions":598966042},{"name":"Digitised Collections","dataid":25074953,"countofitems":651,"sizeofallversions":4447667007},{"name":"Former Agency Library Collections","dataid":25602160,"countofitems":2778,"sizeofallversions":5559101424},{"name":"Images","dataid":52821605,"countofitems":40,"sizeofallversions":10381025},{"name":"Journals","dataid":25069447,"countofitems":543,"sizeofallversions":3509062207}]},{"name":"Team Workspaces","dataid":81163143,"countofitems":70,"sizeofallversions":10259805,"children":[{"name":"MAKO Workspace","dataid":81166216,"countofitems":58,"sizeofallversions":9817852},{"name":"xECM Test Team Workspace","dataid":81159320,"countofitems":10,"sizeofallversions":441953}]},{"name":"WorkSafe New Zealand","dataid":12616206,"countofitems":0,"sizeofallversions":0},{"name":"xBuilding and Housing","dataid":4505909,"countofitems":395623,"sizeofallversions":1008000130346,"children":[{"name":"Administration","dataid":4505910,"countofitems":1342,"sizeofallversions":926325684},{"name":"Building Quality and Standards","dataid":4505911,"countofitems":59805,"sizeofallversions":104402745308},{"name":"Communications","dataid":4505912,"countofitems":4688,"sizeofallversions":2727245347},{"name":"Financial Management","dataid":4505913,"countofitems":2099,"sizeofallversions":1271889079},{"name":"ICT","dataid":4505914,"countofitems":10997,"sizeofallversions":14741310780},{"name":"Information Management","dataid":4505915,"countofitems":769,"sizeofallversions":1226363839},{"name":"Legal Advice","dataid":4505916,"countofitems":9304,"sizeofallversions":3302718663},{"name":"Ministerial Servicing","dataid":4505917,"countofitems":42739,"sizeofallversions":283785089380},{"name":"Monitoring HNZC and Boards","dataid":4510419,"countofitems":1562,"sizeofallversions":1048886491},{"name":"Organisational Leadership","dataid":4510420,"countofitems":1470,"sizeofallversions":1039039639},{"name":"Planning and Reporting","dataid":4510421,"countofitems":4366,"sizeofallversions":3187285857},{"name":"Regulatory Schemes and Programmes","dataid":4510422,"countofitems":84521,"sizeofallversions":163214138284},{"name":"Sector and Regulatory Policy","dataid":4510424,"countofitems":18514,"sizeofallversions":17387121791},{"name":"Sector Capability and Performance","dataid":4510423,"countofitems":12469,"sizeofallversions":24585779785},{"name":"Service Delivery","dataid":4510425,"countofitems":123026,"sizeofallversions":363313227547},{"name":"Social Housing Unit","dataid":4510426,"countofitems":6311,"sizeofallversions":8484016016},{"name":"Team Administration","dataid":4510427,"countofitems":10330,"sizeofallversions":8064724208},{"name":"Trends Analysis, Research and Evaluation","dataid":4510428,"countofitems":1293,"sizeofallversions":5292222648}]},{"name":"xCERA","dataid":45357185,"countofitems":2672,"sizeofallversions":2038557461,"children":[{"name":"Built Environment","dataid":45242147,"countofitems":1941,"sizeofallversions":1182263501},{"name":"Economic","dataid":45901985,"countofitems":12,"sizeofallversions":0},{"name":"Executive Management","dataid":45471777,"countofitems":9,"sizeofallversions":14882043},{"name":"Leadership and Integration","dataid":45476332,"countofitems":12,"sizeofallversions":0},{"name":"Shared Services","dataid":45471794,"countofitems":662,"sizeofallversions":837029137},{"name":"Social","dataid":45905378,"countofitems":30,"sizeofallversions":4382780}]},{"name":"xDepartment of Labour","dataid":9917760,"countofitems":55097,"sizeofallversions":14608680442,"children":[{"name":"BGM Business Group Management","dataid":9935036,"countofitems":1559,"sizeofallversions":2690427044},{"name":"COM Communications & Marketing","dataid":15410796,"countofitems":31,"sizeofallversions":1581977},{"name":"FIN Financial Management","dataid":9934046,"countofitems":31,"sizeofallversions":6177665},{"name":"GOV Governance","dataid":15409917,"countofitems":2496,"sizeofallversions":487914142},{"name":"HRM Human Resource Management","dataid":12680337,"countofitems":1309,"sizeofallversions":230439177},{"name":"IMA Information Management","dataid":9911161,"countofitems":3556,"sizeofallversions":835831818},{"name":"IMM Immigration Management","dataid":15121415,"countofitems":11624,"sizeofallversions":1108560638},{"name":"INR International Relations","dataid":16099870,"countofitems":141,"sizeofallversions":29781154},{"name":"LGM Legal Management","dataid":10807386,"countofitems":8575,"sizeofallversions":2974644024},{"name":"Ministerial Services","dataid":14724400,"countofitems":8609,"sizeofallversions":4029258605},{"name":"ZXS1 - Ex SilentOne Content","dataid":10370369,"countofitems":17155,"sizeofallversions":2214064198}]},{"name":"xEconomic Development After 1\/1\/2007","dataid":277151,"countofitems":54988,"sizeofallversions":19182852979,"children":[{"name":"Business Services Branch","dataid":586558,"countofitems":8855,"sizeofallversions":3762307343},{"name":"Chief Executive's Office","dataid":1742747,"countofitems":103,"sizeofallversions":51193351},{"name":"Commercial Solutions Branch","dataid":611013,"countofitems":1922,"sizeofallversions":845813018},{"name":"Competition, Trade & Investment","dataid":588988,"countofitems":4421,"sizeofallversions":960211673},{"name":"Documents Migrated from New Zealand Trade and Enterprise","dataid":2852614,"countofitems":983,"sizeofallversions":471208404},{"name":"Economic Development Policy Branch","dataid":1081445,"countofitems":1274,"sizeofallversions":712558582},{"name":"Economic Strategy Branch","dataid":586573,"countofitems":1694,"sizeofallversions":537739061},{"name":"Effective Markets","dataid":602207,"countofitems":1776,"sizeofallversions":580939105},{"name":"Energy and Communications Branch","dataid":588750,"countofitems":8714,"sizeofallversions":2342642427},{"name":"Government Economic and Urban Development Office","dataid":897165,"countofitems":13,"sizeofallversions":4712648},{"name":"Industry and Regional Development Branch","dataid":588455,"countofitems":4986,"sizeofallversions":1872489614},{"name":"Information Technology Group","dataid":601977,"countofitems":1469,"sizeofallversions":512199116},{"name":"MBIE Office of the Acting Chief Executive","dataid":2438714,"countofitems":6,"sizeofallversions":390911},{"name":"Ministry of Consumer Affairs","dataid":588486,"countofitems":1888,"sizeofallversions":637951269},{"name":"Ministry of Tourism","dataid":589281,"countofitems":1707,"sizeofallversions":1119522718},{"name":"New Zealand Petroleum & Minerals","dataid":649335,"countofitems":634,"sizeofallversions":143911957},{"name":"Organisational Development and Support","dataid":588366,"countofitems":10718,"sizeofallversions":3112982126},{"name":"Organisational Devt & Support","dataid":3354952,"countofitems":5,"sizeofallversions":159195},{"name":"Regulatory and Competition Policy Branch","dataid":588473,"countofitems":495,"sizeofallversions":90460913},{"name":"Resources and Networks","dataid":588403,"countofitems":503,"sizeofallversions":55037642},{"name":"Tourism, Events and Consumer Affairs Branch","dataid":1088130,"countofitems":2801,"sizeofallversions":1368421906}]},{"name":"xEconomic Development Before 1\/1\/2007","dataid":560843,"countofitems":46555,"sizeofallversions":7536987151,"children":[{"name":"Business Services Branch","dataid":567833,"countofitems":9867,"sizeofallversions":1101332269},{"name":"Competition, Trade & Investment  - Appraised","dataid":567973,"countofitems":35,"sizeofallversions":0},{"name":"Economic Strategy Branch","dataid":567945,"countofitems":31,"sizeofallversions":1857419},{"name":"Effective Markets","dataid":568499,"countofitems":55,"sizeofallversions":5863438},{"name":"Energy and Communications Branch","dataid":568315,"countofitems":137,"sizeofallversions":13573972},{"name":"Government Economic & Urban Development Office","dataid":576641,"countofitems":1,"sizeofallversions":0},{"name":"Industry and Regional Development Branch","dataid":567949,"countofitems":5177,"sizeofallversions":742323806},{"name":"Inquiries","dataid":706945,"countofitems":11,"sizeofallversions":249190},{"name":"Medium Term Strategy Group","dataid":569477,"countofitems":122,"sizeofallversions":12682848},{"name":"Ministry of Consumer Affairs","dataid":577048,"countofitems":3878,"sizeofallversions":1034323795},{"name":"Ministry of Tourism","dataid":818273,"countofitems":1814,"sizeofallversions":696335322},{"name":"Organisational Devt & Support","dataid":568106,"countofitems":10799,"sizeofallversions":1996654132},{"name":"Regulatory and Competition Policy Branch","dataid":569401,"countofitems":7111,"sizeofallversions":782219152},{"name":"Resources and Networks","dataid":569482,"countofitems":7503,"sizeofallversions":1149571808}]},{"name":"xFoundation for Research, Science and Technology","dataid":11826037,"countofitems":94005,"sizeofallversions":41255354515,"children":[{"name":"Not Filed to Fileplan","dataid":11826038,"countofitems":37735,"sizeofallversions":19342237733},{"name":"Personal Workspace Content","dataid":11826040,"countofitems":34110,"sizeofallversions":11358211091},{"name":"Public","dataid":11826041,"countofitems":22156,"sizeofallversions":10554905691},{"name":"to be deleted","dataid":20559791,"countofitems":0,"sizeofallversions":0}]},{"name":"xINSITE (Closed)","dataid":81652357,"countofitems":2380,"sizeofallversions":176767501,"children":[{"name":"2011","dataid":82022541,"countofitems":87,"sizeofallversions":0},{"name":"2012","dataid":82023101,"countofitems":661,"sizeofallversions":84722279},{"name":"2013","dataid":82023002,"countofitems":60,"sizeofallversions":0},{"name":"2014","dataid":82023010,"countofitems":60,"sizeofallversions":0},{"name":"2015","dataid":82022685,"countofitems":60,"sizeofallversions":0},{"name":"2016","dataid":82022911,"countofitems":60,"sizeofallversions":0},{"name":"2017","dataid":82023912,"countofitems":60,"sizeofallversions":0},{"name":"2018","dataid":82023151,"countofitems":60,"sizeofallversions":0},{"name":"2019","dataid":82023159,"countofitems":60,"sizeofallversions":0},{"name":"2020","dataid":82022613,"countofitems":60,"sizeofallversions":0},{"name":"2021","dataid":82022621,"countofitems":60,"sizeofallversions":0},{"name":"2022","dataid":82022629,"countofitems":60,"sizeofallversions":0},{"name":"2023","dataid":82023079,"countofitems":60,"sizeofallversions":0},{"name":"2024","dataid":82023740,"countofitems":60,"sizeofallversions":0},{"name":"2025","dataid":82028000,"countofitems":60,"sizeofallversions":0},{"name":"Employment Relations Authority","dataid":82028009,"countofitems":789,"sizeofallversions":91833600},{"name":"KnowledgeBase","dataid":82028308,"countofitems":44,"sizeofallversions":211600},{"name":"xArchive Information","dataid":82025064,"countofitems":1,"sizeofallversions":22}]},{"name":"xMinistry of Research Science and Technology","dataid":9025637,"countofitems":75779,"sizeofallversions":16396860576,"children":[{"name":"_Commercialisation & Connectivity","dataid":8950369,"countofitems":810,"sizeofallversions":127002871},{"name":"Biological","dataid":8950370,"countofitems":749,"sizeofallversions":135753525},{"name":"Biotechnology","dataid":8950371,"countofitems":2810,"sizeofallversions":526629076},{"name":"Communications","dataid":8950372,"countofitems":2515,"sizeofallversions":866936128},{"name":"Confidential","dataid":15122666,"countofitems":77,"sizeofallversions":12271887},{"name":"Contract Management","dataid":8950373,"countofitems":704,"sizeofallversions":203076990},{"name":"Environment","dataid":8950374,"countofitems":2235,"sizeofallversions":635834360},{"name":"External Relationships","dataid":8950375,"countofitems":495,"sizeofallversions":44069455},{"name":"Finance","dataid":8950376,"countofitems":905,"sizeofallversions":33380640},{"name":"Funding RS and T","dataid":8950377,"countofitems":4053,"sizeofallversions":664671723},{"name":"Global","dataid":8950378,"countofitems":10113,"sizeofallversions":1571076540},{"name":"Group Management","dataid":8950379,"countofitems":2738,"sizeofallversions":327146110},{"name":"Human Resources","dataid":8950380,"countofitems":4933,"sizeofallversions":457260286},{"name":"Information Management","dataid":8950381,"countofitems":5387,"sizeofallversions":892540046},{"name":"Legal","dataid":8950382,"countofitems":972,"sizeofallversions":100626724},{"name":"Ministerial-Official Correspondence","dataid":8950383,"countofitems":4215,"sizeofallversions":879171783},{"name":"MoRST Committees","dataid":8950384,"countofitems":2652,"sizeofallversions":700238108},{"name":"MoRST Governance","dataid":8950385,"countofitems":3974,"sizeofallversions":767036968},{"name":"MSI CE Interim Fileplan","dataid":8950386,"countofitems":151,"sizeofallversions":0},{"name":"Not Filed to Fileplan","dataid":9088410,"countofitems":6293,"sizeofallversions":3606430798},{"name":"Office of the Chief Executive","dataid":8950387,"countofitems":406,"sizeofallversions":30045808},{"name":"Office Operations","dataid":8950388,"countofitems":1064,"sizeofallversions":212038795},{"name":"Physical Sciences","dataid":8950389,"countofitems":391,"sizeofallversions":99867343},{"name":"Statistics and Evaluation","dataid":8950390,"countofitems":5559,"sizeofallversions":1485571470},{"name":"System Wide Policy","dataid":8950391,"countofitems":10397,"sizeofallversions":1845517466},{"name":"Vote RS and T Budget","dataid":8950392,"countofitems":1155,"sizeofallversions":172665676}]},{"name":"xMinistry of Science and Innovation","dataid":7830362,"countofitems":59594,"sizeofallversions":13219266801,"children":[{"name":"_Documents without legacy folder","dataid":12728025,"countofitems":17,"sizeofallversions":6074775},{"name":"AS - Administrative Services","dataid":7821266,"countofitems":1079,"sizeofallversions":223033582},{"name":"ATI - Advanced Technology Institute","dataid":7821267,"countofitems":714,"sizeofallversions":142514658},{"name":"BII_Business Innovation and Investment (BII)","dataid":7821268,"countofitems":7315,"sizeofallversions":2273541593},{"name":"CR - Crown Research Institutes (CRIs)","dataid":7821269,"countofitems":1073,"sizeofallversions":312950988},{"name":"ES - Evaluation and Statistics","dataid":7821270,"countofitems":1236,"sizeofallversions":549850000},{"name":"FM - Finance Management","dataid":7821271,"countofitems":254,"sizeofallversions":140096765},{"name":"GE - Global Expert Services","dataid":7821272,"countofitems":2675,"sizeofallversions":800180035},{"name":"GO - Governance","dataid":7821273,"countofitems":4546,"sizeofallversions":863374169},{"name":"IA - Operational Policy","dataid":7821259,"countofitems":536,"sizeofallversions":132377833},{"name":"IF - Investment Funding","dataid":7821274,"countofitems":8855,"sizeofallversions":909294973},{"name":"IL - International","dataid":7821275,"countofitems":5388,"sizeofallversions":1000563257},{"name":"IM - Information Management","dataid":7821276,"countofitems":4470,"sizeofallversions":732081914},{"name":"IR - Investment Performance, Reviews & Analysis","dataid":7821260,"countofitems":1058,"sizeofallversions":245824852},{"name":"IS - Investment Strategy and Processes","dataid":7821277,"countofitems":2391,"sizeofallversions":598877131},{"name":"MA - Marketing and Communications","dataid":7821261,"countofitems":2842,"sizeofallversions":673397528},{"name":"MI - Minister and Cabinet","dataid":7821262,"countofitems":4999,"sizeofallversions":1183753118},{"name":"OC - Office of the Chief Executive","dataid":7821278,"countofitems":101,"sizeofallversions":5884240},{"name":"PM - Project Management","dataid":7821263,"countofitems":444,"sizeofallversions":52641431},{"name":"RA - Risk and Assurance","dataid":7821279,"countofitems":894,"sizeofallversions":88527078},{"name":"SCSI - Science Skills & Innovation","dataid":7821280,"countofitems":468,"sizeofallversions":81508276},{"name":"SI - Science and Innovation and System Wide Policy","dataid":7821264,"countofitems":2821,"sizeofallversions":749694380},{"name":"SR - Stakeholder Relationships","dataid":7821281,"countofitems":1327,"sizeofallversions":189691583},{"name":"ST - Science and Innovation System Strategy","dataid":7821282,"countofitems":2568,"sizeofallversions":940369698},{"name":"TE - NZ Trade and Enterprise","dataid":7821265,"countofitems":6,"sizeofallversions":0},{"name":"TM - Team Management","dataid":7821283,"countofitems":1324,"sizeofallversions":300836627},{"name":"VM - Vote Management Process","dataid":7821284,"countofitems":166,"sizeofallversions":22326317}]},{"name":"xStandards NZ Library","dataid":45583211,"countofitems":15304,"sizeofallversions":16779572318,"children":[{"name":"Archive","dataid":46313668,"countofitems":14434,"sizeofallversions":16696961223},{"name":"Office Services","dataid":46315201,"countofitems":868,"sizeofallversions":82611095}]},{"name":"Z_Administrative Links","dataid":243772,"countofitems":5135,"sizeofallversions":2386400578,"children":[{"name":"ActiveViews","dataid":81188488,"countofitems":32,"sizeofallversions":59880006},{"name":"Apply Business Workspace Classifications","dataid":81189368,"countofitems":6,"sizeofallversions":317105},{"name":"Audit Links","dataid":263860,"countofitems":0,"sizeofallversions":0},{"name":"Business Administrator Reports","dataid":74979754,"countofitems":15,"sizeofallversions":226824},{"name":"Categories Volume","dataid":261901,"countofitems":0,"sizeofallversions":0},{"name":"Category Templates and Forms","dataid":261199,"countofitems":80,"sizeofallversions":60335},{"name":"Global Metadata Stub Search","dataid":262657,"countofitems":0,"sizeofallversions":0},{"name":"LargeFolderMove","dataid":80471330,"countofitems":1073,"sizeofallversions":369458249},{"name":"MAKO Search Statistics","dataid":261751,"countofitems":0,"sizeofallversions":0},{"name":"Mako Support Reports","dataid":73315257,"countofitems":36,"sizeofallversions":1236513},{"name":"MBIE Admin Reports","dataid":28216937,"countofitems":94,"sizeofallversions":4630412},{"name":"Performance Benchmarking","dataid":484808,"countofitems":264,"sizeofallversions":523412502},{"name":"Purge Recycle Bin Content","dataid":16774668,"countofitems":27,"sizeofallversions":1745968},{"name":"Recycle Bin Access","dataid":265065,"countofitems":0,"sizeofallversions":0},{"name":"Reports Volume","dataid":2777768,"countofitems":0,"sizeofallversions":0},{"name":"Search Templates","dataid":261752,"countofitems":0,"sizeofallversions":0},{"name":"Smart View","dataid":80472310,"countofitems":44,"sizeofallversions":8542061},{"name":"Techtonics Reports","dataid":180192,"countofitems":256,"sizeofallversions":112739832},{"name":"Techtonics Utilities","dataid":49929137,"countofitems":2248,"sizeofallversions":457065346},{"name":"Templates Admin Volume","dataid":264766,"countofitems":0,"sizeofallversions":0},{"name":"Workflows","dataid":11494690,"countofitems":921,"sizeofallversions":846745112},{"name":"xCategory Forms","dataid":256139,"countofitems":1,"sizeofallversions":0},{"name":"xMinisterial Mako reporting system based on metadata","dataid":29499529,"countofitems":13,"sizeofallversions":321682},{"name":"zWorkspace Testing","dataid":81161077,"countofitems":1,"sizeofallversions":17663}]},{"name":"z_SP_Teams","dataid":81157461,"countofitems":51,"sizeofallversions":11273264,"children":[{"name":"EXTCOREProject","dataid":81481049,"countofitems":8,"sizeofallversions":241459},{"name":"EXTTTMAKOWorkstream","dataid":81482358,"countofitems":18,"sizeofallversions":10371787},{"name":"Shared Documents","dataid":81481810,"countofitems":1,"sizeofallversions":0},{"name":"SP Team A","dataid":81157463,"countofitems":5,"sizeofallversions":77118},{"name":"Test","dataid":81584704,"countofitems":14,"sizeofallversions":582900}]},{"name":"zArchived Sharepoint ON Line AGA","dataid":81203633,"countofitems":433,"sizeofallversions":2112764523,"children":[{"name":"Demo AGA based on Rules","dataid":81649828,"countofitems":135,"sizeofallversions":625330783},{"name":"Demo structure","dataid":81952983,"countofitems":22,"sizeofallversions":673289},{"name":"Dynamics365 Archiving Testing","dataid":81882514,"countofitems":24,"sizeofallversions":1305520},{"name":"NZTE Test Container","dataid":81498890,"countofitems":0,"sizeofallversions":0},{"name":"Old one do not use WKG-INTzzBaldrick","dataid":81232358,"countofitems":17,"sizeofallversions":20105195},{"name":"OneDrive Archive Test","dataid":81882513,"countofitems":0,"sizeofallversions":0},{"name":"Pitau Demo Test","dataid":82020492,"countofitems":8,"sizeofallversions":804601},{"name":"Shared Documents","dataid":81475430,"countofitems":76,"sizeofallversions":489766309},{"name":"Site Archiving","dataid":81496352,"countofitems":7,"sizeofallversions":19426442},{"name":"Subfolder Test","dataid":82095183,"countofitems":14,"sizeofallversions":2410291},{"name":"Test inheritance","dataid":81239839,"countofitems":0,"sizeofallversions":0},{"name":"WKG-INTzzBaldrick","dataid":81475650,"countofitems":6,"sizeofallversions":98270},{"name":"woc","dataid":81609034,"countofitems":87,"sizeofallversions":948506155},{"name":"zLord Flashheart Team","dataid":81528114,"countofitems":13,"sizeofallversions":1487659},{"name":"zzKing Kong limited [123456789012]","dataid":81246986,"countofitems":9,"sizeofallversions":2850009}]},{"name":"zzTesting","dataid":510548,"countofitems":33620,"sizeofallversions":18503268629,"children":[{"name":"_UAT test folder area (Level 2)","dataid":73081100,"countofitems":644,"sizeofallversions":356985989},{"name":"10.5 test folder","dataid":30211778,"countofitems":41,"sizeofallversions":5660975},{"name":"2015 October Techtonics Testing Copy","dataid":81094508,"countofitems":972,"sizeofallversions":279558507},{"name":"Alex Structure","dataid":81417307,"countofitems":4272,"sizeofallversions":3052595617},{"name":"Appraised Content","dataid":64343887,"countofitems":10112,"sizeofallversions":5535251071},{"name":"Atturra","dataid":82569902,"countofitems":11,"sizeofallversions":1286655},{"name":"Consenting Excellence Programme","dataid":22934384,"countofitems":3,"sizeofallversions":0},{"name":"CS Mobile UAT Test","dataid":81220541,"countofitems":0,"sizeofallversions":0},{"name":"CSM UAT Test 2","dataid":81220430,"countofitems":0,"sizeofallversions":0},{"name":"Doktrak","dataid":28190018,"countofitems":0,"sizeofallversions":0},{"name":"ExampleImport","dataid":82484067,"countofitems":5,"sizeofallversions":6949346},{"name":"ExampleImport2","dataid":82484177,"countofitems":5,"sizeofallversions":6949346},{"name":"Folder Creation Demo","dataid":65049401,"countofitems":7,"sizeofallversions":238681},{"name":"Folder Creation Demo Copy to test classifications","dataid":81212757,"countofitems":4,"sizeofallversions":238681},{"name":"FSI Demo","dataid":82448270,"countofitems":2,"sizeofallversions":9117},{"name":"FW  For Your MAKO Training","dataid":1416248,"countofitems":0,"sizeofallversions":0},{"name":"FW  MAKO [IN-CONFIDENCE RELEASE EXTERNAL]","dataid":81322270,"countofitems":0,"sizeofallversions":0},{"name":"groups","dataid":81653463,"countofitems":0,"sizeofallversions":0},{"name":"HTML DASHBOARD POC","dataid":82217551,"countofitems":78,"sizeofallversions":34396294},{"name":"INSITE Workshop","dataid":81481697,"countofitems":2,"sizeofallversions":18453},{"name":"Jacob's test folder","dataid":82056984,"countofitems":45,"sizeofallversions":35326560},{"name":"level 3 folder create test","dataid":81255339,"countofitems":11,"sizeofallversions":1438163},{"name":"Licensing","dataid":68368255,"countofitems":38,"sizeofallversions":0},{"name":"Loraine","dataid":78116534,"countofitems":26,"sizeofallversions":91063},{"name":"Mako Support Reports - UAT","dataid":77030231,"countofitems":5,"sizeofallversions":127542},{"name":"Managing Information and Data","dataid":25316520,"countofitems":48,"sizeofallversions":0},{"name":"Mark - Atturra","dataid":81619660,"countofitems":10145,"sizeofallversions":5544446573},{"name":"MBIE Record and GDA6 - all primary","dataid":72237277,"countofitems":0,"sizeofallversions":0},{"name":"MBIE Record Superceded and new MBIE class - all primary","dataid":72284168,"countofitems":0,"sizeofallversions":0},{"name":"MFS","dataid":82352563,"countofitems":47,"sizeofallversions":325500961},{"name":"Next Mako 20.4 test 30\/11","dataid":81323110,"countofitems":1,"sizeofallversions":0},{"name":"Nintex Testing","dataid":72174230,"countofitems":0,"sizeofallversions":0},{"name":"Office365 Workspace Testing","dataid":81156355,"countofitems":4,"sizeofallversions":18536},{"name":"One Note test","dataid":67248185,"countofitems":3,"sizeofallversions":13528},{"name":"Performance Testing - Techtonics","dataid":80267199,"countofitems":3,"sizeofallversions":1401582},{"name":"PRRA test folder created at level 3","dataid":81255340,"countofitems":0,"sizeofallversions":0},{"name":"Recycle Bin","dataid":81952869,"countofitems":11,"sizeofallversions":110581},{"name":"Scanning and Saving PDF into MAKO","dataid":80359404,"countofitems":0,"sizeofallversions":0},{"name":"storage proivder change test 2","dataid":80359407,"countofitems":0,"sizeofallversions":0},{"name":"storage proivder change test 21","dataid":81088439,"countofitems":0,"sizeofallversions":0},{"name":"Test 2","dataid":75664721,"countofitems":43,"sizeofallversions":2322921},{"name":"Test ActiveViews Folder","dataid":81190358,"countofitems":10,"sizeofallversions":2723390},{"name":"Test Class.01 - Testing docs - disposal in UAT","dataid":81263864,"countofitems":2,"sizeofallversions":433015},{"name":"Test Collection","dataid":81416820,"countofitems":0,"sizeofallversions":0},{"name":"test discussion","dataid":81218560,"countofitems":2,"sizeofallversions":0},{"name":"Test for level 3 PRRA folder","dataid":81255341,"countofitems":1,"sizeofallversions":29318},{"name":"UAT test folder area (level 3)","dataid":81255342,"countofitems":124,"sizeofallversions":299481930},{"name":"UI Widgets","dataid":63726989,"countofitems":17,"sizeofallversions":261728},{"name":"Update 1 - System Testing","dataid":6624191,"countofitems":43,"sizeofallversions":5176583},{"name":"Wiki test","dataid":81220212,"countofitems":4,"sizeofallversions":179058},{"name":"Workflow development","dataid":52709425,"countofitems":3055,"sizeofallversions":2534487340},{"name":"Workflow Testing","dataid":12144453,"countofitems":1397,"sizeofallversions":4730345},{"name":"Workflow training","dataid":71215919,"countofitems":65,"sizeofallversions":864826},{"name":"Workflows","dataid":55883952,"countofitems":2258,"sizeofallversions":455854833}]}]}]
+[
+    {
+        "name": "Enterprise",
+        "dataid": 2000,
+        "countofitems": 28,
+        "sizeofallversions": 0,
+        "children": [
+            {
+                "name": "Crown Asset Management",
+                "dataid": 262739,
+                "countofitems": 1,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Whirinaki",
+                        "dataid": 255480,
+                        "countofitems": 34,
+                        "sizeofallversions": 10396133
+                    }
+                ]
+            },
+            {
+                "name": "Crown Entity and Board Performance",
+                "dataid": 599221,
+                "countofitems": 50,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Accreditation Council",
+                        "dataid": 23689151,
+                        "countofitems": 53,
+                        "sizeofallversions": 9806229
+                    },
+                    {
+                        "name": "AgResearch",
+                        "dataid": 7560496,
+                        "countofitems": 248,
+                        "sizeofallversions": 101567287
+                    },
+                    {
+                        "name": "Building Practitioners Board",
+                        "dataid": 17953951,
+                        "countofitems": 60,
+                        "sizeofallversions": 16486259
+                    },
+                    {
+                        "name": "Building Research Association of New Zealand (BRANZ)",
+                        "dataid": 60327702,
+                        "countofitems": 19,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Cab 51/01 Membership",
+                        "dataid": 17880750,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Callaghan Innovation",
+                        "dataid": 3560518,
+                        "countofitems": 286,
+                        "sizeofallversions": 108318838
+                    },
+                    {
+                        "name": "Chartered Professional Engineers Council",
+                        "dataid": 17943851,
+                        "countofitems": 54,
+                        "sizeofallversions": 10081486
+                    },
+                    {
+                        "name": "Commerce Commission",
+                        "dataid": 602743,
+                        "countofitems": 680,
+                        "sizeofallversions": 194238098
+                    },
+                    {
+                        "name": "Commission for Financial Capability",
+                        "dataid": 602744,
+                        "countofitems": 41,
+                        "sizeofallversions": 18690118
+                    },
+                    {
+                        "name": "Crown Research Institutes Portfolio",
+                        "dataid": 7736249,
+                        "countofitems": 368,
+                        "sizeofallversions": 651468437
+                    },
+                    {
+                        "name": "Education New Zealand",
+                        "dataid": 8562008,
+                        "countofitems": 39,
+                        "sizeofallversions": 2676743
+                    },
+                    {
+                        "name": "Electrical Workers Registration Board",
+                        "dataid": 17331821,
+                        "countofitems": 56,
+                        "sizeofallversions": 7295837
+                    },
+                    {
+                        "name": "Electricity Authority",
+                        "dataid": 602745,
+                        "countofitems": 138,
+                        "sizeofallversions": 36294502
+                    },
+                    {
+                        "name": "Electricity Industry Rulings Panel",
+                        "dataid": 602746,
+                        "countofitems": 14,
+                        "sizeofallversions": 1204867
+                    },
+                    {
+                        "name": "Employment Relations Authority",
+                        "dataid": 6105447,
+                        "countofitems": 106,
+                        "sizeofallversions": 45156202
+                    },
+                    {
+                        "name": "Energy Efficiency and Conservation Authority (EECA)",
+                        "dataid": 602747,
+                        "countofitems": 90,
+                        "sizeofallversions": 19936338
+                    },
+                    {
+                        "name": "Engineering Associates Registration Board",
+                        "dataid": 17334838,
+                        "countofitems": 46,
+                        "sizeofallversions": 6554513
+                    },
+                    {
+                        "name": "Environmental Science and Research (ESR)",
+                        "dataid": 7738756,
+                        "countofitems": 215,
+                        "sizeofallversions": 71586171
+                    },
+                    {
+                        "name": "External Reporting Board (XRB)",
+                        "dataid": 602748,
+                        "countofitems": 178,
+                        "sizeofallversions": 31911734
+                    },
+                    {
+                        "name": "Financial Markets Authority (FMA)",
+                        "dataid": 602749,
+                        "countofitems": 260,
+                        "sizeofallversions": 43948276
+                    },
+                    {
+                        "name": "Gas Industry Rulings Panel",
+                        "dataid": 602750,
+                        "countofitems": 3,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "GNS Science",
+                        "dataid": 7731239,
+                        "countofitems": 211,
+                        "sizeofallversions": 124478041
+                    },
+                    {
+                        "name": "Heavy Engineering Research Association (HERA)",
+                        "dataid": 60329094,
+                        "countofitems": 15,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Joint Accreditation System of Australia and New Zealand (JAS-ANZ)",
+                        "dataid": 694268,
+                        "countofitems": 60,
+                        "sizeofallversions": 4609495
+                    },
+                    {
+                        "name": "Landcare Research (LCR)",
+                        "dataid": 7733457,
+                        "countofitems": 253,
+                        "sizeofallversions": 120758206
+                    },
+                    {
+                        "name": "Managing Advice on Entity Performance",
+                        "dataid": 694148,
+                        "countofitems": 112,
+                        "sizeofallversions": 36301019
+                    },
+                    {
+                        "name": "Managing Appointments and Governance",
+                        "dataid": 75506121,
+                        "countofitems": 198,
+                        "sizeofallversions": 33345340
+                    },
+                    {
+                        "name": "National Institute of Water and Atmospheric Research (NIWA)",
+                        "dataid": 7736452,
+                        "countofitems": 191,
+                        "sizeofallversions": 124611049
+                    },
+                    {
+                        "name": "New Zealand Cycle Trail (NZCT) Establishment Advisory Board",
+                        "dataid": 3398313,
+                        "countofitems": 10,
+                        "sizeofallversions": 1096658
+                    },
+                    {
+                        "name": "New Zealand Cycle Trail (NZCT) Inc.",
+                        "dataid": 8574955,
+                        "countofitems": 24,
+                        "sizeofallversions": 25195624
+                    },
+                    {
+                        "name": "New Zealand Maori Arts and Crafts Institute (Te Puia)",
+                        "dataid": 602752,
+                        "countofitems": 63,
+                        "sizeofallversions": 11141138
+                    },
+                    {
+                        "name": "New Zealand Registered Architects Board",
+                        "dataid": 17329282,
+                        "countofitems": 42,
+                        "sizeofallversions": 4796343
+                    },
+                    {
+                        "name": "New Zealand Standards Approval Board",
+                        "dataid": 23692498,
+                        "countofitems": 58,
+                        "sizeofallversions": 17980467
+                    },
+                    {
+                        "name": "New Zealand Tourism Board",
+                        "dataid": 602753,
+                        "countofitems": 197,
+                        "sizeofallversions": 48952669
+                    },
+                    {
+                        "name": "New Zealand Trade and Enterprise",
+                        "dataid": 602754,
+                        "countofitems": 576,
+                        "sizeofallversions": 368519701
+                    },
+                    {
+                        "name": "New Zealand Venture Investment Fund",
+                        "dataid": 602755,
+                        "countofitems": 119,
+                        "sizeofallversions": 26320523
+                    },
+                    {
+                        "name": "Occupational Licensing Boards (Common Material)",
+                        "dataid": 17956431,
+                        "countofitems": 27,
+                        "sizeofallversions": 6223250
+                    },
+                    {
+                        "name": "Plant and Food Research",
+                        "dataid": 7735848,
+                        "countofitems": 159,
+                        "sizeofallversions": 92941582
+                    },
+                    {
+                        "name": "Plumbers, Gasfitters and Drainlayers Board",
+                        "dataid": 17329808,
+                        "countofitems": 52,
+                        "sizeofallversions": 10642477
+                    },
+                    {
+                        "name": "Remuneration Authority",
+                        "dataid": 6105136,
+                        "countofitems": 46,
+                        "sizeofallversions": 22280312
+                    },
+                    {
+                        "name": "Research and Education Advanced Network New Zealand Ltd (REANNZ)",
+                        "dataid": 7827150,
+                        "countofitems": 61,
+                        "sizeofallversions": 26605328
+                    },
+                    {
+                        "name": "Scion",
+                        "dataid": 7737562,
+                        "countofitems": 231,
+                        "sizeofallversions": 99766928
+                    },
+                    {
+                        "name": "Standards Approval Board",
+                        "dataid": 49643703,
+                        "countofitems": 29,
+                        "sizeofallversions": 915533
+                    },
+                    {
+                        "name": "Takeovers Panel",
+                        "dataid": 602757,
+                        "countofitems": 175,
+                        "sizeofallversions": 26259189
+                    },
+                    {
+                        "name": "Tertiary Education Commission",
+                        "dataid": 8562788,
+                        "countofitems": 43,
+                        "sizeofallversions": 3750163
+                    },
+                    {
+                        "name": "WorkSafe New Zealand",
+                        "dataid": 20433535,
+                        "countofitems": 138,
+                        "sizeofallversions": 40176515
+                    },
+                    {
+                        "name": "zFairWay Resolution Ltd (Closed)",
+                        "dataid": 4269714,
+                        "countofitems": 66,
+                        "sizeofallversions": 16202253
+                    },
+                    {
+                        "name": "zStandards Council (Closed)",
+                        "dataid": 602756,
+                        "countofitems": 1847,
+                        "sizeofallversions": 445912404
+                    },
+                    {
+                        "name": "zState Housing Appeals Authority (Closed)",
+                        "dataid": 5739062,
+                        "countofitems": 10,
+                        "sizeofallversions": 2154004
+                    },
+                    {
+                        "name": "zTesting Laboratory Registration Council (Closed)",
+                        "dataid": 602758,
+                        "countofitems": 101,
+                        "sizeofallversions": 57785569
+                    }
+                ]
+            },
+            {
+                "name": "Enforcement and Monitoring of Legislation",
+                "dataid": 262741,
+                "countofitems": 52,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Accident Compensation",
+                        "dataid": 5441251,
+                        "countofitems": 35,
+                        "sizeofallversions": 4396968
+                    },
+                    {
+                        "name": "Auditors",
+                        "dataid": 2221390,
+                        "countofitems": 4,
+                        "sizeofallversions": 161359
+                    },
+                    {
+                        "name": "Building",
+                        "dataid": 26386814,
+                        "countofitems": 2923,
+                        "sizeofallversions": 2630485888
+                    },
+                    {
+                        "name": "Building Societies",
+                        "dataid": 1800290,
+                        "countofitems": 4,
+                        "sizeofallversions": 105028
+                    },
+                    {
+                        "name": "Charitable Trusts",
+                        "dataid": 1795970,
+                        "countofitems": 45,
+                        "sizeofallversions": 8346232
+                    },
+                    {
+                        "name": "Commerce",
+                        "dataid": 602759,
+                        "countofitems": 9,
+                        "sizeofallversions": 382976
+                    },
+                    {
+                        "name": "Companies Office Enforcement",
+                        "dataid": 24588853,
+                        "countofitems": 5,
+                        "sizeofallversions": 2415045
+                    },
+                    {
+                        "name": "Company Reporting",
+                        "dataid": 602760,
+                        "countofitems": 1155,
+                        "sizeofallversions": 656400671
+                    },
+                    {
+                        "name": "Construction and Housing Markets",
+                        "dataid": 21528773,
+                        "countofitems": 6,
+                        "sizeofallversions": 17834857
+                    },
+                    {
+                        "name": "Contributory Mortgage Brokers",
+                        "dataid": 2221421,
+                        "countofitems": 2,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Criminal Proceeds",
+                        "dataid": 5437974,
+                        "countofitems": 13,
+                        "sizeofallversions": 3824739
+                    },
+                    {
+                        "name": "Electricity",
+                        "dataid": 255505,
+                        "countofitems": 97,
+                        "sizeofallversions": 30623274
+                    },
+                    {
+                        "name": "Employment",
+                        "dataid": 11828568,
+                        "countofitems": 2245,
+                        "sizeofallversions": 1800887573
+                    },
+                    {
+                        "name": "Energy Safety",
+                        "dataid": 255499,
+                        "countofitems": 1194,
+                        "sizeofallversions": 1897834202
+                    },
+                    {
+                        "name": "Financial Reporting",
+                        "dataid": 1797264,
+                        "countofitems": 158,
+                        "sizeofallversions": 55102414
+                    },
+                    {
+                        "name": "Financial Service Providers",
+                        "dataid": 1800291,
+                        "countofitems": 35,
+                        "sizeofallversions": 3783920
+                    },
+                    {
+                        "name": "Friendly Societies and Credit Unions",
+                        "dataid": 2222348,
+                        "countofitems": 33,
+                        "sizeofallversions": 13663474
+                    },
+                    {
+                        "name": "Fuel Quality Monitoring",
+                        "dataid": 602761,
+                        "countofitems": 338,
+                        "sizeofallversions": 206112767
+                    },
+                    {
+                        "name": "Immigration",
+                        "dataid": 10737745,
+                        "countofitems": 41943,
+                        "sizeofallversions": 24476954112
+                    },
+                    {
+                        "name": "Immigration Advisers - Restricted",
+                        "dataid": 17150929,
+                        "countofitems": 166,
+                        "sizeofallversions": 89944391
+                    },
+                    {
+                        "name": "Incorporated Societies",
+                        "dataid": 1798585,
+                        "countofitems": 51,
+                        "sizeofallversions": 4261412
+                    },
+                    {
+                        "name": "Industrial and Provident Societies",
+                        "dataid": 2585384,
+                        "countofitems": 6,
+                        "sizeofallversions": 136615
+                    },
+                    {
+                        "name": "Insolvency",
+                        "dataid": 602762,
+                        "countofitems": 2501,
+                        "sizeofallversions": 1029642315
+                    },
+                    {
+                        "name": "Intellectual Property",
+                        "dataid": 2222363,
+                        "countofitems": 65,
+                        "sizeofallversions": 30953513
+                    },
+                    {
+                        "name": "Labour Inspection",
+                        "dataid": 12687274,
+                        "countofitems": 3118,
+                        "sizeofallversions": 41271006676
+                    },
+                    {
+                        "name": "Limited Partnerships",
+                        "dataid": 2585389,
+                        "countofitems": 4,
+                        "sizeofallversions": 850410
+                    },
+                    {
+                        "name": "Major Events",
+                        "dataid": 2222372,
+                        "countofitems": 50,
+                        "sizeofallversions": 37097858
+                    },
+                    {
+                        "name": "Measurement",
+                        "dataid": 255500,
+                        "countofitems": 3727,
+                        "sizeofallversions": 2559193259
+                    },
+                    {
+                        "name": "MIQ 1 Test Structure",
+                        "dataid": 82020460,
+                        "countofitems": 35,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "MIQ 2 Test Structure",
+                        "dataid": 82021001,
+                        "countofitems": 35,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "MIQ 3 Test Structure",
+                        "dataid": 82021662,
+                        "countofitems": 35,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Motor Vehicles",
+                        "dataid": 2222375,
+                        "countofitems": 25,
+                        "sizeofallversions": 2700200
+                    },
+                    {
+                        "name": "Occupational Licensing",
+                        "dataid": 18124891,
+                        "countofitems": 1444,
+                        "sizeofallversions": 1079856424
+                    },
+                    {
+                        "name": "Official Assignee Compliance",
+                        "dataid": 602764,
+                        "countofitems": 14802,
+                        "sizeofallversions": 31887987795
+                    },
+                    {
+                        "name": "Overseas Issuers",
+                        "dataid": 2222378,
+                        "countofitems": 2,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Participatory Securities",
+                        "dataid": 2222381,
+                        "countofitems": 10,
+                        "sizeofallversions": 620907
+                    },
+                    {
+                        "name": "Personal Property and Securities Register (PPSR)",
+                        "dataid": 2222384,
+                        "countofitems": 25,
+                        "sizeofallversions": 5602589
+                    },
+                    {
+                        "name": "Petroleum and Minerals",
+                        "dataid": 602763,
+                        "countofitems": 95,
+                        "sizeofallversions": 32195479
+                    },
+                    {
+                        "name": "Product Safety",
+                        "dataid": 255498,
+                        "countofitems": 2416,
+                        "sizeofallversions": 1602009098
+                    },
+                    {
+                        "name": "Radio Spectrum",
+                        "dataid": 2222387,
+                        "countofitems": 397,
+                        "sizeofallversions": 53388905
+                    },
+                    {
+                        "name": "Research Levies",
+                        "dataid": 16697123,
+                        "countofitems": 6,
+                        "sizeofallversions": 50688
+                    },
+                    {
+                        "name": "Retirement Villages",
+                        "dataid": 2222464,
+                        "countofitems": 222,
+                        "sizeofallversions": 213270762
+                    },
+                    {
+                        "name": "Securities",
+                        "dataid": 602765,
+                        "countofitems": 1,
+                        "sizeofallversions": 51446
+                    },
+                    {
+                        "name": "Social Housing",
+                        "dataid": 28345506,
+                        "countofitems": 9,
+                        "sizeofallversions": 3677040
+                    },
+                    {
+                        "name": "Statutory Management",
+                        "dataid": 2222471,
+                        "countofitems": 93,
+                        "sizeofallversions": 15269321
+                    },
+                    {
+                        "name": "Superannuation",
+                        "dataid": 2222474,
+                        "countofitems": 3,
+                        "sizeofallversions": 603136
+                    },
+                    {
+                        "name": "Tariff Concessions",
+                        "dataid": 255504,
+                        "countofitems": 119,
+                        "sizeofallversions": 20064171
+                    },
+                    {
+                        "name": "Telecommunications",
+                        "dataid": 255506,
+                        "countofitems": 792,
+                        "sizeofallversions": 1455842081
+                    },
+                    {
+                        "name": "Tenancy",
+                        "dataid": 14510116,
+                        "countofitems": 5967,
+                        "sizeofallversions": 3491176878
+                    },
+                    {
+                        "name": "Trade Remedies",
+                        "dataid": 255502,
+                        "countofitems": 1530,
+                        "sizeofallversions": 1852616191
+                    },
+                    {
+                        "name": "Unit Trusts",
+                        "dataid": 602766,
+                        "countofitems": 8,
+                        "sizeofallversions": 165255
+                    },
+                    {
+                        "name": "Weathertight Services",
+                        "dataid": 14257610,
+                        "countofitems": 30,
+                        "sizeofallversions": 137048918
+                    }
+                ]
+            },
+            {
+                "name": "Governance and Strategy",
+                "dataid": 262742,
+                "countofitems": 38,
+                "sizeofallversions": 22,
+                "children": [
+                    {
+                        "name": "Branch - Provincial Development Unit",
+                        "dataid": 76988854,
+                        "countofitems": 2371,
+                        "sizeofallversions": 429664801
+                    },
+                    {
+                        "name": "Branch and Team Management (pre MBIE)",
+                        "dataid": 255508,
+                        "countofitems": 4499,
+                        "sizeofallversions": 3375898779
+                    },
+                    {
+                        "name": "Business Group - Building, Resources and Markets",
+                        "dataid": 3655058,
+                        "countofitems": 9578,
+                        "sizeofallversions": 17344868644
+                    },
+                    {
+                        "name": "Business Group - Corporate, Governance and Information",
+                        "dataid": 3356744,
+                        "countofitems": 12750,
+                        "sizeofallversions": 18248370512
+                    },
+                    {
+                        "name": "Business Group - Finance and Performance",
+                        "dataid": 27163092,
+                        "countofitems": 3927,
+                        "sizeofallversions": 18390154879
+                    },
+                    {
+                        "name": "Business Group - Immigration New Zealand (INZ)",
+                        "dataid": 14438064,
+                        "countofitems": 35282,
+                        "sizeofallversions": 36283325312
+                    },
+                    {
+                        "name": "Business Group - Labour and Commercial Environment",
+                        "dataid": 3668882,
+                        "countofitems": 4009,
+                        "sizeofallversions": 6979373019
+                    },
+                    {
+                        "name": "Business Group - Labour Science and Enterprise",
+                        "dataid": 3517786,
+                        "countofitems": 5557,
+                        "sizeofallversions": 9558553849
+                    },
+                    {
+                        "name": "Business Group - Market Services",
+                        "dataid": 3546236,
+                        "countofitems": 38299,
+                        "sizeofallversions": 79534406408
+                    },
+                    {
+                        "name": "Business Group - Office of the Chief Executive (OCE)",
+                        "dataid": 9303315,
+                        "countofitems": 1945,
+                        "sizeofallversions": 2037626970
+                    },
+                    {
+                        "name": "Business Group - Strategy and Governance",
+                        "dataid": 3425881,
+                        "countofitems": 1812,
+                        "sizeofallversions": 1202070357
+                    },
+                    {
+                        "name": "Managing Client Advice, Services and Education",
+                        "dataid": 5761395,
+                        "countofitems": 2018,
+                        "sizeofallversions": 1862540082
+                    },
+                    {
+                        "name": "Managing Communications",
+                        "dataid": 599234,
+                        "countofitems": 3920,
+                        "sizeofallversions": 5257039773
+                    },
+                    {
+                        "name": "Managing Finance",
+                        "dataid": 261529,
+                        "countofitems": 1267,
+                        "sizeofallversions": 1215682573
+                    },
+                    {
+                        "name": "Managing Health, Safety and Wellbeing",
+                        "dataid": 19772363,
+                        "countofitems": 3347,
+                        "sizeofallversions": 1390470322
+                    },
+                    {
+                        "name": "Managing Immigration Resolutions",
+                        "dataid": 15250342,
+                        "countofitems": 76053,
+                        "sizeofallversions": 50065222938
+                    },
+                    {
+                        "name": "Managing Information and Data",
+                        "dataid": 261530,
+                        "countofitems": 198565,
+                        "sizeofallversions": 7365698525
+                    },
+                    {
+                        "name": "Managing Legal Services",
+                        "dataid": 599246,
+                        "countofitems": 8155,
+                        "sizeofallversions": 2040748642
+                    },
+                    {
+                        "name": "Managing Ministerial Servicing",
+                        "dataid": 255514,
+                        "countofitems": 463614,
+                        "sizeofallversions": 636785116969
+                    },
+                    {
+                        "name": "Managing People",
+                        "dataid": 261531,
+                        "countofitems": 32264,
+                        "sizeofallversions": 16301757777
+                    },
+                    {
+                        "name": "Managing Privacy",
+                        "dataid": 26085693,
+                        "countofitems": 2061,
+                        "sizeofallversions": 5803098028
+                    },
+                    {
+                        "name": "Managing Procurement",
+                        "dataid": 255513,
+                        "countofitems": 3226,
+                        "sizeofallversions": 1292389862
+                    },
+                    {
+                        "name": "Managing Property",
+                        "dataid": 255515,
+                        "countofitems": 7050,
+                        "sizeofallversions": 8283712969
+                    },
+                    {
+                        "name": "Managing Research, Evaluation and Analysis",
+                        "dataid": 10985212,
+                        "countofitems": 1840,
+                        "sizeofallversions": 2680209755
+                    },
+                    {
+                        "name": "Managing Risk and Assurance",
+                        "dataid": 261532,
+                        "countofitems": 4222,
+                        "sizeofallversions": 7468451386
+                    },
+                    {
+                        "name": "Managing Security",
+                        "dataid": 7323725,
+                        "countofitems": 8285,
+                        "sizeofallversions": 8165260729
+                    },
+                    {
+                        "name": "Managing Technology",
+                        "dataid": 255516,
+                        "countofitems": 25259,
+                        "sizeofallversions": 48547397835
+                    },
+                    {
+                        "name": "Managing the Capital Portfolio",
+                        "dataid": 4246721,
+                        "countofitems": 3303,
+                        "sizeofallversions": 6024030613
+                    },
+                    {
+                        "name": "Managing the Enterprise Investment Portfolio",
+                        "dataid": 70641411,
+                        "countofitems": 8621,
+                        "sizeofallversions": 11743006353
+                    },
+                    {
+                        "name": "Managing Visa Services",
+                        "dataid": 15402051,
+                        "countofitems": 5386,
+                        "sizeofallversions": 2451995213
+                    },
+                    {
+                        "name": "Managing Web and Intranet",
+                        "dataid": 599262,
+                        "countofitems": 2297,
+                        "sizeofallversions": 3493267264
+                    },
+                    {
+                        "name": "Monitoring and Reporting",
+                        "dataid": 255517,
+                        "countofitems": 6385,
+                        "sizeofallversions": 19142908271
+                    },
+                    {
+                        "name": "oiioioioo",
+                        "dataid": 80337506,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Stakeholder Engagement",
+                        "dataid": 2235318,
+                        "countofitems": 653,
+                        "sizeofallversions": 2039457120
+                    },
+                    {
+                        "name": "Strategic Management",
+                        "dataid": 1412463,
+                        "countofitems": 5430,
+                        "sizeofallversions": 3224431577
+                    },
+                    {
+                        "name": "Strategy and Planning",
+                        "dataid": 255518,
+                        "countofitems": 2717,
+                        "sizeofallversions": 2074342392
+                    },
+                    {
+                        "name": "test",
+                        "dataid": 81079639,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Test2",
+                        "dataid": 81104555,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    }
+                ]
+            },
+            {
+                "name": "Grants and Funds Management",
+                "dataid": 599265,
+                "countofitems": 8,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Additional Folder",
+                        "dataid": 81190359,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Managing Individual Funds",
+                        "dataid": 1811154,
+                        "countofitems": 8111,
+                        "sizeofallversions": 5168845835
+                    },
+                    {
+                        "name": "Managing Investment Strategy",
+                        "dataid": 7820969,
+                        "countofitems": 45,
+                        "sizeofallversions": 1747974
+                    },
+                    {
+                        "name": "Managing Ministry Projects",
+                        "dataid": 1811549,
+                        "countofitems": 21,
+                        "sizeofallversions": 2610647
+                    },
+                    {
+                        "name": "Managing Stakeholder Engagement",
+                        "dataid": 7821540,
+                        "countofitems": 73,
+                        "sizeofallversions": 17250752
+                    },
+                    {
+                        "name": "Refugee Settlement",
+                        "dataid": 14509649,
+                        "countofitems": 201,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Science Board",
+                        "dataid": 15834145,
+                        "countofitems": 307,
+                        "sizeofallversions": 232550398
+                    },
+                    {
+                        "name": "Science Investments Processes",
+                        "dataid": 18800198,
+                        "countofitems": 1916,
+                        "sizeofallversions": 6397028388
+                    }
+                ]
+            },
+            {
+                "name": "Licensing, Permits and Registration",
+                "dataid": 262744,
+                "countofitems": 11,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Auctioneers",
+                        "dataid": 14697332,
+                        "countofitems": 278,
+                        "sizeofallversions": 149149459
+                    },
+                    {
+                        "name": "Business Registers",
+                        "dataid": 2187031,
+                        "countofitems": 12956,
+                        "sizeofallversions": 44355935652
+                    },
+                    {
+                        "name": "Economic Development Contact Centre",
+                        "dataid": 2469166,
+                        "countofitems": 980,
+                        "sizeofallversions": 201424918
+                    },
+                    {
+                        "name": "Immigration Adviser Licensing",
+                        "dataid": 17154398,
+                        "countofitems": 296,
+                        "sizeofallversions": 97017707
+                    },
+                    {
+                        "name": "Intellectual Property",
+                        "dataid": 603096,
+                        "countofitems": 1882,
+                        "sizeofallversions": 3114037091
+                    },
+                    {
+                        "name": "Motor Vehicle Trader Register (Restricted)",
+                        "dataid": 17136943,
+                        "countofitems": 1326,
+                        "sizeofallversions": 2891312881
+                    },
+                    {
+                        "name": "NZ Space Agency Regulator (Restricted)",
+                        "dataid": 69195100,
+                        "countofitems": 196,
+                        "sizeofallversions": 42855008
+                    },
+                    {
+                        "name": "Petroleum and Minerals",
+                        "dataid": 603102,
+                        "countofitems": 9053,
+                        "sizeofallversions": 16838721941
+                    },
+                    {
+                        "name": "Pool Inspectors",
+                        "dataid": 65930451,
+                        "countofitems": 10,
+                        "sizeofallversions": 13604133
+                    },
+                    {
+                        "name": "Radio Spectrum",
+                        "dataid": 603103,
+                        "countofitems": 417,
+                        "sizeofallversions": 288922438
+                    },
+                    {
+                        "name": "Telecommunications and Postal Services",
+                        "dataid": 603106,
+                        "countofitems": 72,
+                        "sizeofallversions": 14871020
+                    }
+                ]
+            },
+            {
+                "name": "MAKO Utilities",
+                "dataid": 197355,
+                "countofitems": 7,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Group Management Dashboard",
+                        "dataid": 82479233,
+                        "countofitems": 23,
+                        "sizeofallversions": 6286759
+                    },
+                    {
+                        "name": "Groups and folder permissions (Dashboard)",
+                        "dataid": 74230206,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "My Recently Accessed Documents (30 Days)",
+                        "dataid": 278142,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "My Recently Edited Documents (30 days)",
+                        "dataid": 278801,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "New Folder Request",
+                        "dataid": 62400041,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "New Folder Request - Administration",
+                        "dataid": 69248914,
+                        "countofitems": 2,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "New Folder Request (Dashboard)",
+                        "dataid": 61009054,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    }
+                ]
+            },
+            {
+                "name": "Petroleum and Minerals (merge the content into the other L2 structure)",
+                "dataid": 81663789,
+                "countofitems": 1,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "RAPID",
+                        "dataid": 81663790,
+                        "countofitems": 71507,
+                        "sizeofallversions": 111088874091
+                    }
+                ]
+            },
+            {
+                "name": "Petroleum and Minerals Perms V2 (all levels) (To Keep this structure)",
+                "dataid": 81954480,
+                "countofitems": 1,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "RAPID",
+                        "dataid": 81954148,
+                        "countofitems": 15057,
+                        "sizeofallversions": 18116123937
+                    }
+                ]
+            },
+            {
+                "name": "Pike River Recovery Agency",
+                "dataid": 74863897,
+                "countofitems": 13,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Agency Administration",
+                        "dataid": 75380708,
+                        "countofitems": 212,
+                        "sizeofallversions": 88973238
+                    },
+                    {
+                        "name": "Chief Executive Workspace (Restricted)",
+                        "dataid": 75370636,
+                        "countofitems": 10,
+                        "sizeofallversions": 1769081
+                    },
+                    {
+                        "name": "Communications",
+                        "dataid": 75365359,
+                        "countofitems": 60,
+                        "sizeofallversions": 61384858
+                    },
+                    {
+                        "name": "Conflicts of Interest",
+                        "dataid": 76867756,
+                        "countofitems": 5,
+                        "sizeofallversions": 1170669
+                    },
+                    {
+                        "name": "Family Reference Group (FRG)",
+                        "dataid": 75358766,
+                        "countofitems": 23,
+                        "sizeofallversions": 2559298
+                    },
+                    {
+                        "name": "Legal",
+                        "dataid": 75360296,
+                        "countofitems": 8,
+                        "sizeofallversions": 4933664
+                    },
+                    {
+                        "name": "Ministerial Servicing",
+                        "dataid": 75365581,
+                        "countofitems": 203,
+                        "sizeofallversions": 113452207
+                    },
+                    {
+                        "name": "Pike River Agency Establishment Unit (PREU) - Restricted Copy",
+                        "dataid": 77050707,
+                        "countofitems": 187,
+                        "sizeofallversions": 201199320
+                    },
+                    {
+                        "name": "Pike River Mine Management",
+                        "dataid": 75365792,
+                        "countofitems": 210,
+                        "sizeofallversions": 646034416
+                    },
+                    {
+                        "name": "Policies and Procedures",
+                        "dataid": 75372219,
+                        "countofitems": 16,
+                        "sizeofallversions": 8930504
+                    },
+                    {
+                        "name": "Records and Information Management",
+                        "dataid": 76991219,
+                        "countofitems": 33,
+                        "sizeofallversions": 3981938
+                    },
+                    {
+                        "name": "Re-Entry Planning",
+                        "dataid": 76121546,
+                        "countofitems": 56,
+                        "sizeofallversions": 32652401
+                    },
+                    {
+                        "name": "Stakeholder Engagement",
+                        "dataid": 75365576,
+                        "countofitems": 34,
+                        "sizeofallversions": 36005521
+                    }
+                ]
+            },
+            {
+                "name": "Policy Advice, Regulation and Standards",
+                "dataid": 262745,
+                "countofitems": 63,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Accident Compensation",
+                        "dataid": 6474438,
+                        "countofitems": 1140,
+                        "sizeofallversions": 820221926
+                    },
+                    {
+                        "name": "Building and Housing",
+                        "dataid": 14546353,
+                        "countofitems": 7461,
+                        "sizeofallversions": 8695979746
+                    },
+                    {
+                        "name": "Business and Regional Development Programmes",
+                        "dataid": 603109,
+                        "countofitems": 453,
+                        "sizeofallversions": 253503248
+                    },
+                    {
+                        "name": "Business Law",
+                        "dataid": 255522,
+                        "countofitems": 2836,
+                        "sizeofallversions": 2946256746
+                    },
+                    {
+                        "name": "Climate Change",
+                        "dataid": 603111,
+                        "countofitems": 137,
+                        "sizeofallversions": 242936879
+                    },
+                    {
+                        "name": "Competition Law",
+                        "dataid": 255526,
+                        "countofitems": 1983,
+                        "sizeofallversions": 998867975
+                    },
+                    {
+                        "name": "Consumer Issues",
+                        "dataid": 255523,
+                        "countofitems": 1946,
+                        "sizeofallversions": 1040313692
+                    },
+                    {
+                        "name": "Delivering Business Facing Services",
+                        "dataid": 1382606,
+                        "countofitems": 2901,
+                        "sizeofallversions": 8847360
+                    },
+                    {
+                        "name": "Disaster Business Support",
+                        "dataid": 72467371,
+                        "countofitems": 81,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Dispute Resolution",
+                        "dataid": 5346744,
+                        "countofitems": 641,
+                        "sizeofallversions": 1149526188
+                    },
+                    {
+                        "name": "Earthquake Recovery",
+                        "dataid": 1812594,
+                        "countofitems": 1158,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Economic Growth",
+                        "dataid": 603115,
+                        "countofitems": 1985,
+                        "sizeofallversions": 2403759214
+                    },
+                    {
+                        "name": "Electricity",
+                        "dataid": 255525,
+                        "countofitems": 616,
+                        "sizeofallversions": 413543649
+                    },
+                    {
+                        "name": "Employment",
+                        "dataid": 6801992,
+                        "countofitems": 695,
+                        "sizeofallversions": 2391638168
+                    },
+                    {
+                        "name": "Employment Relations",
+                        "dataid": 6267983,
+                        "countofitems": 3101,
+                        "sizeofallversions": 2290921558
+                    },
+                    {
+                        "name": "Energy and Resource Information",
+                        "dataid": 603116,
+                        "countofitems": 935,
+                        "sizeofallversions": 233071197
+                    },
+                    {
+                        "name": "Energy Efficiency",
+                        "dataid": 255524,
+                        "countofitems": 370,
+                        "sizeofallversions": 216651948
+                    },
+                    {
+                        "name": "Energy International",
+                        "dataid": 1602913,
+                        "countofitems": 151,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Energy Markets",
+                        "dataid": 1603009,
+                        "countofitems": 227,
+                        "sizeofallversions": 119561239
+                    },
+                    {
+                        "name": "Energy Safety",
+                        "dataid": 603118,
+                        "countofitems": 435,
+                        "sizeofallversions": 3638017565
+                    },
+                    {
+                        "name": "Firm Capability",
+                        "dataid": 603120,
+                        "countofitems": 793,
+                        "sizeofallversions": 427473403
+                    },
+                    {
+                        "name": "Gas",
+                        "dataid": 1603022,
+                        "countofitems": 259,
+                        "sizeofallversions": 249701109
+                    },
+                    {
+                        "name": "Governance",
+                        "dataid": 61616623,
+                        "countofitems": 2,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Government Procurement and Property",
+                        "dataid": 603122,
+                        "countofitems": 35669,
+                        "sizeofallversions": 27985779435
+                    },
+                    {
+                        "name": "Health and Safety",
+                        "dataid": 6474218,
+                        "countofitems": 1922,
+                        "sizeofallversions": 2353172853
+                    },
+                    {
+                        "name": "Immigration",
+                        "dataid": 6493564,
+                        "countofitems": 39567,
+                        "sizeofallversions": 27117886640
+                    },
+                    {
+                        "name": "Immigration Advisers",
+                        "dataid": 17153151,
+                        "countofitems": 669,
+                        "sizeofallversions": 214073436
+                    },
+                    {
+                        "name": "Immigration International Linkages",
+                        "dataid": 14467756,
+                        "countofitems": 415,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Infrastructure",
+                        "dataid": 1603089,
+                        "countofitems": 131,
+                        "sizeofallversions": 112988525
+                    },
+                    {
+                        "name": "Insolvency",
+                        "dataid": 1985924,
+                        "countofitems": 18,
+                        "sizeofallversions": 1933885
+                    },
+                    {
+                        "name": "Intellectual Property",
+                        "dataid": 255527,
+                        "countofitems": 1627,
+                        "sizeofallversions": 1282361930
+                    },
+                    {
+                        "name": "Interagency Advice and Consultation",
+                        "dataid": 75296651,
+                        "countofitems": 2,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "International Labour Relations",
+                        "dataid": 7796172,
+                        "countofitems": 450,
+                        "sizeofallversions": 257189869
+                    },
+                    {
+                        "name": "Just Transition",
+                        "dataid": 79850769,
+                        "countofitems": 23,
+                        "sizeofallversions": 4350579
+                    },
+                    {
+                        "name": "Labour and Business Information",
+                        "dataid": 6734993,
+                        "countofitems": 523,
+                        "sizeofallversions": 1524411572
+                    },
+                    {
+                        "name": "Labour Inspection",
+                        "dataid": 20356254,
+                        "countofitems": 22,
+                        "sizeofallversions": 285915068
+                    },
+                    {
+                        "name": "Major Events",
+                        "dataid": 603125,
+                        "countofitems": 1044,
+                        "sizeofallversions": 1494199002
+                    },
+                    {
+                        "name": "Maori Economic Development (MED)",
+                        "dataid": 11756067,
+                        "countofitems": 793,
+                        "sizeofallversions": 24292015
+                    },
+                    {
+                        "name": "Natural Resources",
+                        "dataid": 603126,
+                        "countofitems": 1909,
+                        "sizeofallversions": 2493345836
+                    },
+                    {
+                        "name": "Petroleum and Minerals",
+                        "dataid": 603127,
+                        "countofitems": 509,
+                        "sizeofallversions": 277794350
+                    },
+                    {
+                        "name": "Policy Advice for Regulation",
+                        "dataid": 60321027,
+                        "countofitems": 1,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Postal",
+                        "dataid": 603128,
+                        "countofitems": 199,
+                        "sizeofallversions": 61707369
+                    },
+                    {
+                        "name": "Product Safety",
+                        "dataid": 1807793,
+                        "countofitems": 75,
+                        "sizeofallversions": 14447271
+                    },
+                    {
+                        "name": "Provision of Information and Resources to Business",
+                        "dataid": 1383619,
+                        "countofitems": 2497,
+                        "sizeofallversions": 2850282613
+                    },
+                    {
+                        "name": "Quality of Advice",
+                        "dataid": 28783779,
+                        "countofitems": 179,
+                        "sizeofallversions": 907936723
+                    },
+                    {
+                        "name": "Quality of Regulation",
+                        "dataid": 3926432,
+                        "countofitems": 815,
+                        "sizeofallversions": 2231765542
+                    },
+                    {
+                        "name": "Radio Spectrum",
+                        "dataid": 603130,
+                        "countofitems": 726,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Regional Development - Closed",
+                        "dataid": 1809413,
+                        "countofitems": 56,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Regional Economic Development",
+                        "dataid": 73484756,
+                        "countofitems": 79,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Regions and Cities",
+                        "dataid": 255520,
+                        "countofitems": 3474,
+                        "sizeofallversions": 3993006495
+                    },
+                    {
+                        "name": "Research, Evaluation and Analysis",
+                        "dataid": 29857477,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Science and Innovation",
+                        "dataid": 4244851,
+                        "countofitems": 4455,
+                        "sizeofallversions": 8267621013
+                    },
+                    {
+                        "name": "Science and Innovation International Linkages",
+                        "dataid": 7828894,
+                        "countofitems": 2853,
+                        "sizeofallversions": 1265644050
+                    },
+                    {
+                        "name": "Sector Development",
+                        "dataid": 603132,
+                        "countofitems": 1573,
+                        "sizeofallversions": 2151073243
+                    },
+                    {
+                        "name": "Small Business",
+                        "dataid": 603133,
+                        "countofitems": 5360,
+                        "sizeofallversions": 67996029156
+                    },
+                    {
+                        "name": "Standards NZ",
+                        "dataid": 46317211,
+                        "countofitems": 91026,
+                        "sizeofallversions": 36121325131
+                    },
+                    {
+                        "name": "Sustainable Development",
+                        "dataid": 1383679,
+                        "countofitems": 63,
+                        "sizeofallversions": 8431929
+                    },
+                    {
+                        "name": "Tariff and Border (Goods) Policy",
+                        "dataid": 255529,
+                        "countofitems": 246,
+                        "sizeofallversions": 150182394
+                    },
+                    {
+                        "name": "Telecommunications",
+                        "dataid": 255521,
+                        "countofitems": 2608,
+                        "sizeofallversions": 3441777606
+                    },
+                    {
+                        "name": "Tourism",
+                        "dataid": 603137,
+                        "countofitems": 3177,
+                        "sizeofallversions": 5914829471
+                    },
+                    {
+                        "name": "Tourism Research",
+                        "dataid": 603138,
+                        "countofitems": 2110,
+                        "sizeofallversions": 2707106336
+                    },
+                    {
+                        "name": "Trade and Economic Linkages",
+                        "dataid": 603139,
+                        "countofitems": 1082,
+                        "sizeofallversions": 422463326
+                    },
+                    {
+                        "name": "Trade Remedies",
+                        "dataid": 255530,
+                        "countofitems": 252,
+                        "sizeofallversions": 21567199
+                    }
+                ]
+            },
+            {
+                "name": "Published Information",
+                "dataid": 25076392,
+                "countofitems": 6,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Catalogued",
+                        "dataid": 25071177,
+                        "countofitems": 632,
+                        "sizeofallversions": 1462881043
+                    },
+                    {
+                        "name": "Department of Labour (DOL) Publications",
+                        "dataid": 29656976,
+                        "countofitems": 593,
+                        "sizeofallversions": 598966042
+                    },
+                    {
+                        "name": "Digitised Collections",
+                        "dataid": 25074953,
+                        "countofitems": 651,
+                        "sizeofallversions": 4447667007
+                    },
+                    {
+                        "name": "Former Agency Library Collections",
+                        "dataid": 25602160,
+                        "countofitems": 2778,
+                        "sizeofallversions": 5559101424
+                    },
+                    {
+                        "name": "Images",
+                        "dataid": 52821605,
+                        "countofitems": 40,
+                        "sizeofallversions": 10381025
+                    },
+                    {
+                        "name": "Journals",
+                        "dataid": 25069447,
+                        "countofitems": 543,
+                        "sizeofallversions": 3509062207
+                    }
+                ]
+            },
+            {
+                "name": "Team Workspaces",
+                "dataid": 81163143,
+                "countofitems": 2,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "MAKO Workspace",
+                        "dataid": 81166216,
+                        "countofitems": 58,
+                        "sizeofallversions": 9817852
+                    },
+                    {
+                        "name": "xECM Test Team Workspace",
+                        "dataid": 81159320,
+                        "countofitems": 10,
+                        "sizeofallversions": 441953
+                    }
+                ]
+            },
+            {
+                "name": "WorkSafe New Zealand",
+                "dataid": 12616206,
+                "countofitems": 0,
+                "sizeofallversions": 0
+            },
+            {
+                "name": "xBuilding and Housing",
+                "dataid": 4505909,
+                "countofitems": 18,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Administration",
+                        "dataid": 4505910,
+                        "countofitems": 1342,
+                        "sizeofallversions": 926325684
+                    },
+                    {
+                        "name": "Building Quality and Standards",
+                        "dataid": 4505911,
+                        "countofitems": 59805,
+                        "sizeofallversions": 104402745308
+                    },
+                    {
+                        "name": "Communications",
+                        "dataid": 4505912,
+                        "countofitems": 4688,
+                        "sizeofallversions": 2727245347
+                    },
+                    {
+                        "name": "Financial Management",
+                        "dataid": 4505913,
+                        "countofitems": 2099,
+                        "sizeofallversions": 1271889079
+                    },
+                    {
+                        "name": "ICT",
+                        "dataid": 4505914,
+                        "countofitems": 10997,
+                        "sizeofallversions": 14741310780
+                    },
+                    {
+                        "name": "Information Management",
+                        "dataid": 4505915,
+                        "countofitems": 769,
+                        "sizeofallversions": 1226363839
+                    },
+                    {
+                        "name": "Legal Advice",
+                        "dataid": 4505916,
+                        "countofitems": 9304,
+                        "sizeofallversions": 3302718663
+                    },
+                    {
+                        "name": "Ministerial Servicing",
+                        "dataid": 4505917,
+                        "countofitems": 42739,
+                        "sizeofallversions": 283785089380
+                    },
+                    {
+                        "name": "Monitoring HNZC and Boards",
+                        "dataid": 4510419,
+                        "countofitems": 1562,
+                        "sizeofallversions": 1048886491
+                    },
+                    {
+                        "name": "Organisational Leadership",
+                        "dataid": 4510420,
+                        "countofitems": 1470,
+                        "sizeofallversions": 1039039639
+                    },
+                    {
+                        "name": "Planning and Reporting",
+                        "dataid": 4510421,
+                        "countofitems": 4366,
+                        "sizeofallversions": 3187285857
+                    },
+                    {
+                        "name": "Regulatory Schemes and Programmes",
+                        "dataid": 4510422,
+                        "countofitems": 84521,
+                        "sizeofallversions": 163214138284
+                    },
+                    {
+                        "name": "Sector and Regulatory Policy",
+                        "dataid": 4510424,
+                        "countofitems": 18514,
+                        "sizeofallversions": 17387121791
+                    },
+                    {
+                        "name": "Sector Capability and Performance",
+                        "dataid": 4510423,
+                        "countofitems": 12469,
+                        "sizeofallversions": 24585779785
+                    },
+                    {
+                        "name": "Service Delivery",
+                        "dataid": 4510425,
+                        "countofitems": 123026,
+                        "sizeofallversions": 363313227547
+                    },
+                    {
+                        "name": "Social Housing Unit",
+                        "dataid": 4510426,
+                        "countofitems": 6311,
+                        "sizeofallversions": 8484016016
+                    },
+                    {
+                        "name": "Team Administration",
+                        "dataid": 4510427,
+                        "countofitems": 10330,
+                        "sizeofallversions": 8064724208
+                    },
+                    {
+                        "name": "Trends Analysis, Research and Evaluation",
+                        "dataid": 4510428,
+                        "countofitems": 1293,
+                        "sizeofallversions": 5292222648
+                    }
+                ]
+            },
+            {
+                "name": "xCERA",
+                "dataid": 45357185,
+                "countofitems": 6,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Built Environment",
+                        "dataid": 45242147,
+                        "countofitems": 1941,
+                        "sizeofallversions": 1182263501
+                    },
+                    {
+                        "name": "Economic",
+                        "dataid": 45901985,
+                        "countofitems": 12,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Executive Management",
+                        "dataid": 45471777,
+                        "countofitems": 9,
+                        "sizeofallversions": 14882043
+                    },
+                    {
+                        "name": "Leadership and Integration",
+                        "dataid": 45476332,
+                        "countofitems": 12,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Shared Services",
+                        "dataid": 45471794,
+                        "countofitems": 662,
+                        "sizeofallversions": 837029137
+                    },
+                    {
+                        "name": "Social",
+                        "dataid": 45905378,
+                        "countofitems": 30,
+                        "sizeofallversions": 4382780
+                    }
+                ]
+            },
+            {
+                "name": "xDepartment of Labour",
+                "dataid": 9917760,
+                "countofitems": 11,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "BGM Business Group Management",
+                        "dataid": 9935036,
+                        "countofitems": 1559,
+                        "sizeofallversions": 2690427044
+                    },
+                    {
+                        "name": "COM Communications & Marketing",
+                        "dataid": 15410796,
+                        "countofitems": 31,
+                        "sizeofallversions": 1581977
+                    },
+                    {
+                        "name": "FIN Financial Management",
+                        "dataid": 9934046,
+                        "countofitems": 31,
+                        "sizeofallversions": 6177665
+                    },
+                    {
+                        "name": "GOV Governance",
+                        "dataid": 15409917,
+                        "countofitems": 2496,
+                        "sizeofallversions": 487914142
+                    },
+                    {
+                        "name": "HRM Human Resource Management",
+                        "dataid": 12680337,
+                        "countofitems": 1309,
+                        "sizeofallversions": 230439177
+                    },
+                    {
+                        "name": "IMA Information Management",
+                        "dataid": 9911161,
+                        "countofitems": 3556,
+                        "sizeofallversions": 835831818
+                    },
+                    {
+                        "name": "IMM Immigration Management",
+                        "dataid": 15121415,
+                        "countofitems": 11624,
+                        "sizeofallversions": 1108560638
+                    },
+                    {
+                        "name": "INR International Relations",
+                        "dataid": 16099870,
+                        "countofitems": 141,
+                        "sizeofallversions": 29781154
+                    },
+                    {
+                        "name": "LGM Legal Management",
+                        "dataid": 10807386,
+                        "countofitems": 8575,
+                        "sizeofallversions": 2974644024
+                    },
+                    {
+                        "name": "Ministerial Services",
+                        "dataid": 14724400,
+                        "countofitems": 8609,
+                        "sizeofallversions": 4029258605
+                    },
+                    {
+                        "name": "ZXS1 - Ex SilentOne Content",
+                        "dataid": 10370369,
+                        "countofitems": 17155,
+                        "sizeofallversions": 2214064198
+                    }
+                ]
+            },
+            {
+                "name": "xEconomic Development After 1/1/2007",
+                "dataid": 277151,
+                "countofitems": 21,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Business Services Branch",
+                        "dataid": 586558,
+                        "countofitems": 8855,
+                        "sizeofallversions": 3762307343
+                    },
+                    {
+                        "name": "Chief Executive's Office",
+                        "dataid": 1742747,
+                        "countofitems": 103,
+                        "sizeofallversions": 51193351
+                    },
+                    {
+                        "name": "Commercial Solutions Branch",
+                        "dataid": 611013,
+                        "countofitems": 1922,
+                        "sizeofallversions": 845813018
+                    },
+                    {
+                        "name": "Competition, Trade & Investment",
+                        "dataid": 588988,
+                        "countofitems": 4421,
+                        "sizeofallversions": 960211673
+                    },
+                    {
+                        "name": "Documents Migrated from New Zealand Trade and Enterprise",
+                        "dataid": 2852614,
+                        "countofitems": 983,
+                        "sizeofallversions": 471208404
+                    },
+                    {
+                        "name": "Economic Development Policy Branch",
+                        "dataid": 1081445,
+                        "countofitems": 1274,
+                        "sizeofallversions": 712558582
+                    },
+                    {
+                        "name": "Economic Strategy Branch",
+                        "dataid": 586573,
+                        "countofitems": 1694,
+                        "sizeofallversions": 537739061
+                    },
+                    {
+                        "name": "Effective Markets",
+                        "dataid": 602207,
+                        "countofitems": 1776,
+                        "sizeofallversions": 580939105
+                    },
+                    {
+                        "name": "Energy and Communications Branch",
+                        "dataid": 588750,
+                        "countofitems": 8714,
+                        "sizeofallversions": 2342642427
+                    },
+                    {
+                        "name": "Government Economic and Urban Development Office",
+                        "dataid": 897165,
+                        "countofitems": 13,
+                        "sizeofallversions": 4712648
+                    },
+                    {
+                        "name": "Industry and Regional Development Branch",
+                        "dataid": 588455,
+                        "countofitems": 4986,
+                        "sizeofallversions": 1872489614
+                    },
+                    {
+                        "name": "Information Technology Group",
+                        "dataid": 601977,
+                        "countofitems": 1469,
+                        "sizeofallversions": 512199116
+                    },
+                    {
+                        "name": "MBIE Office of the Acting Chief Executive",
+                        "dataid": 2438714,
+                        "countofitems": 6,
+                        "sizeofallversions": 390911
+                    },
+                    {
+                        "name": "Ministry of Consumer Affairs",
+                        "dataid": 588486,
+                        "countofitems": 1888,
+                        "sizeofallversions": 637951269
+                    },
+                    {
+                        "name": "Ministry of Tourism",
+                        "dataid": 589281,
+                        "countofitems": 1707,
+                        "sizeofallversions": 1119522718
+                    },
+                    {
+                        "name": "New Zealand Petroleum & Minerals",
+                        "dataid": 649335,
+                        "countofitems": 634,
+                        "sizeofallversions": 143911957
+                    },
+                    {
+                        "name": "Organisational Development and Support",
+                        "dataid": 588366,
+                        "countofitems": 10718,
+                        "sizeofallversions": 3112982126
+                    },
+                    {
+                        "name": "Organisational Devt & Support",
+                        "dataid": 3354952,
+                        "countofitems": 5,
+                        "sizeofallversions": 159195
+                    },
+                    {
+                        "name": "Regulatory and Competition Policy Branch",
+                        "dataid": 588473,
+                        "countofitems": 495,
+                        "sizeofallversions": 90460913
+                    },
+                    {
+                        "name": "Resources and Networks",
+                        "dataid": 588403,
+                        "countofitems": 503,
+                        "sizeofallversions": 55037642
+                    },
+                    {
+                        "name": "Tourism, Events and Consumer Affairs Branch",
+                        "dataid": 1088130,
+                        "countofitems": 2801,
+                        "sizeofallversions": 1368421906
+                    }
+                ]
+            },
+            {
+                "name": "xEconomic Development Before 1/1/2007",
+                "dataid": 560843,
+                "countofitems": 14,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Business Services Branch",
+                        "dataid": 567833,
+                        "countofitems": 9867,
+                        "sizeofallversions": 1101332269
+                    },
+                    {
+                        "name": "Competition, Trade & Investment  - Appraised",
+                        "dataid": 567973,
+                        "countofitems": 35,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Economic Strategy Branch",
+                        "dataid": 567945,
+                        "countofitems": 31,
+                        "sizeofallversions": 1857419
+                    },
+                    {
+                        "name": "Effective Markets",
+                        "dataid": 568499,
+                        "countofitems": 55,
+                        "sizeofallversions": 5863438
+                    },
+                    {
+                        "name": "Energy and Communications Branch",
+                        "dataid": 568315,
+                        "countofitems": 137,
+                        "sizeofallversions": 13573972
+                    },
+                    {
+                        "name": "Government Economic & Urban Development Office",
+                        "dataid": 576641,
+                        "countofitems": 1,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Industry and Regional Development Branch",
+                        "dataid": 567949,
+                        "countofitems": 5177,
+                        "sizeofallversions": 742323806
+                    },
+                    {
+                        "name": "Inquiries",
+                        "dataid": 706945,
+                        "countofitems": 11,
+                        "sizeofallversions": 249190
+                    },
+                    {
+                        "name": "Medium Term Strategy Group",
+                        "dataid": 569477,
+                        "countofitems": 122,
+                        "sizeofallversions": 12682848
+                    },
+                    {
+                        "name": "Ministry of Consumer Affairs",
+                        "dataid": 577048,
+                        "countofitems": 3878,
+                        "sizeofallversions": 1034323795
+                    },
+                    {
+                        "name": "Ministry of Tourism",
+                        "dataid": 818273,
+                        "countofitems": 1814,
+                        "sizeofallversions": 696335322
+                    },
+                    {
+                        "name": "Organisational Devt & Support",
+                        "dataid": 568106,
+                        "countofitems": 10799,
+                        "sizeofallversions": 1996654132
+                    },
+                    {
+                        "name": "Regulatory and Competition Policy Branch",
+                        "dataid": 569401,
+                        "countofitems": 7111,
+                        "sizeofallversions": 782219152
+                    },
+                    {
+                        "name": "Resources and Networks",
+                        "dataid": 569482,
+                        "countofitems": 7503,
+                        "sizeofallversions": 1149571808
+                    }
+                ]
+            },
+            {
+                "name": "xFoundation for Research, Science and Technology",
+                "dataid": 11826037,
+                "countofitems": 4,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Not Filed to Fileplan",
+                        "dataid": 11826038,
+                        "countofitems": 37735,
+                        "sizeofallversions": 19342237733
+                    },
+                    {
+                        "name": "Personal Workspace Content",
+                        "dataid": 11826040,
+                        "countofitems": 34110,
+                        "sizeofallversions": 11358211091
+                    },
+                    {
+                        "name": "Public",
+                        "dataid": 11826041,
+                        "countofitems": 22156,
+                        "sizeofallversions": 10554905691
+                    },
+                    {
+                        "name": "to be deleted",
+                        "dataid": 20559791,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    }
+                ]
+            },
+            {
+                "name": "xINSITE (Closed)",
+                "dataid": 81652357,
+                "countofitems": 18,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "2011",
+                        "dataid": 82022541,
+                        "countofitems": 87,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2012",
+                        "dataid": 82023101,
+                        "countofitems": 661,
+                        "sizeofallversions": 84722279
+                    },
+                    {
+                        "name": "2013",
+                        "dataid": 82023002,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2014",
+                        "dataid": 82023010,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2015",
+                        "dataid": 82022685,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2016",
+                        "dataid": 82022911,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2017",
+                        "dataid": 82023912,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2018",
+                        "dataid": 82023151,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2019",
+                        "dataid": 82023159,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2020",
+                        "dataid": 82022613,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2021",
+                        "dataid": 82022621,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2022",
+                        "dataid": 82022629,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2023",
+                        "dataid": 82023079,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2024",
+                        "dataid": 82023740,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "2025",
+                        "dataid": 82028000,
+                        "countofitems": 60,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Employment Relations Authority",
+                        "dataid": 82028009,
+                        "countofitems": 789,
+                        "sizeofallversions": 91833600
+                    },
+                    {
+                        "name": "KnowledgeBase",
+                        "dataid": 82028308,
+                        "countofitems": 44,
+                        "sizeofallversions": 211600
+                    },
+                    {
+                        "name": "xArchive Information",
+                        "dataid": 82025064,
+                        "countofitems": 1,
+                        "sizeofallversions": 22
+                    }
+                ]
+            },
+            {
+                "name": "xMinistry of Research Science and Technology",
+                "dataid": 9025637,
+                "countofitems": 26,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "_Commercialisation & Connectivity",
+                        "dataid": 8950369,
+                        "countofitems": 810,
+                        "sizeofallversions": 127002871
+                    },
+                    {
+                        "name": "Biological",
+                        "dataid": 8950370,
+                        "countofitems": 749,
+                        "sizeofallversions": 135753525
+                    },
+                    {
+                        "name": "Biotechnology",
+                        "dataid": 8950371,
+                        "countofitems": 2810,
+                        "sizeofallversions": 526629076
+                    },
+                    {
+                        "name": "Communications",
+                        "dataid": 8950372,
+                        "countofitems": 2515,
+                        "sizeofallversions": 866936128
+                    },
+                    {
+                        "name": "Confidential",
+                        "dataid": 15122666,
+                        "countofitems": 77,
+                        "sizeofallversions": 12271887
+                    },
+                    {
+                        "name": "Contract Management",
+                        "dataid": 8950373,
+                        "countofitems": 704,
+                        "sizeofallversions": 203076990
+                    },
+                    {
+                        "name": "Environment",
+                        "dataid": 8950374,
+                        "countofitems": 2235,
+                        "sizeofallversions": 635834360
+                    },
+                    {
+                        "name": "External Relationships",
+                        "dataid": 8950375,
+                        "countofitems": 495,
+                        "sizeofallversions": 44069455
+                    },
+                    {
+                        "name": "Finance",
+                        "dataid": 8950376,
+                        "countofitems": 905,
+                        "sizeofallversions": 33380640
+                    },
+                    {
+                        "name": "Funding RS and T",
+                        "dataid": 8950377,
+                        "countofitems": 4053,
+                        "sizeofallversions": 664671723
+                    },
+                    {
+                        "name": "Global",
+                        "dataid": 8950378,
+                        "countofitems": 10113,
+                        "sizeofallversions": 1571076540
+                    },
+                    {
+                        "name": "Group Management",
+                        "dataid": 8950379,
+                        "countofitems": 2738,
+                        "sizeofallversions": 327146110
+                    },
+                    {
+                        "name": "Human Resources",
+                        "dataid": 8950380,
+                        "countofitems": 4933,
+                        "sizeofallversions": 457260286
+                    },
+                    {
+                        "name": "Information Management",
+                        "dataid": 8950381,
+                        "countofitems": 5387,
+                        "sizeofallversions": 892540046
+                    },
+                    {
+                        "name": "Legal",
+                        "dataid": 8950382,
+                        "countofitems": 972,
+                        "sizeofallversions": 100626724
+                    },
+                    {
+                        "name": "Ministerial-Official Correspondence",
+                        "dataid": 8950383,
+                        "countofitems": 4215,
+                        "sizeofallversions": 879171783
+                    },
+                    {
+                        "name": "MoRST Committees",
+                        "dataid": 8950384,
+                        "countofitems": 2652,
+                        "sizeofallversions": 700238108
+                    },
+                    {
+                        "name": "MoRST Governance",
+                        "dataid": 8950385,
+                        "countofitems": 3974,
+                        "sizeofallversions": 767036968
+                    },
+                    {
+                        "name": "MSI CE Interim Fileplan",
+                        "dataid": 8950386,
+                        "countofitems": 151,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Not Filed to Fileplan",
+                        "dataid": 9088410,
+                        "countofitems": 6293,
+                        "sizeofallversions": 3606430798
+                    },
+                    {
+                        "name": "Office of the Chief Executive",
+                        "dataid": 8950387,
+                        "countofitems": 406,
+                        "sizeofallversions": 30045808
+                    },
+                    {
+                        "name": "Office Operations",
+                        "dataid": 8950388,
+                        "countofitems": 1064,
+                        "sizeofallversions": 212038795
+                    },
+                    {
+                        "name": "Physical Sciences",
+                        "dataid": 8950389,
+                        "countofitems": 391,
+                        "sizeofallversions": 99867343
+                    },
+                    {
+                        "name": "Statistics and Evaluation",
+                        "dataid": 8950390,
+                        "countofitems": 5559,
+                        "sizeofallversions": 1485571470
+                    },
+                    {
+                        "name": "System Wide Policy",
+                        "dataid": 8950391,
+                        "countofitems": 10397,
+                        "sizeofallversions": 1845517466
+                    },
+                    {
+                        "name": "Vote RS and T Budget",
+                        "dataid": 8950392,
+                        "countofitems": 1155,
+                        "sizeofallversions": 172665676
+                    }
+                ]
+            },
+            {
+                "name": "xMinistry of Science and Innovation",
+                "dataid": 7830362,
+                "countofitems": 27,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "_Documents without legacy folder",
+                        "dataid": 12728025,
+                        "countofitems": 17,
+                        "sizeofallversions": 6074775
+                    },
+                    {
+                        "name": "AS - Administrative Services",
+                        "dataid": 7821266,
+                        "countofitems": 1079,
+                        "sizeofallversions": 223033582
+                    },
+                    {
+                        "name": "ATI - Advanced Technology Institute",
+                        "dataid": 7821267,
+                        "countofitems": 714,
+                        "sizeofallversions": 142514658
+                    },
+                    {
+                        "name": "BII_Business Innovation and Investment (BII)",
+                        "dataid": 7821268,
+                        "countofitems": 7315,
+                        "sizeofallversions": 2273541593
+                    },
+                    {
+                        "name": "CR - Crown Research Institutes (CRIs)",
+                        "dataid": 7821269,
+                        "countofitems": 1073,
+                        "sizeofallversions": 312950988
+                    },
+                    {
+                        "name": "ES - Evaluation and Statistics",
+                        "dataid": 7821270,
+                        "countofitems": 1236,
+                        "sizeofallversions": 549850000
+                    },
+                    {
+                        "name": "FM - Finance Management",
+                        "dataid": 7821271,
+                        "countofitems": 254,
+                        "sizeofallversions": 140096765
+                    },
+                    {
+                        "name": "GE - Global Expert Services",
+                        "dataid": 7821272,
+                        "countofitems": 2675,
+                        "sizeofallversions": 800180035
+                    },
+                    {
+                        "name": "GO - Governance",
+                        "dataid": 7821273,
+                        "countofitems": 4546,
+                        "sizeofallversions": 863374169
+                    },
+                    {
+                        "name": "IA - Operational Policy",
+                        "dataid": 7821259,
+                        "countofitems": 536,
+                        "sizeofallversions": 132377833
+                    },
+                    {
+                        "name": "IF - Investment Funding",
+                        "dataid": 7821274,
+                        "countofitems": 8855,
+                        "sizeofallversions": 909294973
+                    },
+                    {
+                        "name": "IL - International",
+                        "dataid": 7821275,
+                        "countofitems": 5388,
+                        "sizeofallversions": 1000563257
+                    },
+                    {
+                        "name": "IM - Information Management",
+                        "dataid": 7821276,
+                        "countofitems": 4470,
+                        "sizeofallversions": 732081914
+                    },
+                    {
+                        "name": "IR - Investment Performance, Reviews & Analysis",
+                        "dataid": 7821260,
+                        "countofitems": 1058,
+                        "sizeofallversions": 245824852
+                    },
+                    {
+                        "name": "IS - Investment Strategy and Processes",
+                        "dataid": 7821277,
+                        "countofitems": 2391,
+                        "sizeofallversions": 598877131
+                    },
+                    {
+                        "name": "MA - Marketing and Communications",
+                        "dataid": 7821261,
+                        "countofitems": 2842,
+                        "sizeofallversions": 673397528
+                    },
+                    {
+                        "name": "MI - Minister and Cabinet",
+                        "dataid": 7821262,
+                        "countofitems": 4999,
+                        "sizeofallversions": 1183753118
+                    },
+                    {
+                        "name": "OC - Office of the Chief Executive",
+                        "dataid": 7821278,
+                        "countofitems": 101,
+                        "sizeofallversions": 5884240
+                    },
+                    {
+                        "name": "PM - Project Management",
+                        "dataid": 7821263,
+                        "countofitems": 444,
+                        "sizeofallversions": 52641431
+                    },
+                    {
+                        "name": "RA - Risk and Assurance",
+                        "dataid": 7821279,
+                        "countofitems": 894,
+                        "sizeofallversions": 88527078
+                    },
+                    {
+                        "name": "SCSI - Science Skills & Innovation",
+                        "dataid": 7821280,
+                        "countofitems": 468,
+                        "sizeofallversions": 81508276
+                    },
+                    {
+                        "name": "SI - Science and Innovation and System Wide Policy",
+                        "dataid": 7821264,
+                        "countofitems": 2821,
+                        "sizeofallversions": 749694380
+                    },
+                    {
+                        "name": "SR - Stakeholder Relationships",
+                        "dataid": 7821281,
+                        "countofitems": 1327,
+                        "sizeofallversions": 189691583
+                    },
+                    {
+                        "name": "ST - Science and Innovation System Strategy",
+                        "dataid": 7821282,
+                        "countofitems": 2568,
+                        "sizeofallversions": 940369698
+                    },
+                    {
+                        "name": "TE - NZ Trade and Enterprise",
+                        "dataid": 7821265,
+                        "countofitems": 6,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "TM - Team Management",
+                        "dataid": 7821283,
+                        "countofitems": 1324,
+                        "sizeofallversions": 300836627
+                    },
+                    {
+                        "name": "VM - Vote Management Process",
+                        "dataid": 7821284,
+                        "countofitems": 166,
+                        "sizeofallversions": 22326317
+                    }
+                ]
+            },
+            {
+                "name": "xStandards NZ Library",
+                "dataid": 45583211,
+                "countofitems": 2,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Archive",
+                        "dataid": 46313668,
+                        "countofitems": 14434,
+                        "sizeofallversions": 16696961223
+                    },
+                    {
+                        "name": "Office Services",
+                        "dataid": 46315201,
+                        "countofitems": 868,
+                        "sizeofallversions": 82611095
+                    }
+                ]
+            },
+            {
+                "name": "Z_Administrative Links",
+                "dataid": 243772,
+                "countofitems": 24,
+                "sizeofallversions": 968,
+                "children": [
+                    {
+                        "name": "ActiveViews",
+                        "dataid": 81188488,
+                        "countofitems": 32,
+                        "sizeofallversions": 59880006
+                    },
+                    {
+                        "name": "Apply Business Workspace Classifications",
+                        "dataid": 81189368,
+                        "countofitems": 6,
+                        "sizeofallversions": 317105
+                    },
+                    {
+                        "name": "Audit Links",
+                        "dataid": 263860,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Business Administrator Reports",
+                        "dataid": 74979754,
+                        "countofitems": 15,
+                        "sizeofallversions": 226824
+                    },
+                    {
+                        "name": "Categories Volume",
+                        "dataid": 261901,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Category Templates and Forms",
+                        "dataid": 261199,
+                        "countofitems": 80,
+                        "sizeofallversions": 60335
+                    },
+                    {
+                        "name": "Global Metadata Stub Search",
+                        "dataid": 262657,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "LargeFolderMove",
+                        "dataid": 80471330,
+                        "countofitems": 1073,
+                        "sizeofallversions": 369458249
+                    },
+                    {
+                        "name": "MAKO Search Statistics",
+                        "dataid": 261751,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Mako Support Reports",
+                        "dataid": 73315257,
+                        "countofitems": 36,
+                        "sizeofallversions": 1236513
+                    },
+                    {
+                        "name": "MBIE Admin Reports",
+                        "dataid": 28216937,
+                        "countofitems": 94,
+                        "sizeofallversions": 4630412
+                    },
+                    {
+                        "name": "Performance Benchmarking",
+                        "dataid": 484808,
+                        "countofitems": 264,
+                        "sizeofallversions": 523412502
+                    },
+                    {
+                        "name": "Purge Recycle Bin Content",
+                        "dataid": 16774668,
+                        "countofitems": 27,
+                        "sizeofallversions": 1745968
+                    },
+                    {
+                        "name": "Recycle Bin Access",
+                        "dataid": 265065,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Reports Volume",
+                        "dataid": 2777768,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Search Templates",
+                        "dataid": 261752,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Smart View",
+                        "dataid": 80472310,
+                        "countofitems": 44,
+                        "sizeofallversions": 8542061
+                    },
+                    {
+                        "name": "Techtonics Reports",
+                        "dataid": 180192,
+                        "countofitems": 256,
+                        "sizeofallversions": 112739832
+                    },
+                    {
+                        "name": "Techtonics Utilities",
+                        "dataid": 49929137,
+                        "countofitems": 2248,
+                        "sizeofallversions": 457065346
+                    },
+                    {
+                        "name": "Templates Admin Volume",
+                        "dataid": 264766,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Workflows",
+                        "dataid": 11494690,
+                        "countofitems": 921,
+                        "sizeofallversions": 846745112
+                    },
+                    {
+                        "name": "xCategory Forms",
+                        "dataid": 256139,
+                        "countofitems": 1,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "xMinisterial Mako reporting system based on metadata",
+                        "dataid": 29499529,
+                        "countofitems": 13,
+                        "sizeofallversions": 321682
+                    },
+                    {
+                        "name": "zWorkspace Testing",
+                        "dataid": 81161077,
+                        "countofitems": 1,
+                        "sizeofallversions": 17663
+                    }
+                ]
+            },
+            {
+                "name": "z_SP_Teams",
+                "dataid": 81157461,
+                "countofitems": 5,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "EXTCOREProject",
+                        "dataid": 81481049,
+                        "countofitems": 8,
+                        "sizeofallversions": 241459
+                    },
+                    {
+                        "name": "EXTTTMAKOWorkstream",
+                        "dataid": 81482358,
+                        "countofitems": 18,
+                        "sizeofallversions": 10371787
+                    },
+                    {
+                        "name": "Shared Documents",
+                        "dataid": 81481810,
+                        "countofitems": 1,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "SP Team A",
+                        "dataid": 81157463,
+                        "countofitems": 5,
+                        "sizeofallversions": 77118
+                    },
+                    {
+                        "name": "Test",
+                        "dataid": 81584704,
+                        "countofitems": 14,
+                        "sizeofallversions": 582900
+                    }
+                ]
+            },
+            {
+                "name": "zArchived Sharepoint ON Line AGA",
+                "dataid": 81203633,
+                "countofitems": 15,
+                "sizeofallversions": 0,
+                "children": [
+                    {
+                        "name": "Demo AGA based on Rules",
+                        "dataid": 81649828,
+                        "countofitems": 135,
+                        "sizeofallversions": 625330783
+                    },
+                    {
+                        "name": "Demo structure",
+                        "dataid": 81952983,
+                        "countofitems": 22,
+                        "sizeofallversions": 673289
+                    },
+                    {
+                        "name": "Dynamics365 Archiving Testing",
+                        "dataid": 81882514,
+                        "countofitems": 24,
+                        "sizeofallversions": 1305520
+                    },
+                    {
+                        "name": "NZTE Test Container",
+                        "dataid": 81498890,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Old one do not use WKG-INTzzBaldrick",
+                        "dataid": 81232358,
+                        "countofitems": 17,
+                        "sizeofallversions": 20105195
+                    },
+                    {
+                        "name": "OneDrive Archive Test",
+                        "dataid": 81882513,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Pitau Demo Test",
+                        "dataid": 82020492,
+                        "countofitems": 8,
+                        "sizeofallversions": 804601
+                    },
+                    {
+                        "name": "Shared Documents",
+                        "dataid": 81475430,
+                        "countofitems": 76,
+                        "sizeofallversions": 489766309
+                    },
+                    {
+                        "name": "Site Archiving",
+                        "dataid": 81496352,
+                        "countofitems": 7,
+                        "sizeofallversions": 19426442
+                    },
+                    {
+                        "name": "Subfolder Test",
+                        "dataid": 82095183,
+                        "countofitems": 14,
+                        "sizeofallversions": 2410291
+                    },
+                    {
+                        "name": "Test inheritance",
+                        "dataid": 81239839,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "WKG-INTzzBaldrick",
+                        "dataid": 81475650,
+                        "countofitems": 6,
+                        "sizeofallversions": 98270
+                    },
+                    {
+                        "name": "woc",
+                        "dataid": 81609034,
+                        "countofitems": 87,
+                        "sizeofallversions": 948506155
+                    },
+                    {
+                        "name": "zLord Flashheart Team",
+                        "dataid": 81528114,
+                        "countofitems": 13,
+                        "sizeofallversions": 1487659
+                    },
+                    {
+                        "name": "zzKing Kong limited [123456789012]",
+                        "dataid": 81246986,
+                        "countofitems": 9,
+                        "sizeofallversions": 2850009
+                    }
+                ]
+            },
+            {
+                "name": "zzTesting",
+                "dataid": 510548,
+                "countofitems": 54,
+                "sizeofallversions": 8109521,
+                "children": [
+                    {
+                        "name": "_UAT test folder area (Level 2)",
+                        "dataid": 73081100,
+                        "countofitems": 644,
+                        "sizeofallversions": 356985989
+                    },
+                    {
+                        "name": "10.5 test folder",
+                        "dataid": 30211778,
+                        "countofitems": 41,
+                        "sizeofallversions": 5660975
+                    },
+                    {
+                        "name": "2015 October Techtonics Testing Copy",
+                        "dataid": 81094508,
+                        "countofitems": 972,
+                        "sizeofallversions": 279558507
+                    },
+                    {
+                        "name": "Alex Structure",
+                        "dataid": 81417307,
+                        "countofitems": 4272,
+                        "sizeofallversions": 3052595617
+                    },
+                    {
+                        "name": "Appraised Content",
+                        "dataid": 64343887,
+                        "countofitems": 10112,
+                        "sizeofallversions": 5535251071
+                    },
+                    {
+                        "name": "Atturra",
+                        "dataid": 82569902,
+                        "countofitems": 11,
+                        "sizeofallversions": 1339782
+                    },
+                    {
+                        "name": "Consenting Excellence Programme",
+                        "dataid": 22934384,
+                        "countofitems": 3,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "CS Mobile UAT Test",
+                        "dataid": 81220541,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "CSM UAT Test 2",
+                        "dataid": 81220430,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Doktrak",
+                        "dataid": 28190018,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "ExampleImport",
+                        "dataid": 82484067,
+                        "countofitems": 5,
+                        "sizeofallversions": 6949346
+                    },
+                    {
+                        "name": "ExampleImport2",
+                        "dataid": 82484177,
+                        "countofitems": 5,
+                        "sizeofallversions": 6949346
+                    },
+                    {
+                        "name": "Folder Creation Demo",
+                        "dataid": 65049401,
+                        "countofitems": 7,
+                        "sizeofallversions": 238681
+                    },
+                    {
+                        "name": "Folder Creation Demo Copy to test classifications",
+                        "dataid": 81212757,
+                        "countofitems": 4,
+                        "sizeofallversions": 238681
+                    },
+                    {
+                        "name": "FSI Demo",
+                        "dataid": 82448270,
+                        "countofitems": 2,
+                        "sizeofallversions": 9117
+                    },
+                    {
+                        "name": "FW  For Your MAKO Training",
+                        "dataid": 1416248,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "FW  MAKO [IN-CONFIDENCE RELEASE EXTERNAL]",
+                        "dataid": 81322270,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "groups",
+                        "dataid": 81653463,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "HTML DASHBOARD POC",
+                        "dataid": 82217551,
+                        "countofitems": 78,
+                        "sizeofallversions": 34396294
+                    },
+                    {
+                        "name": "INSITE Workshop",
+                        "dataid": 81481697,
+                        "countofitems": 2,
+                        "sizeofallversions": 18453
+                    },
+                    {
+                        "name": "Jacob's test folder",
+                        "dataid": 82056984,
+                        "countofitems": 45,
+                        "sizeofallversions": 35326560
+                    },
+                    {
+                        "name": "level 3 folder create test",
+                        "dataid": 81255339,
+                        "countofitems": 11,
+                        "sizeofallversions": 1438163
+                    },
+                    {
+                        "name": "Licensing",
+                        "dataid": 68368255,
+                        "countofitems": 38,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Loraine",
+                        "dataid": 78116534,
+                        "countofitems": 26,
+                        "sizeofallversions": 91063
+                    },
+                    {
+                        "name": "Mako Support Reports - UAT",
+                        "dataid": 77030231,
+                        "countofitems": 5,
+                        "sizeofallversions": 127542
+                    },
+                    {
+                        "name": "Managing Information and Data",
+                        "dataid": 25316520,
+                        "countofitems": 48,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Mark - Atturra",
+                        "dataid": 81619660,
+                        "countofitems": 10145,
+                        "sizeofallversions": 5544446573
+                    },
+                    {
+                        "name": "MBIE Record and GDA6 - all primary",
+                        "dataid": 72237277,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "MBIE Record Superceded and new MBIE class - all primary",
+                        "dataid": 72284168,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "MFS",
+                        "dataid": 82352563,
+                        "countofitems": 47,
+                        "sizeofallversions": 325500961
+                    },
+                    {
+                        "name": "Next Mako 20.4 test 30/11",
+                        "dataid": 81323110,
+                        "countofitems": 1,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Nintex Testing",
+                        "dataid": 72174230,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Office365 Workspace Testing",
+                        "dataid": 81156355,
+                        "countofitems": 4,
+                        "sizeofallversions": 18536
+                    },
+                    {
+                        "name": "One Note test",
+                        "dataid": 67248185,
+                        "countofitems": 3,
+                        "sizeofallversions": 13528
+                    },
+                    {
+                        "name": "Performance Testing - Techtonics",
+                        "dataid": 80267199,
+                        "countofitems": 3,
+                        "sizeofallversions": 1401582
+                    },
+                    {
+                        "name": "PRRA test folder created at level 3",
+                        "dataid": 81255340,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Recycle Bin",
+                        "dataid": 81952869,
+                        "countofitems": 11,
+                        "sizeofallversions": 110581
+                    },
+                    {
+                        "name": "Scanning and Saving PDF into MAKO",
+                        "dataid": 80359404,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "storage proivder change test 2",
+                        "dataid": 80359407,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "storage proivder change test 21",
+                        "dataid": 81088439,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Test 2",
+                        "dataid": 75664721,
+                        "countofitems": 43,
+                        "sizeofallversions": 2322921
+                    },
+                    {
+                        "name": "Test ActiveViews Folder",
+                        "dataid": 81190358,
+                        "countofitems": 10,
+                        "sizeofallversions": 2723390
+                    },
+                    {
+                        "name": "Test Class.01 - Testing docs - disposal in UAT",
+                        "dataid": 81263864,
+                        "countofitems": 2,
+                        "sizeofallversions": 433015
+                    },
+                    {
+                        "name": "Test Collection",
+                        "dataid": 81416820,
+                        "countofitems": 0,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "test discussion",
+                        "dataid": 81218560,
+                        "countofitems": 2,
+                        "sizeofallversions": 0
+                    },
+                    {
+                        "name": "Test for level 3 PRRA folder",
+                        "dataid": 81255341,
+                        "countofitems": 1,
+                        "sizeofallversions": 29318
+                    },
+                    {
+                        "name": "UAT test folder area (level 3)",
+                        "dataid": 81255342,
+                        "countofitems": 124,
+                        "sizeofallversions": 299481930
+                    },
+                    {
+                        "name": "UI Widgets",
+                        "dataid": 63726989,
+                        "countofitems": 17,
+                        "sizeofallversions": 261728
+                    },
+                    {
+                        "name": "Update 1 - System Testing",
+                        "dataid": 6624191,
+                        "countofitems": 43,
+                        "sizeofallversions": 5176583
+                    },
+                    {
+                        "name": "Wiki test",
+                        "dataid": 81220212,
+                        "countofitems": 4,
+                        "sizeofallversions": 179058
+                    },
+                    {
+                        "name": "Workflow development",
+                        "dataid": 52709425,
+                        "countofitems": 3055,
+                        "sizeofallversions": 2534487340
+                    },
+                    {
+                        "name": "Workflow Testing",
+                        "dataid": 12144453,
+                        "countofitems": 1397,
+                        "sizeofallversions": 4730345
+                    },
+                    {
+                        "name": "Workflow training",
+                        "dataid": 71215919,
+                        "countofitems": 65,
+                        "sizeofallversions": 864826
+                    },
+                    {
+                        "name": "Workflows",
+                        "dataid": 55883952,
+                        "countofitems": 2258,
+                        "sizeofallversions": 455854833
+                    }
+                ]
+            }
+        ]
+    }
+]
