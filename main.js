@@ -1,8 +1,9 @@
 async function init () {
-  //const data = await fetchSourceData('./heirarchy-data.json');
-  //const data = await fetchSourceData('./heirarchy-data-mini.json');
+  //const data = await fetchSourceJson('./heirarchy-data.json');
+  //const data = await fetchSourceJson('./heirarchy-data-mini.json');
 
-  const table = await fetchSourceData('./heirarchy.csv')
+  const csv = await fetchSourceCsv('./heirarchy.csv')
+  const table = d3.csvParse(csv);
   const data = d3.stratify()
                   .id((d) => d.Name)
                   .parentId((d) => d.ParentID)(table);
@@ -106,11 +107,22 @@ function initIcicleChart(data, getValue) {
   //return svg.node();
 }
 
-async function fetchSourceData(fileName) {
+async function fetchSourceJson(fileName) {
   try {
     const response = await fetch(fileName);
     var json = await response.json();
     return json[0];
+  } 
+  catch (error) {
+    console.error("Unable to fetch data:", error);
+  }
+}
+
+async function fetchSourceCsv(fileName) {
+  try {
+    const response = await fetch(fileName);
+    var csv = await response();
+    return csv;
   } 
   catch (error) {
     console.error("Unable to fetch data:", error);
