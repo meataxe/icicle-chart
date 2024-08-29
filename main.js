@@ -1,11 +1,11 @@
 async function init () {
   const dataFromJson = await fetchSourceJson('./heirarchy-data.json');
-  //const data = await fetchSourceJson('./heirarchy-data-mini.json');
+  //const dataFromJson = await fetchSourceJson('./heirarchy-data-mini.json');
 
   console.log(dataFromJson);
 
-  //initExampleChart(data);  
-  initIcicleChart(dataFromCsv, (i) => i.countofitems); // todo: fix count of items, so it is only count of immediate children (apart from lowest level folders)
+  //initExampleChart(dataFromJson);  
+  initIcicleChart(dataFromJson, (i) => i.countofitems); // todo: fix count of items, so it is only count of immediate children (apart from lowest level folders)
 }
 
 function initIcicleChart(data, getValue) {
@@ -104,17 +104,6 @@ async function fetchSourceJson(fileName) {
     const response = await fetch(fileName);
     var json = await response.json();
     return json[0];
-  } 
-  catch (error) {
-    console.error("Unable to fetch data:", error);
-  }
-}
-
-async function fetchSourceCsv(fileName) {
-  try {
-    const response = await fetch(fileName);
-    var csv = await response.text();
-    return csv;
   } 
   catch (error) {
     console.error("Unable to fetch data:", error);
