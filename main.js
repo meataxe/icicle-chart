@@ -16,8 +16,8 @@ async function init () {
 
 function initIcicleChart(data, getValue) {
   // Specify the chart’s dimensions.
-  const width = 928;
-  const height = 1200;
+  const width = 990;
+  const height = 800;
 
   // Create the color scale.
   const color = d3.scaleOrdinal(d3.quantize(d3.interpolateRainbow, data.children.length + 1));
