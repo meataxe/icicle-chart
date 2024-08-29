@@ -101,7 +101,7 @@ function initIcicleChart(data, getValue) {
     return d.y1 <= width && d.y0 >= 0 && d.x1 - d.x0 > 16;
   }
 
-  document.getElementById('#icicle-container').innerHTML = "";
+  document.getElementById('icicle-container').innerHTML = "";
   d3.select('#icicle-container').node().appendChild(svg.node());  
 }
 
