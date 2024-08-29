@@ -2,19 +2,10 @@ async function init () {
   const dataFromJson = await fetchSourceJson('./heirarchy-data.json');
   //const data = await fetchSourceJson('./heirarchy-data-mini.json');
 
-  const csv = await fetchSourceCsv('./heirarchy.csv')
-  const table = d3.csvParse(csv);
-  table[0].ParentID = ''; // clear the parent for the root node.
-  
-  const dataFromCsv = d3.stratify()
-                  .id((d) => d.DataID)
-                  .parentId((d) => d.ParentID)(table);
-
   console.log(dataFromJson);
-  console.log(dataFromCsv);
 
   //initExampleChart(data);  
-  initIcicleChart(dataFromCsv, (i) => i.data.CountOfItems); // todo: fix count of items, so it is only count of immediate children (apart from lowest level folders)
+  initIcicleChart(dataFromCsv, (i) => i.countofitems); // todo: fix count of items, so it is only count of immediate children (apart from lowest level folders)
 }
 
 function initIcicleChart(data, getValue) {
