@@ -121,7 +121,7 @@ async function fetchSourceJson(fileName) {
 async function fetchSourceCsv(fileName) {
   try {
     const response = await fetch(fileName);
-    var csv = await response();
+    var csv = await response.text();
     return csv;
   } 
   catch (error) {
