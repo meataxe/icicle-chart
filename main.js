@@ -6,11 +6,11 @@ async function init () {
   const select = document.getElementById('heirarchy-metric');
   select.addEventListener('click', ({ target }) => { // handler fires on root container click
     if (target.getAttribute('name') === 'btn-metric') { // check if user clicks right element
-      initIcicleChart(dataFromJson, (i) => i[target.value]);
+      initIcicleChart(dataFromJson, (i) => i[target.dataset.value]);
     }
   });
 
-  const metricName = document.querySelector('input[name="btn-metric"]:checked').value;
+  const metricName = document.querySelector('input[name="btn-metric"]:checked').dataset.value;
   initIcicleChart(dataFromJson, (i) => i[metricName]);
 }
 
