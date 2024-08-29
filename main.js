@@ -7,7 +7,7 @@ async function init () {
   table[0].ParentID = ''; // clear the parent for the root node.
   
   const data = d3.stratify()
-                  .id((d) => d.Name)
+                  .id((d) => d.DataID)
                   .parentId((d) => d.ParentID)(table);
   
   console.log(data);
