@@ -1,3 +1,14 @@
+[// display the name of the WebReport as the HTML title
+<script>
+    document.title = "[LL_REPTAG_MYID NODEINFO:NAME /]";
+</script>	
+
+[// display the name of the webreport node
+<B>[LL_REPTAG_MYID NODEINFO:NAME /]</B>
+
+[// include the up-a-level icon.  
+[LL_REPTAG_MYID LLURL:UPALEVEL /]<BR><BR>
+
 <div class="container my-5">
   <h1>icicle chart</h1>
   <div class="col-lg-8 px-0"> 
@@ -41,7 +52,8 @@
 
 <script>
 	async function init () {
-	  const dataFromJson = await fetchSourceJson('./heirarchy-data.json');
+	  //const dataFromJson = await fetchSourceJson('./heirarchy-data.json');
+	  const dataFromJson = await fetchSourceJson('/otcs/llisapi.dll?func=ll&objId=163072812&objAction=download');
 	  //const dataFromJson = await fetchSourceJson('./heirarchy-data-mini.json');
 	  //console.log(dataFromJson);
 
