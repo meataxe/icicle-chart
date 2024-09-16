@@ -13,44 +13,45 @@
       <div class="col-lg-8 px-0"> 
         Showing top three levels of MAKO UAT folder structure by:
       </div>      
-      <div class="col-lg-8 px-0"> 
-        <div class="btn-group" role="group" aria-label="Basic radio toggle button group" id="heirarchy-metric">
-          <input type="radio" class="btn-check" name="btn-metric" id="btn-metric1" autocomplete="off" data-value="countofitems" checked>
-          <label class="btn btn-outline-primary" for="btn-metric1">Count</label>
-          <input type="radio" class="btn-check" name="btn-metric" id="btn-metric2" autocomplete="off" data-value="sizeofallversions">
-          <label class="btn btn-outline-primary" for="btn-metric2">Size</label>  
-        </div> 
+      <div class="row">
+        <div class="col-lg-8 px-0"> 
+          <div class="btn-group" role="group" aria-label="Basic radio toggle button group" id="heirarchy-metric">
+            <input type="radio" class="btn-check" name="btn-metric" id="btn-metric1" autocomplete="off" data-value="countofitems" checked>
+            <label class="btn btn-outline-primary" for="btn-metric1">Count</label>
+            <input type="radio" class="btn-check" name="btn-metric" id="btn-metric2" autocomplete="off" data-value="sizeofallversions">
+            <label class="btn btn-outline-primary" for="btn-metric2">Size</label>  
+          </div> 
+        </div>
       </div>
-      <div class="col-lg-8 px-0">        
-        <div class="row mb-3">
-          <div class="col-12">
-            <div id="icicle-container"></div>
+      <div class="row">
+        <div class="col-lg-8 px-0">        
+          <div class="row mb-3">
+            <div class="col-12">
+              <div id="icicle-container"></div>
+            </div>
+          </div>          
+        </div>
+        <div class="col-lg-4 px-0">        
+          <div class="row mb-3">
+            <div class="col-12">
+              <h1 id="details-header"></h1>
+            </div>
           </div>
-        </div>        
+          <div class="row mb-3">
+            <div class="col-12">
+              <div id="details-content"></div>
+            </div>
+          </div>        
+        </div>
+      </div>
+      <div class="row">
         <hr class="col-1 my-4">
 
         <div class="col-lg-8 px-0">
           see: <a href="https://github.com/meataxe/icicle-chart">github repo</a>
         </div>
       </div>
-      <div class="col-lg-4 px-0">        
-        <div class="row mb-3">
-          <div class="col-12">
-            <h1 id="details-header"></h1>
-          </div>
-        </div>
-        <div class="row mb-3">
-          <div class="col-12">
-            <div id="details-content"></div>
-          </div>
-        </div>        
-        <hr class="col-1 my-4">
-
-        <div class="col-lg-8 px-0">
-          see: <a href="https://github.com/meataxe/icicle-chart">github repo</a>
-        </div>
-      </div>
-    </div>
+    
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
