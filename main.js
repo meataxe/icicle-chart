@@ -82,21 +82,26 @@ function initIcicleChart(data, getValue) {
   function clicked(event, p) {
     focus = focus === p ? p = p.parent : p;
 
-    root.each(d => d.target = {
-      x0: (d.x0 - p.x0) / (p.x1 - p.x0) * height,
-      x1: (d.x1 - p.x0) / (p.x1 - p.x0) * height,
-      y0: d.y0 - p.y0,
-      y1: d.y1 - p.y0
-    });
+    if (p !== null) {    
+      root.each(d => d.target = {
+        x0: (d.x0 - p.x0) / (p.x1 - p.x0) * height,
+        x1: (d.x1 - p.x0) / (p.x1 - p.x0) * height,
+        y0: d.y0 - p.y0,
+        y1: d.y1 - p.y0
+      });
+  
+      const t = cell.transition().duration(750)
+          .attr("transform", d => `translate(${d.target.y0},${d.target.x0})`);
+  
+      rect.transition(t).attr("height", d => rectHeight(d.target));
+      text.transition(t).attr("fill-opacity", d => +labelVisible(d.target));
+      tspan.transition(t).attr("fill-opacity", d => labelVisible(d.target) * 0.7);
 
-    const t = cell.transition().duration(750)
-        .attr("transform", d => `translate(${d.target.y0},${d.target.x0})`);
-
-    rect.transition(t).attr("height", d => rectHeight(d.target));
-    text.transition(t).attr("fill-opacity", d => +labelVisible(d.target));
-    tspan.transition(t).attr("fill-opacity", d => labelVisible(d.target) * 0.7);
-
-    updateDetails(focus);
+      updateDetails(focus);
+    } else {    
+      // enterprise / top-level thing
+      updateDetails(event.currentTarget.__data__);
+    }
   }
 
   function updateDetails(focus) {
