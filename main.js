@@ -10,8 +10,12 @@ async function init () {
     }
   });
 
-  const metricName = document.querySelector('input[name="btn-metric"]:checked').dataset.value;
+  const metricName = getSelectedMetric();
   initIcicleChart(dataFromJson, (i) => i[metricName]);
+}
+
+function getSelectedMetric() {
+  return document.querySelector('input[name="btn-metric"]:checked').dataset.value;
 }
 
 function initIcicleChart(data, getValue) {
@@ -91,6 +95,15 @@ function initIcicleChart(data, getValue) {
     rect.transition(t).attr("height", d => rectHeight(d.target));
     text.transition(t).attr("fill-opacity", d => +labelVisible(d.target));
     tspan.transition(t).attr("fill-opacity", d => labelVisible(d.target) * 0.7);
+
+    updateDetails(focus);
+  }
+
+  function updateDetails(focus) {
+    document.getElementById("details-header").textContent = focus.data.name;
+
+    const metricName = getSelectedMetric();
+    
   }
   
   function rectHeight(d) {
